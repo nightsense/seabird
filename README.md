@@ -1,8 +1,6 @@
 # seabird
 
-A Vim theme based on hue 202 <img src="img/seabird.png" height="30">, a soothing blue of sea and sky.
-
-seabird consists of a light theme, **seagull**, and a dark theme, **petrel**.
+A Vim theme based on hue 202 <img src="img/seabird.png" height="30">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
 seabird works in the gui (Linux/Windows GVim, MacVim; also Neovim) and the terminal, and supports true (24-bit) colour.
 
