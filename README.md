@@ -1,6 +1,6 @@
 # seabird
 
-A Vim colour scheme based on hue 202 <img src="img/seabird.png" height="30">, a soothing blue of sea and sky.
+A Vim theme based on hue 202 <img src="img/seabird.png" height="30">, a soothing blue of sea and sky.
 
 seabird consists of a light theme, **seagull**, and a dark theme, **petrel**.
 
