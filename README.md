@@ -2,7 +2,7 @@
 
 A Vim theme based on hue 202 <img src="http://www.colorhexa.com/28a3eb.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
-seabird works in the gui (Linux/Windows GVim, MacVim; also Neovim) and the terminal, and supports true (24-bit) colour.
+Featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
 ## screenshots
 
