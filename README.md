@@ -99,7 +99,7 @@ blue   | 202
 purple | 262
 pink   | 322
 
-Each hue was assigned an experiment-determined amount of saturation (60, 70, 80, or 90), with lower-contrast hues (yellow, teal) generally receiving more, higher-contrast (red, purple) less. All hues were initially assigned 100% value, but for some a decrease was necessary to attain a contrast ratio of 2½:1. Experiment showed this ratio to be the maximum at which colours remained sufficiently bright for the desired look of seagull.
+Each hue was assigned an experiment-determined amount of saturation (at intervals of 10), with lower-contrast hues generally receiving more. All hues were initially assigned 100% value, but for some a decrease was necessary to attain a contrast ratio of 2½:1. Experiment showed this ratio to be the maximum at which colours remained sufficiently bright for the desired look of seagull.
 
 seagull accent colour                                                         | hex      | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-------|--------------|--------
