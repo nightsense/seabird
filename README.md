@@ -9,7 +9,7 @@ Featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) 
 seagull | | petrel
 -----------------------------------------------------------------------|------------|---------------
  | |
-<img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff5a70.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff8640.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/bda820.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/34ba20.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/1fb5a1.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/29a8f2.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/ac7aff.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff78ce.png" height="24" width="39"> | <img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="300"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="300"> | <img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/b56771.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a67253.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a803e.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/498c3f.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/3e8a80.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/4b85a6.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8972b0.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66b91.png" height="24" width="39">
+<img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4d65.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff7e33.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/baa313.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/39ba25.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/12b8a2.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/30abf2.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9e66ff.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff66c7.png" height="24" width="39"> | <img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="300"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="300"> | <img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ba636e.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a8704f.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/877e41.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4c8c42.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/418a80.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/4d84a3.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b70ba.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ab6792.png" height="24" width="39">
 
 ## installation
 
@@ -99,40 +99,33 @@ blue   | 202
 purple | 262
 pink   | 322
 
-The above hues, at 100% value and saturation against a white background, can be divided into two groups:
+Each hue was assigned an experiment-determined amount of saturation (60, 70, 80, or 90), with lower-contrast hues (yellow, teal) generally receiving more, higher-contrast (red, purple) less. All hues were initially assigned 100% value, but for some a decrease was necessary to attain a contrast ratio of 2½:1. Experiment showed this ratio to be the maximum at which colours remained sufficiently bright for the desired look of seagull.
 
-1. high-contrast colours: **purple**, **pink**, **red**, **orange**
-2. low-contrast colours: **yellow**, **green**, **teal**, **blue**
-
-For group 1 colours, contrast was lowered by lowering saturation. For group 2 colours, saturation was lowered by ⅛ to avoid excessive vibrancy; contrast was then raised by lowering value.
-
-Contrast was adjusted to an initial ratio of 3:1 (the ISO-recommended ['standard minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text), then fine-tuned in ⅛ intervals to bring out the character of each colour.
-
-seagull accent colour                                                         | hex      | contrast ratio\* | hue ° | saturation % | value %
-------------------------------------------------------------------------------|----------|------------------| ------|--------------|--------
-<img src="http://www.colorhexa.com/ff4a62.png" height="24" width="39"> red    | `ff5a70` | 3                | 352   | 65           | 100
-<img src="http://www.colorhexa.com/ff8036.png" height="24" width="39"> orange | `ff8640` | 2⅜               | 22    | 75           | 100
-<img src="http://www.colorhexa.com/bfaa21.png" height="24" width="39"> yellow | `bda820` | 2⅜               | 52    | 83           | 74
-<img src="http://www.colorhexa.com/31b31e.png" height="24" width="39"> green  | `34ba20` | 2½               | 112   | 83           | 73
-<img src="http://www.colorhexa.com/1fb5a1.png" height="24" width="39"> teal   | `1fb5a1` | 2½               | 172   | 83           | 71
-<img src="http://www.colorhexa.com/28a3eb.png" height="24" width="39"> blue   | `29a8f2` | 2⅝               | 202   | 83           | 95
-<img src="http://www.colorhexa.com/a570ff.png" height="24" width="39"> purple | `ac7aff` | 3                | 262   | 52           | 100
-<img src="http://www.colorhexa.com/ff6eca.png" height="24" width="39"> pink   | `ff78ce` | 2⅜               | 322   | 53           | 100
+seagull accent colour                                                         | hex      | hue ° | saturation % | value %
+------------------------------------------------------------------------------|----------|-------|--------------|--------
+<img src="http://www.colorhexa.com/ff4d65.png" height="24" width="39"> red    | `ff4d65` | 352   | 70           | 100
+<img src="http://www.colorhexa.com/ff7e33.png" height="24" width="39"> orange | `ff7e33` | 22    | 80           | 100
+<img src="http://www.colorhexa.com/baa313.png" height="24" width="39"> yellow | `baa313` | 52    | 90           | 73
+<img src="http://www.colorhexa.com/39ba25.png" height="24" width="39"> green  | `39ba25` | 112   | 80           | 73
+<img src="http://www.colorhexa.com/12b8a2.png" height="24" width="39"> teal   | `12b8a2` | 172   | 90           | 72
+<img src="http://www.colorhexa.com/30abf2.png" height="24" width="39"> blue   | `30abf2` | 202   | 80           | 95
+<img src="http://www.colorhexa.com/9e66ff.png" height="24" width="39"> purple | `9e66ff` | 262   | 60           | 100
+<img src="http://www.colorhexa.com/ff66c7.png" height="24" width="39"> pink   | `ff66c7` | 322   | 60           | 100
 
 ### step 4: choose petrel accent colours
 
-The seagull accent colours were converted to the petrel theme by reducing saturation of all colours by ⅓, then adjusting value to achieve 4½:1 contrast ratio\* (the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text) with the petrel background.
+The seagull accent colours were converted to the petrel theme by reducing saturation of all hues by ⅓, then adjusting value to achieve 4½:1 contrast ratio\* (the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text) with the petrel background.
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-------|--------------|--------
-<img src="http://www.colorhexa.com/cc6674.png" height="24" width="39"> red    | `b56771` | 352   | 43           | 80
-<img src="http://www.colorhexa.com/b07857.png" height="24" width="39"> orange | `a67253` | 22    | 50           | 69
-<img src="http://www.colorhexa.com/8f8648.png" height="24" width="39"> yellow | `8a803e` | 52    | 55           | 56
-<img src="http://www.colorhexa.com/51944a.png" height="24" width="39"> green  | `498c3f` | 112   | 55           | 58
-<img src="http://www.colorhexa.com/499187.png" height="24" width="39"> teal   | `3e8a80` | 172   | 55           | 57
-<img src="http://www.colorhexa.com/558cab.png" height="24" width="39"> blue   | `4b85a6` | 202   | 55           | 67
-<img src="http://www.colorhexa.com/917bb8.png" height="24" width="39"> purple | `8972b0` | 262   | 35           | 72
-<img src="http://www.colorhexa.com/ac7397.png" height="24" width="39"> pink   | `a66b91` | 322   | 35           | 67
+<img src="http://www.colorhexa.com/ba636e.png" height="24" width="39"> red    | `ba636e` | 352   | 47           | 73
+<img src="http://www.colorhexa.com/a8704f.png" height="24" width="39"> orange | `a8704f` | 22    | 53           | 66
+<img src="http://www.colorhexa.com/877e41.png" height="24" width="39"> yellow | `877e41` | 52    | 52           | 53
+<img src="http://www.colorhexa.com/4c8c42.png" height="24" width="39"> green  | `4c8c42` | 112   | 53           | 55
+<img src="http://www.colorhexa.com/418a80.png" height="24" width="39"> teal   | `418a80` | 172   | 53           | 54
+<img src="http://www.colorhexa.com/4d84a3.png" height="24" width="39"> blue   | `4d84a3` | 202   | 53           | 64
+<img src="http://www.colorhexa.com/8b70ba.png" height="24" width="39"> purple | `8b70ba` | 262   | 40           | 73
+<img src="http://www.colorhexa.com/ab6792.png" height="24" width="39"> pink   | `ab6792` | 322   | 40           | 67
 
 ## notes
 

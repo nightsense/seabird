@@ -27,24 +27,24 @@
 *color15: S_seagrey8
 
 !! petrel
-#define S_red    #b56771
-#define S_orange #a67253
-#define S_yellow #8a803e
-#define S_green  #498c3f
-#define S_teal   #3e8a80
-#define S_blue   #4b85a6
-#define S_purple #8972b0
-#define S_pink   #a66b91
+#define S_red    #ba636e
+#define S_orange #a8704f
+#define S_yellow #877e41
+#define S_green  #4c8c42
+#define S_teal   #418a80
+#define S_blue   #4d84a3
+#define S_purple #8b70ba
+#define S_pink   #ab6792
 
 !! seagull
-!! #define S_red    #ff5a70
-!! #define S_orange #ff8640
-!! #define S_yellow #bda820
-!! #define S_green  #34ba20
-!! #define S_teal   #1fb5a1
-!! #define S_blue   #29a8f2
-!! #define S_purple #ac7aff
-!! #define S_pink   #ff78ce
+!! #define S_red    #ff4d65
+!! #define S_orange #ff7e33
+!! #define S_yellow #baa313
+!! #define S_green  #39ba25
+!! #define S_teal   #12b8a2
+!! #define S_blue   #30abf2
+!! #define S_purple #9e66ff
+!! #define S_pink   #ff66c7
 
 *color1:  S_red
 *color9:  S_orange
