@@ -34,7 +34,7 @@
 #define S_teal   #418a80
 #define S_blue   #4d84a3
 #define S_purple #8b70ba
-#define S_pink   #ab6792
+#define S_pink   #a36d8f
 
 !! seagull
 !! #define S_red    #ff4d65
@@ -44,7 +44,7 @@
 !! #define S_teal   #12b8a2
 !! #define S_blue   #30abf2
 !! #define S_purple #9e66ff
-!! #define S_pink   #ff66c7
+!! #define S_pink   #f078c4
 
 *color1:  S_red
 *color9:  S_orange

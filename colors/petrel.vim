@@ -57,7 +57,7 @@ hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#787e82  gui=underline
 hi  TabLineSel                              cterm=underline,reverse  ctermfg=10  ctermbg=7  guifg=#61717a  guibg=#e6ebed  guisp=#787e82  gui=underline,reverse
 hi  Title                                   cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
-hi  Todo                                    cterm=NONE  ctermfg=5  guifg=#ab6792  guibg=NONE  gui=bold
+hi  Todo                                    cterm=NONE  ctermfg=5  guifg=#a36d8f  guibg=NONE  gui=bold
 hi  Type                                    ctermfg=3  guifg=#877e41  gui=NONE
 hi  Underlined                              ctermfg=13  guifg=#8b70ba  gui=NONE
 hi  VarId                                   ctermfg=4  guifg=#4d84a3  gui=NONE
@@ -69,7 +69,7 @@ hi  WildMenu                                cterm=reverse  ctermfg=7  ctermbg=0 
 
 hi  cPreCondit                              ctermfg=9  guifg=#a8704f  gui=NONE
 
-hi  gitcommitBranch                         cterm=NONE  ctermfg=5  guifg=#ab6792  gui=NONE
+hi  gitcommitBranch                         cterm=NONE  ctermfg=5  guifg=#a36d8f  gui=NONE
 hi  gitcommitComment                        ctermfg=10  guifg=#61717a  gui=italic
 hi  gitcommitDiscardedFile                  cterm=NONE  ctermfg=1  guifg=#ba636e  gui=NONE
 hi  gitcommitDiscardedType                  ctermfg=1  guifg=#ba636e  gui=NONE
@@ -84,11 +84,11 @@ hi  gitcommitUntrackedFile                  cterm=NONE  ctermfg=6  guifg=#418a80
 
 hi  helpHyperTextEntry                      ctermfg=2  guifg=#4c8c42  gui=NONE
 hi  helpHyperTextJump                       cterm=underline  ctermfg=4  guifg=#4d84a3  gui=underline
-hi  helpNote                                ctermfg=5  guifg=#ab6792  gui=NONE
+hi  helpNote                                ctermfg=5  guifg=#a36d8f  gui=NONE
 hi  helpOption                              ctermfg=6  guifg=#418a80  gui=NONE
-hi  helpVim                                 ctermfg=5  guifg=#ab6792  gui=NONE
+hi  helpVim                                 ctermfg=5  guifg=#a36d8f  gui=NONE
 
-hi  hsImport                                ctermfg=5  guifg=#ab6792  gui=NONE
+hi  hsImport                                ctermfg=5  guifg=#a36d8f  gui=NONE
 hi  hsImportLabel                           ctermfg=6  guifg=#418a80  gui=NONE
 hi  hsModuleName                            cterm=underline  ctermfg=2  guifg=#4c8c42  gui=underline
 hi  hsNiceOperator                          ctermfg=6  guifg=#418a80  gui=NONE
@@ -118,10 +118,10 @@ hi  pandocBlockQuoteLeader3                 ctermfg=3  guifg=#877e41  gui=NONE
 hi  pandocBlockQuoteLeader4                 ctermfg=1  guifg=#ba636e  gui=NONE
 hi  pandocBlockQuoteLeader5                 ctermfg=12  guifg=#787e82  gui=NONE
 hi  pandocBlockQuoteLeader6                 ctermfg=10  guifg=#61717a  gui=NONE
-hi  pandocCitation                          ctermfg=5  guifg=#ab6792  gui=NONE
-hi  pandocCitationDelim                     ctermfg=5  guifg=#ab6792  gui=NONE
-hi  pandocCitationID                        cterm=underline  ctermfg=5  guifg=#ab6792  gui=underline
-hi  pandocCitationRef                       ctermfg=5  guifg=#ab6792  gui=NONE
+hi  pandocCitation                          ctermfg=5  guifg=#a36d8f  gui=NONE
+hi  pandocCitationDelim                     ctermfg=5  guifg=#a36d8f  gui=NONE
+hi  pandocCitationID                        cterm=underline  ctermfg=5  guifg=#a36d8f  gui=underline
+hi  pandocCitationRef                       ctermfg=5  guifg=#a36d8f  gui=NONE
 hi  pandocComment                           ctermfg=10  guifg=#61717a  gui=italic
 hi  pandocDefinitionBlock                   ctermfg=13  guifg=#8b70ba  gui=NONE
 hi  pandocDefinitionIndctr                  cterm=NONE  ctermfg=13  guifg=#8b70ba  gui=NONE
@@ -150,8 +150,8 @@ hi  pandocLinkText                          cterm=NONE,underline  ctermfg=4  gui
 hi  pandocLinkTitle                         cterm=underline  ctermfg=11  guifg=#6d777d  gui=underline
 hi  pandocLinkTitleDelim                    cterm=underline  ctermfg=10  guifg=#61717a  guisp=#6d777d  gui=underline
 hi  pandocLinkURL                           cterm=underline  ctermfg=11  guifg=#6d777d  gui=underline
-hi  pandocListMarker                        ctermfg=5  guifg=#ab6792  gui=NONE
-hi  pandocListReference                     cterm=underline  ctermfg=5  guifg=#ab6792  gui=underline
+hi  pandocListMarker                        ctermfg=5  guifg=#a36d8f  gui=NONE
+hi  pandocListReference                     cterm=underline  ctermfg=5  guifg=#a36d8f  gui=underline
 hi  pandocMetadata                          cterm=NONE  ctermfg=4  guifg=#4d84a3  gui=NONE
 hi  pandocMetadataDelim                     ctermfg=10  guifg=#61717a  gui=NONE
 hi  pandocMetadataKey                       ctermfg=4  guifg=#4d84a3  gui=NONE
@@ -307,7 +307,7 @@ if has('nvim')
   let g:terminal_color_2  = '#4c8c42'
   let g:terminal_color_3  = '#877e41'
   let g:terminal_color_4  = '#4d84a3'
-  let g:terminal_color_5  = '#ab6792'
+  let g:terminal_color_5  = '#a36d8f'
   let g:terminal_color_6  = '#418a80'
   let g:terminal_color_7  = '#e6ebed'
   let g:terminal_color_8  = '#0c141a'
