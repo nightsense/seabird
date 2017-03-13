@@ -1,6 +1,6 @@
 # seabird
 
-A Vim theme based on hue 202 <img src="http://www.colorhexa.com/28a3eb.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
+A Vim theme based on hue 202 <img src="http://www.colorhexa.com/30abf2.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
 Featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
@@ -47,7 +47,7 @@ As of now, this repository only provides one terminal configuration file: `Xreso
 
 ### step 1: choose a principal hue
 
-Hue 202 <img src="http://www.colorhexa.com/28a3eb.png" height="24" width="24"> was chosen.
+Hue 202 <img src="http://www.colorhexa.com/30abf2.png" height="24" width="24"> was chosen.
 
 ### step 2: choose base colours
 
