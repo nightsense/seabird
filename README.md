@@ -99,7 +99,7 @@ blue   | 202
 purple | 262
 pink   | 322
 
-The aesthetic aim of seagull's accent colours was a bright, cheerful palette, firmly saturated yet without glare. Saturation was determined experimentally, fine-tuning each colour in 1/16-steps; in general, saturation was assigned inversely proportionally to hue contrast against a white background. Finally, all hues were assigned 100% value; for some colours, a decrease was necessary to attain a contrast ratio of 2½:1 (the maximum at which colours were deemed to remain sufficiently bright).
+The aesthetic aim of seagull's accent colours was a bright, cheerful palette, firmly saturated yet without glare. Saturation was determined experimentally, fine-tuning each colour in 1/16-steps; in general, saturation was assigned inversely proportionally to hue contrast against a white background. Finally, all hues were assigned 100% value; for some colours, a decrease was necessary to attain a contrast ratio of 2½:1 (the maximum at which those colours were deemed to remain sufficiently bright).
 
 seagull accent colour                                                         | hex      | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-------|--------------|--------
