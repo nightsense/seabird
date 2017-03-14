@@ -22,7 +22,7 @@ The seabird colour scheme files found in this repository are generated from:
 %s/fdf6e3/ffffff/g |
 
 %s/dc322f/ff4f67/g |
-%s/cb4b16/f7823e/g |
+%s/cb4b16/ff7d31/g |
 %s/b58900/baa30b/g |
 %s/859900/41ba2f/g |
 %s/719e07/41ba2f/g |
@@ -67,7 +67,7 @@ call append(310,["",
 %s/fdf6e3/ffffff/g |
 
 %s/dc322f/b8646f/g |
-%s/cb4b16/a67253/g |
+%s/cb4b16/a8704f/g |
 %s/b58900/918536/g |
 %s/859900/4f8c46/g |
 %s/719e07/4f8c46/g |

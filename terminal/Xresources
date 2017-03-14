@@ -28,7 +28,7 @@
 
 !! petrel
 #define S_red    #b8646f
-#define S_orange #a67253
+#define S_orange #a8704f
 #define S_yellow #918536
 #define S_green  #4f8c46
 #define S_teal   #398a7f
@@ -38,7 +38,7 @@
 
 !! seagull
 !! #define S_red    #ff4f67
-!! #define S_orange #f7823e
+!! #define S_orange #ff7d31
 !! #define S_yellow #baa30b
 !! #define S_green  #41ba2f
 !! #define S_teal   #16b8a2

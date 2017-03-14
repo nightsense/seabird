@@ -30,7 +30,7 @@ hi  FoldColumn                              ctermfg=12  ctermbg=0  guifg=#787e82
 hi  Folded                                  cterm=NONE,underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#0c141a  gui=NONE
 hi  HelpExample                             ctermfg=14  guifg=#83878a  gui=NONE
 hi  Identifier                              ctermfg=4  guifg=#4d83a3  gui=NONE
-hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#a67253  gui=standout
+hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#a8704f  gui=standout
 hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#61717a  guibg=#1d262b  gui=NONE
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#b8646f  guibg=#61717a  gui=NONE
 hi  ModeMsg                                 ctermfg=4  guifg=#4d83a3  gui=NONE
@@ -40,7 +40,7 @@ hi  Pmenu                                   cterm=reverse  ctermfg=12  ctermbg=0
 hi  PmenuSbar                               cterm=reverse  ctermfg=7  ctermbg=12  guifg=#e6ebed  guibg=#787e82  gui=reverse
 hi  PmenuSel                                cterm=reverse  ctermfg=10  ctermbg=7  guifg=#61717a  guibg=#e6ebed  gui=reverse
 hi  PmenuThumb                              cterm=reverse  ctermfg=12  ctermbg=8  guifg=#787e82  guibg=#0c141a  gui=reverse
-hi  PreProc                                 cterm=NONE  ctermfg=1  guifg=#a67253  gui=NONE
+hi  PreProc                                 cterm=NONE  ctermfg=1  guifg=#a8704f  gui=NONE
 hi  Question                                cterm=NONE  ctermfg=6  guifg=#398a7f  gui=NONE
 hi  Search                                  cterm=reverse  ctermfg=3 ctermbg=NONE  guifg=#918536  guibg=NONE  gui=reverse
 hi  SignColumn                              cterm=NONE  ctermfg=12  ctermbg=NONE  guifg=#787e82  guibg=NONE  gui=NONE
@@ -56,7 +56,7 @@ hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#787e82  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#787e82  gui=underline
 hi  TabLineSel                              cterm=underline,reverse  ctermfg=10  ctermbg=7  guifg=#61717a  guibg=#e6ebed  guisp=#787e82  gui=underline,reverse
-hi  Title                                   cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  Title                                   cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  Todo                                    cterm=NONE  ctermfg=5  guifg=#a86a92  guibg=NONE  gui=bold
 hi  Type                                    ctermfg=3  guifg=#918536  gui=NONE
 hi  Underlined                              ctermfg=13  guifg=#8b72b5  gui=NONE
@@ -67,7 +67,7 @@ hi  VisualNOS                               cterm=reverse  ctermbg=0  ctermbg=NO
 hi  WarningMsg                              cterm=NONE  ctermfg=9  guifg=#b8646f  gui=NONE
 hi  WildMenu                                cterm=reverse  ctermfg=7  ctermbg=0  guifg=#e6ebed  guibg=#1d262b gui=reverse
 
-hi  cPreCondit                              ctermfg=9  guifg=#a67253  gui=NONE
+hi  cPreCondit                              ctermfg=9  guifg=#a8704f  gui=NONE
 
 hi  gitcommitBranch                         cterm=NONE  ctermfg=5  guifg=#a86a92  gui=NONE
 hi  gitcommitComment                        ctermfg=10  guifg=#61717a  gui=italic
@@ -98,7 +98,7 @@ hi  hsStructure                             ctermfg=6  guifg=#398a7f  gui=NONE
 hi  hsType                                  ctermfg=3  guifg=#918536  gui=NONE
 hi  hsTypedef                               ctermfg=6  guifg=#398a7f  gui=NONE
 hi  hsVarSym                                ctermfg=6  guifg=#398a7f  gui=NONE
-hi  hs_DeclareFunction                      ctermfg=9  guifg=#a67253  gui=NONE
+hi  hs_DeclareFunction                      ctermfg=9  guifg=#a8704f  gui=NONE
 hi  hs_OpFunctionName                       ctermfg=3  guifg=#918536  gui=NONE
 hi  hs_hlFunctionName                       ctermfg=4  guifg=#4d83a3  gui=NONE
 
@@ -128,10 +128,10 @@ hi  pandocDefinitionIndctr                  cterm=NONE  ctermfg=13  guifg=#8b72b
 hi  pandocDefinitionTerm                    cterm=standout  ctermfg=13  guifg=#8b72b5  gui=standout
 hi  pandocEmphasis                          ctermfg=12  guifg=#787e82  gui=italic
 hi  pandocEmphasisDefinition                ctermfg=13  guifg=#8b72b5  gui=italic
-hi  pandocEmphasisHeading                   cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocEmphasisHeading                   cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocEmphasisNested                    cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi  pandocEmphasisNestedDefinition          cterm=NONE  ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocEmphasisNestedHeading             cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocEmphasisNestedHeading             cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocEmphasisNestedTable               cterm=NONE  ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocEmphasisTable                     ctermfg=4  guifg=#4d83a3  gui=italic
 hi  pandocEscapePair                        cterm=NONE  ctermfg=1  guifg=#b8646f  gui=NONE
@@ -139,7 +139,7 @@ hi  pandocFootnote                          ctermfg=2  guifg=#4f8c46  gui=NONE
 hi  pandocFootnoteDefLink                   cterm=NONE  ctermfg=2  guifg=#4f8c46  gui=NONE
 hi  pandocFootnoteInline                    cterm=NONE,underline  ctermfg=2  guifg=#4f8c46  gui=NONE,underline
 hi  pandocFootnoteLink                      cterm=underline  ctermfg=2  guifg=#4f8c46  gui=underline
-hi  pandocHeading                           cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocHeading                           cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocHeadingMarker                     cterm=NONE  ctermfg=3  guifg=#918536  gui=NONE
 hi  pandocImageCaption                      cterm=NONE,underline  ctermfg=13  guifg=#8b72b5  gui=NONE,underline
 hi  pandocLinkDefinition                    cterm=underline  ctermfg=6  guifg=#398a7f  guisp=#6d777d  gui=underline
@@ -160,28 +160,28 @@ hi  pandocRule                              cterm=NONE  ctermfg=4  guifg=#4d83a3
 hi  pandocRuleLine                          cterm=NONE  ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocStrikeout                         cterm=reverse  ctermfg=10  ctermbg=NONE  guibg=NONE  guifg=#61717a  gui=reverse
 hi  pandocStrikeoutDefinition               cterm=reverse  ctermfg=13  ctermbg=NONE  guibg=NONE  guifg=#8b72b5  gui=reverse
-hi  pandocStrikeoutHeading                  cterm=reverse  ctermfg=9  ctermbg=NONE  guibg=NONE  guifg=#a67253  gui=reverse
+hi  pandocStrikeoutHeading                  cterm=reverse  ctermfg=9  ctermbg=NONE  guibg=NONE  guifg=#a8704f  gui=reverse
 hi  pandocStrikeoutTable                    cterm=reverse  ctermfg=4  ctermbg=NONE  guibg=NONE  guifg=#4d83a3  gui=reverse
 hi  pandocStrongEmphasis                    cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi  pandocStrongEmphasisDefinition          cterm=NONE  ctermfg=13  guifg=#8b72b5  gui=NONE
 hi  pandocStrongEmphasisEmphasis            cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi  pandocStrongEmphasisEmphasisDefinition  cterm=NONE  ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocStrongEmphasisEmphasisHeading     cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocStrongEmphasisEmphasisHeading     cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocStrongEmphasisEmphasisTable       cterm=NONE  ctermfg=4  guifg=#4d83a3  gui=NONE
-hi  pandocStrongEmphasisHeading             cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocStrongEmphasisHeading             cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocStrongEmphasisNested              cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi  pandocStrongEmphasisNestedDefinition    cterm=NONE  ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocStrongEmphasisNestedHeading       cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocStrongEmphasisNestedHeading       cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocStrongEmphasisNestedTable         cterm=NONE  ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocStrongEmphasisTable               cterm=NONE  ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocStyleDelim                        ctermfg=10  guifg=#61717a  gui=NONE
 hi  pandocSubscript                         ctermfg=13  guifg=#8b72b5  gui=NONE
 hi  pandocSubscriptDefinition               ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocSubscriptHeading                  cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocSubscriptHeading                  cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocSubscriptTable                    ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocSuperscript                       ctermfg=13  guifg=#8b72b5  gui=NONE
 hi  pandocSuperscriptDefinition             ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocSuperscriptHeading                cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocSuperscriptHeading                cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocSuperscriptTable                  ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocTable                             ctermfg=4  guifg=#4d83a3  gui=NONE
 hi  pandocTableStructure                    ctermfg=4  guifg=#4d83a3  gui=NONE
@@ -193,7 +193,7 @@ hi  pandocTitleComment                      cterm=NONE  ctermfg=4  guifg=#4d83a3
 hi  pandocVerbatimBlock                     ctermfg=3  guifg=#918536  gui=NONE
 hi  pandocVerbatimInline                    ctermfg=3  guifg=#918536  gui=NONE
 hi  pandocVerbatimInlineDefinition          ctermfg=13  guifg=#8b72b5  gui=NONE
-hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#a67253  gui=NONE
+hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#a8704f  gui=NONE
 hi  pandocVerbatimInlineTable               ctermfg=4  guifg=#4d83a3  gui=NONE
 
 hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#83878a  guibg=#0c141a  gui=NONE
@@ -311,7 +311,7 @@ if has('nvim')
   let g:terminal_color_6  = '#398a7f'
   let g:terminal_color_7  = '#e6ebed'
   let g:terminal_color_8  = '#0c141a'
-  let g:terminal_color_9  = '#a67253'
+  let g:terminal_color_9  = '#a8704f'
   let g:terminal_color_10 = '#61717a'
   let g:terminal_color_11 = '#6d777d'
   let g:terminal_color_12 = '#787e82'
