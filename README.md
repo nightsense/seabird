@@ -103,16 +103,16 @@ The aesthetic aim of seagull included a bright, cheerful palette of accent colou
 
 While the ISO-recommended ['standard minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) contrast ratio for readable text is 3:1, this proved too high for most colours, leading to a relaxed minimum of 2⅔. The two exceptions were red and purple (the highest-contrast hues), for which the full 3:1 ratio was applied.
 
-seagull accent colour                                                         | hex      | contrast ratio | hue ° | saturation % | value %
-------------------------------------------------------------------------------|----------|----------------|-------|--------------|--------
-<img src="http://www.colorhexa.com/ff596f.png" height="24" width="39"> red    | `ff596f` | 3              | 352   | 65           | 100
-<img src="http://www.colorhexa.com/ff7626.png" height="24" width="39"> orange | `ff7626` | 2⅔             | 22    | 85           | 100
-<img src="http://www.colorhexa.com/b69e00.png" height="24" width="39"> yellow | `b69e00` | 2⅔             | 52    | 100          | 71
-<img src="http://www.colorhexa.com/19b500.png" height="24" width="39"> green  | `19b500` | 2⅔             | 112   | 100          | 71
-<img src="http://www.colorhexa.com/00b098.png" height="24" width="39"> teal   | `00b098` | 2⅔             | 172   | 100          | 69
-<img src="http://www.colorhexa.com/08a5ff.png" height="24" width="39"> blue   | `08a5ff` | 2⅔             | 202   | 97           | 100
-<img src="http://www.colorhexa.com/ab7aff.png" height="24" width="39"> purple | `ab7aff` | 3              | 262   | 52           | 100
-<img src="http://www.colorhexa.com/ff63c7.png" height="24" width="39"> pink   | `ff63c7` | 2⅔             | 322   | 61           | 100
+seagull accent colour                                                         | hex      | contrast ratio\* | hue ° | saturation % | value %
+------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
+<img src="http://www.colorhexa.com/ff596f.png" height="24" width="39"> red    | `ff596f` | 3                | 352   | 65           | 100
+<img src="http://www.colorhexa.com/ff7626.png" height="24" width="39"> orange | `ff7626` | 2⅔               | 22    | 85           | 100
+<img src="http://www.colorhexa.com/b69e00.png" height="24" width="39"> yellow | `b69e00` | 2⅔               | 52    | 100          | 71
+<img src="http://www.colorhexa.com/19b500.png" height="24" width="39"> green  | `19b500` | 2⅔               | 112   | 100          | 71
+<img src="http://www.colorhexa.com/00b098.png" height="24" width="39"> teal   | `00b098` | 2⅔               | 172   | 100          | 69
+<img src="http://www.colorhexa.com/08a5ff.png" height="24" width="39"> blue   | `08a5ff` | 2⅔               | 202   | 97           | 100
+<img src="http://www.colorhexa.com/ab7aff.png" height="24" width="39"> purple | `ab7aff` | 3                | 262   | 52           | 100
+<img src="http://www.colorhexa.com/ff63c7.png" height="24" width="39"> pink   | `ff63c7` | 2⅔               | 322   | 61           | 100
 
 ### step 4: choose petrel accent colours
 
