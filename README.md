@@ -118,16 +118,16 @@ seagull accent colour                                                         | 
 
 The seagull accent colours were converted to the petrel theme by reducing saturation of all hues by ⅓, then adjusting value to achieve 4½:1 contrast ratio\* (the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text) with the petrel background.
 
-petrel accent colour                                                          | hex      | hue ° | saturation % | value %
-------------------------------------------------------------------------------|----------|-------|--------------|--------
-<img src="http://www.colorhexa.com/b56771.png" height="24" width="39"> red    | `b56771` | 352   | 43           | 71
-<img src="http://www.colorhexa.com/ad6f4b.png" height="24" width="39"> orange | `ad6f4b` | 22    | 57           | 68
-<img src="http://www.colorhexa.com/8a7e2d.png" height="24" width="39"> yellow | `8a7e2d` | 52    | 67           | 54
-<img src="http://www.colorhexa.com/3b8f2f.png" height="24" width="39"> green  | `3b8f2f` | 112   | 67           | 56
-<img src="http://www.colorhexa.com/2e8c7f.png" height="24" width="39"> teal   | `2e8c7f` | 172   | 67           | 55
-<img src="http://www.colorhexa.com/3e85b0.png" height="24" width="39"> blue   | `3e85b0` | 202   | 65           | 69
-<img src="http://www.colorhexa.com/8972b0.png" height="24" width="39"> purple | `8972b0` | 262   | 35           | 69
-<img src="http://www.colorhexa.com/ad6694.png" height="24" width="39"> pink   | `ad6694` | 322   | 41           | 68
+petrel accent colour                                                          | hex      | contrast ratio\* | hue ° | saturation % | value %
+------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
+<img src="http://www.colorhexa.com/b56771.png" height="24" width="39"> red    | `b56771` | 4½               | 352   | 43           | 71
+<img src="http://www.colorhexa.com/ad6f4b.png" height="24" width="39"> orange | `ad6f4b` | 4½               | 22    | 57           | 68
+<img src="http://www.colorhexa.com/8a7e2d.png" height="24" width="39"> yellow | `8a7e2d` | 4½               | 52    | 67           | 54
+<img src="http://www.colorhexa.com/3b8f2f.png" height="24" width="39"> green  | `3b8f2f` | 4½               | 112   | 67           | 56
+<img src="http://www.colorhexa.com/2e8c7f.png" height="24" width="39"> teal   | `2e8c7f` | 4½               | 172   | 67           | 55
+<img src="http://www.colorhexa.com/3e85b0.png" height="24" width="39"> blue   | `3e85b0` | 4½               | 202   | 65           | 69
+<img src="http://www.colorhexa.com/8972b0.png" height="24" width="39"> purple | `8972b0` | 4½               | 262   | 35           | 69
+<img src="http://www.colorhexa.com/ad6694.png" height="24" width="39"> pink   | `ad6694` | 4½               | 322   | 41           | 68
 
 ## notes
 
