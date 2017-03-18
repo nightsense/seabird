@@ -6,7 +6,7 @@ endif
 
 let colors_name = 'petrel'
 
-hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#787e82  guibg=#0c141a  gui=NONE
+hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#787e82  guibg=#0b141a  gui=NONE
 
 set background=dark
 
@@ -15,7 +15,7 @@ hi  Comment                                 ctermfg=10  guifg=#61717a  gui=itali
 hi  ConId                                   ctermfg=3  guifg=#8c7e23  gui=NONE
 hi  Conceal                                 ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  Constant                                ctermfg=6  guifg=#238c7e  gui=NONE
-hi  Cursor                                  ctermfg=8  ctermbg=10  guifg=#0c141a  guibg=#61717a  gui=NONE
+hi  Cursor                                  ctermfg=8  ctermbg=10  guifg=#0b141a  guibg=#61717a  gui=NONE
 hi  CursorColumn                            ctermbg=0  guibg=#1d262b  gui=NONE
 hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#1d262b  guisp=#83878a  gui=NONE
 hi  CursorLineNr                            cterm=NONE ctermfg=12  guifg=#787e82  gui=bold
@@ -24,10 +24,10 @@ hi  DiffChange                              ctermfg=3  ctermbg=0  guifg=#8c7e23 
 hi  DiffDelete                              ctermfg=1  ctermbg=0  guifg=#bd616d  guibg=#1d262b  gui=NONE
 hi  DiffText                                ctermfg=4  ctermbg=0  guifg=#2d85b8  guibg=#1d262b  guisp=#2d85b8  gui=NONE
 hi  Directory                               ctermfg=4  guifg=#2d85b8  gui=NONE
-hi  Error                                   cterm=NONE  ctermfg=1  ctermbg=NONE  guifg=#bd616d  guibg=#0c141a  gui=NONE
+hi  Error                                   cterm=NONE  ctermfg=1  ctermbg=NONE  guifg=#bd616d  guibg=#0b141a  gui=NONE
 hi  ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NONE  guifg=#bd616d  guibg=NONE gui=reverse
 hi  FoldColumn                              ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  gui=NONE
-hi  Folded                                  cterm=NONE,underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#0c141a  gui=NONE
+hi  Folded                                  cterm=NONE,underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#0b141a  gui=NONE
 hi  HelpExample                             ctermfg=14  guifg=#83878a  gui=NONE
 hi  Identifier                              ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#b86b3f  gui=standout
@@ -39,7 +39,7 @@ hi  NonText                                 cterm=NONE  ctermfg=11  guifg=#6d777
 hi  Pmenu                                   cterm=reverse  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  gui=reverse
 hi  PmenuSbar                               cterm=reverse  ctermfg=7  ctermbg=12  guifg=#e6ebed  guibg=#787e82  gui=reverse
 hi  PmenuSel                                cterm=reverse  ctermfg=10  ctermbg=7  guifg=#61717a  guibg=#e6ebed  gui=reverse
-hi  PmenuThumb                              cterm=reverse  ctermfg=12  ctermbg=8  guifg=#787e82  guibg=#0c141a  gui=reverse
+hi  PmenuThumb                              cterm=reverse  ctermfg=12  ctermbg=8  guifg=#787e82  guibg=#0b141a  gui=reverse
 hi  PreProc                                 cterm=NONE  ctermfg=1  guifg=#b86b3f  gui=NONE
 hi  Question                                cterm=NONE  ctermfg=6  guifg=#238c7e  gui=NONE
 hi  Search                                  cterm=reverse  ctermfg=3 ctermbg=NONE  guifg=#8c7e23  guibg=NONE  gui=reverse
@@ -51,7 +51,7 @@ hi  SpellCap                                cterm=undercurl  ctermfg=NONE  cterm
 hi  SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#8c7e23  gui=undercurl
 hi  SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#238c7e  gui=undercurl
 hi  Statement                               ctermfg=2  guifg=#328f24  gui=NONE
-hi  StatusLine                              cterm=reverse  ctermfg=10  ctermbg=8  guifg=#61717a  guibg=#0c141a  gui=reverse
+hi  StatusLine                              cterm=reverse  ctermfg=10  ctermbg=8  guifg=#61717a  guibg=#0b141a  gui=reverse
 hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guifg=#6d777d  guibg=#1d262b  gui=reverse
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#787e82  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d262b  guisp=#787e82  gui=underline
@@ -62,7 +62,7 @@ hi  Type                                    ctermfg=3  guifg=#8c7e23  gui=NONE
 hi  Underlined                              ctermfg=13  guifg=#8c6fbf  gui=NONE
 hi  VarId                                   ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  VertSplit                               ctermfg=11  ctermbg=11  guifg=#6d777d  guibg=#6d777d  gui=NONE
-hi  Visual                                  cterm=reverse  ctermfg=10  ctermbg=8  guifg=#61717a  guibg=#0c141a  gui=reverse
+hi  Visual                                  cterm=reverse  ctermfg=10  ctermbg=8  guifg=#61717a  guibg=#0b141a  gui=reverse
 hi  VisualNOS                               cterm=reverse  ctermbg=0  ctermbg=NONE  guibg=#1d262b  guifg=NONE  gui=reverse
 hi  WarningMsg                              cterm=NONE  ctermfg=9  guifg=#bd616d  gui=NONE
 hi  WildMenu                                cterm=reverse  ctermfg=7  ctermbg=0  guifg=#e6ebed  guibg=#1d262b gui=reverse
@@ -186,7 +186,7 @@ hi  pandocSuperscriptTable                  ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  pandocTable                             ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  pandocTableStructure                    ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  pandocTableZebraDark                    ctermfg=4  ctermbg=0  guifg=#2d85b8  guibg=#1d262b  gui=NONE
-hi  pandocTableZebraLight                   ctermfg=4  ctermbg=8  guifg=#2d85b8  guibg=#0c141a  gui=NONE
+hi  pandocTableZebraLight                   ctermfg=4  ctermbg=8  guifg=#2d85b8  guibg=#0b141a  gui=NONE
 hi  pandocTitleBlock                        ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  pandocTitleBlockTitle                   cterm=NONE  ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  pandocTitleComment                      cterm=NONE  ctermfg=4  guifg=#2d85b8  gui=NONE
@@ -196,16 +196,16 @@ hi  pandocVerbatimInlineDefinition          ctermfg=13  guifg=#8c6fbf  gui=NONE
 hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#b86b3f  gui=NONE
 hi  pandocVerbatimInlineTable               ctermfg=4  guifg=#2d85b8  gui=NONE
 
-hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#83878a  guibg=#0c141a  gui=NONE
-hi  perlStatementFileDesc                   ctermfg=6  ctermbg=8  guifg=#238c7e  guibg=#0c141a  gui=NONE
-hi  perlVarPlain                            ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0c141a  gui=NONE
+hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#83878a  guibg=#0b141a  gui=NONE
+hi  perlStatementFileDesc                   ctermfg=6  ctermbg=8  guifg=#238c7e  guibg=#0b141a  gui=NONE
+hi  perlVarPlain                            ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0b141a  gui=NONE
 
-hi  rubyDefine                              cterm=NONE  ctermfg=14  ctermbg=8  guifg=#83878a  guibg=#0c141a  gui=NONE
+hi  rubyDefine                              cterm=NONE  ctermfg=14  ctermbg=8  guifg=#83878a  guibg=#0b141a  gui=NONE
 
-hi  texMathMatcher                          ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0c141a  gui=NONE
-hi  texMathZoneX                            ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0c141a  gui=NONE
-hi  texRefLabel                             ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0c141a  gui=NONE
-hi  texStatement                            ctermfg=6  ctermbg=8  guifg=#238c7e  guibg=#0c141a  gui=NONE
+hi  texMathMatcher                          ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0b141a  gui=NONE
+hi  texMathZoneX                            ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0b141a  gui=NONE
+hi  texRefLabel                             ctermfg=3  ctermbg=8  guifg=#8c7e23  guibg=#0b141a  gui=NONE
+hi  texStatement                            ctermfg=6  ctermbg=8  guifg=#238c7e  guibg=#0b141a  gui=NONE
 
 hi  vimCmdSep                               cterm=NONE  ctermfg=4  guifg=#2d85b8  gui=NONE
 hi  vimCommand                              ctermfg=3  guifg=#8c7e23  gui=NONE
@@ -310,7 +310,7 @@ if has('nvim')
   let g:terminal_color_5  = '#b86098'
   let g:terminal_color_6  = '#238c7e'
   let g:terminal_color_7  = '#e6ebed'
-  let g:terminal_color_8  = '#0c141a'
+  let g:terminal_color_8  = '#0b141a'
   let g:terminal_color_9  = '#b86b3f'
   let g:terminal_color_10 = '#61717a'
   let g:terminal_color_11 = '#6d777d'

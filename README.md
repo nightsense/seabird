@@ -2,7 +2,9 @@
 
 A Vim theme based on hue 202 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
-Featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
+seabird is mathematically derived, largely through application of two widely-used measures of readability: the standard minimum contrast ratio of 3:1 (['recommended by the ISO'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)), and the AA accessible minimum of 4½:1 (['recommended by the W3C'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)).
+
+seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
 ## screenshots
 
@@ -51,7 +53,7 @@ Hue 202 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24"> w
 
 ### step 2: choose base colours
 
-The base colours were selecting using the hue/saturation/value model of colour definition.
+The base colours, which are shared by the light and dark versions of seabird, were selecting using the hue/saturation/value model of colour definition.
 
 First, all base colours were assigned hue 202.
 
@@ -70,19 +72,34 @@ seagrey8    | regular background (seagull)     | 202   | 0
 
 Third, value levels were assigned. **seagrey8** was set to 100% value. The remaining colours were assigned values based on contrast ratios with other base colours.
 
-this colour was assigned...                                                     | ...this hex... | ...due to this contrast ratio\*...         | ...with this colour
---------------------------------------------------------------------------------|----------------|--------------------------------------------|--------------------
-<img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> seagrey1 | 0c141a         | 18½:1                                      | seagrey8
-<img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> seagrey2 | 1d262b         | 1⅕:1                                       | seagrey1
-<img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> seagrey3 | 61717a         | 3:1                                        | seagrey2
-<img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> seagrey4 | 6d777d         | 4½:1                                       | seagrey8
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | 787e82         | 4½:1                                       | seagrey1
-<img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> seagrey6 | 83878a         | 3:1                                        | seagrey7
-<img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> seagrey7 | e6ebed         | 1⅕:1                                       | seagrey8
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | ffffff         | -                                          | -
+this colour was assigned...                                                     | ...this value... | ...due to this contrast ratio\*...         | ...with this colour
+--------------------------------------------------------------------------------|------------------|--------------------------------------------|--------------------
+<img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> seagrey1 | 10               | 18½:1                                      | seagrey8
+<img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> seagrey2 | 17               | 1⅕:1                                       | seagrey1
+<img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> seagrey3 | 48               | 3:1                                        | seagrey2
+<img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> seagrey4 | 49               | 4½:1                                       | seagrey8
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | 51               | 4½:1                                       | seagrey1
+<img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> seagrey6 | 54               | 3:1                                        | seagrey7
+<img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> seagrey7 | 93               | 1⅕:1                                       | seagrey8
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | 100              | -                                          | -
 
-- the 3:1 ratio ensures that subdued text on highlighted background meets the ISO-recommended ['standard minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text
-- the 4½:1 ratio ensures that regular text on regular background meets the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text
+- the 18½:1 ratio ensures a 10% value background for the dark theme: a "soft black" good for long-term readability
+- the 1⅕:1 ratio provides background highlights that stand out clearly, yet unobtrusively, from the regular background
+- the 3:1 ratio ensures that subdued text on highlighted background is ISO-compliant
+- the 4½:1 ratio ensures that regular text on regular background is AA W3C-compliant
+
+The resulting colours:
+
+seabird base colour                                                             | hex      | hue ° | saturation % | value %
+--------------------------------------------------------------------------------|----------|-------|--------------|--------
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> seagrey1 | `0b141a` | 352   | 55           | 10
+<img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> seagrey2 | `1d262b` | 22    | 34           | 17
+<img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> seagrey3 | `61717a` | 52    | 21           | 48
+<img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> seagrey4 | `6d777d` | 112   | 13           | 49
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | `787e82` | 172   | 8            | 51
+<img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> seagrey6 | `83878a` | 202   | 5            | 54
+<img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> seagrey7 | `e6ebed` | 262   | 3            | 93
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | `ffffff` | 322   | 0            | 100
 
 ### step 3: choose seagull accent colours
 
@@ -99,9 +116,22 @@ blue   | 202
 purple | 262
 pink   | 322
 
-The aesthetic aim of **seagull** included a bright, cheerful palette of accent colours. The contrast ratio of each hue was tuned accordingly. Each colour started with 100% value and saturation; contrast was adjusted by either lowering saturation (to lower contrast) or lowering value (to raise it).
+The aesthetic aim of **seagull** includes a bright, cheerful palette of accent colours. To begin the search, all hues were set to 100% saturation and value, which might be called the "full blast" form of each hue. Each of these full blast colours had a different contrast ratio with the (white) background.
 
-While the ISO-recommended ['standard minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) contrast ratio for readable text is 3:1, this proved too high for most colours, leading to a relaxed minimum of 2¾:1. All hues were adjusted to this ratio except red and purple (the two highest-contrast hues), which needed a little extra to achieve the same vibrancy as the others.
+The contrast ratio of full blast blue is 2¾:1. Since hue 202 is the "reference colour" of the seabird theme, this became the target contrast ratio of the seagull accent colours. This ratio was applied to each hue, provided that the hue's own full blast contrast ratio (FBRC) did not exceed that of blue by more than 1.
+
+FBCR < 3¾:1 | 3¾:1 < FBCR < 4¾:1 | FBCR > 4¾:1
+------------|--------------------|------------
+orange      | red                | purple
+yellow      |                    |
+green       |                    |
+teal        |                    |
+blue        |                    |
+pink        |                    |
+
+To avoid washed-out colours, any hue with an FBCR exceeding that of blue by more than 1 was granted an extra ¼ contrast ratio; by more than 2, an extra ½.
+
+Contrast was adjusted by either lowering saturation (to lower contrast) or lowering value (to raise it).
 
 seagull accent colour                                                         | hex      | contrast ratio\* | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
@@ -114,9 +144,11 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/a470ff.png" height="24" width="39"> purple | `a470ff` | 3¼               | 262   | 56           | 100
 <img src="http://www.colorhexa.com/ff5cc4.png" height="24" width="39"> pink   | `ff5cc4` | 2¾               | 322   | 64           | 100
 
+ISO compliance was thus slightly relaxed for most hues, in order to avoid overly dark colours.
+
 ### step 4: choose petrel accent colours
 
-The accent colours of the **petrel** theme were derived from the seagull colours by reducing saturation of all hues by ¼, then adjusting value to achieve 4½:1 contrast ratio\* (the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text) with the petrel background. Against a dark background, this higher contrast ratio proved appropriate for all colours.
+The accent colours of the **petrel** theme were derived from the seagull colours by reducing saturation of all hues by ¼, then adjusting value to achieve 4½:1 contrast ratio\* with the petrel background.
 
 petrel accent colour                                                          | hex      | contrast ratio\* | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
@@ -128,6 +160,8 @@ petrel accent colour                                                          | 
 <img src="http://www.colorhexa.com/2d85b8.png" height="24" width="39"> blue   | `2d85b8` | 4½               | 202   | 75           | 72
 <img src="http://www.colorhexa.com/8c6fbf.png" height="24" width="39"> purple | `8c6fbf` | 4½               | 262   | 42           | 75
 <img src="http://www.colorhexa.com/b86098.png" height="24" width="39"> pink   | `b86098` | 4½               | 322   | 48           | 72
+
+Since a dark background allows for a much higher contrast ratio while maintaining colour vibrancy, AA W3C compliance was found appropriate for all hues.
 
 ## notes
 
