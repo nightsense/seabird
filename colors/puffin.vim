@@ -12,7 +12,7 @@ set background=light
 
 hi ColorColumn                             cterm=NONE  ctermbg=7  guibg=#e6ebed  gui=NONE
 hi Comment                                 cterm=NONE  ctermfg=14 guifg=#83878a  gui=italic
-hi ConId                                   cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi ConId                                   cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi Conceal                                 cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi Constant                                cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
 hi Cursor                                  cterm=NONE  ctermfg=15  ctermbg=15  guifg=#ffffff  guibg=#83878a  gui=NONE
@@ -20,19 +20,19 @@ hi CursorColumn                            cterm=NONE  ctermbg=7  guibg=#e6ebed 
 hi CursorLine                              cterm=NONE  ctermbg=7  guibg=#e6ebed  guisp=#61717a  gui=NONE
 hi CursorLineNr                            cterm=NONE  ctermfg=11  gui=bold  guifg=#6d777d
 hi DiffAdd                                 cterm=NONE  ctermfg=2  ctermbg=7  gui=NONE  guifg=#17ab00  guibg=#e6ebed  guisp=#17ab00  gui=NONE
-hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#a89200  guibg=#e6ebed  guisp=#a89200  gui=NONE
-hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#ff596f  guibg=#e6ebed  gui=NONE
+hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#ab9400  guibg=#e6ebed  guisp=#ab9400  gui=NONE
+hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#ff4a62  guibg=#e6ebed  gui=NONE
 hi DiffText                                cterm=NONE  ctermfg=4  ctermbg=7  gui=NONE  guifg=#009bf5  guibg=#e6ebed  guisp=#009bf5  gui=NONE
 hi Directory                               cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
-hi Error                                   cterm=NONE  ctermfg=1  ctermbg=NONE  guifg=#ff596f  guibg=#ffffff  gui=NONE
-hi ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NONE guifg=#ff596f  guibg=NONE gui=reverse
+hi Error                                   cterm=NONE  ctermfg=1  ctermbg=NONE  guifg=#ff4a62  guibg=#ffffff  gui=NONE
+hi ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NONE guifg=#ff4a62  guibg=NONE gui=reverse
 hi FoldColumn                              cterm=NONE  ctermfg=11  ctermbg=7  guifg=#6d777d  guibg=#e6ebed  gui=NONE
 hi Folded                                  cterm=NONE,underline  ctermfg=11  ctermbg=7  guifg=#6d777d  guibg=#e6ebed  guisp=#ffffff  gui=NONE
 hi HelpExample                             cterm=NONE  ctermfg=10  guifg=#61717a  gui=NONE
 hi Identifier                              cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#ff6105
 hi LineNr                                  cterm=NONE  ctermfg=14  ctermbg=7  guifg=#83878a  guibg=#e6ebed  gui=NONE
-hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#ff596f  guibg=#83878a  gui=NONE
+hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#ff4a62  guibg=#83878a  gui=NONE
 hi ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi NonText                                 cterm=NONE  ctermfg=12  gui=NONE  guifg=#787e82  gui=NONE
@@ -42,13 +42,13 @@ hi PmenuSel                                cterm=reverse  ctermfg=14  ctermbg=0 
 hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15  guifg=#6d777d  guibg=#ffffff  gui=reverse
 hi PreProc                                 cterm=NONE  ctermfg=9  guifg=#ff6105  gui=NONE
 hi Question                                cterm=NONE  ctermfg=6  gui=NONE  guifg=#00a690  gui=NONE
-hi Search                                  cterm=reverse  ctermfg=3  ctermbg=NONE  guifg=#a89200  guibg=NONE gui=reverse
+hi Search                                  cterm=reverse  ctermfg=3  ctermbg=NONE  guifg=#ab9400  guibg=NONE gui=reverse
 hi SignColumn                              cterm=NONE  ctermfg=11  ctermbg=NONE  guifg=#6d777d  guibg=NONE  gui=NONE
-hi Special                                 cterm=NONE  ctermfg=1  guifg=#ff596f  gui=NONE
+hi Special                                 cterm=NONE  ctermfg=1  guifg=#ff4a62  gui=NONE
 hi SpecialKey                              cterm=NONE  ctermfg=12  ctermbg=7  gui=NONE  guifg=#787e82  guibg=#e6ebed  gui=NONE
-hi SpellBad                                cterm=undercurl ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#ff596f
+hi SpellBad                                cterm=undercurl ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#ff4a62
 hi SpellCap                                cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#a069ff
-hi SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#a89200
+hi SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#ab9400
 hi SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#00a690
 hi Statement                               cterm=NONE  ctermfg=2  guifg=#17ab00  gui=NONE
 hi StatusLine                              cterm=reverse  ctermfg=14  ctermbg=15  gui=reverse  guifg=#83878a  guibg=#ffffff  guibg=NONE
@@ -58,26 +58,26 @@ hi TabLineFill                             cterm=underline  ctermfg=11  ctermbg=
 hi TabLineSel                              cterm=underline,reverse  ctermfg=14  ctermbg=0  gui=underline,reverse  guifg=#83878a  guibg=#1d262b  guisp=#6d777d
 hi Title                                   cterm=NONE  ctermfg=9  guifg=#ff6105  gui=NONE
 hi Todo                                    cterm=NONE  ctermfg=5  guifg=#ff4abd  guibg=NONE gui=bold
-hi Type                                    cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi Type                                    cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi Underlined                              cterm=NONE  ctermfg=13  guifg=#a069ff  gui=NONE
 hi VarId                                   cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  guifg=#787e82  guibg=#787e82  gui=NONE
 hi Visual                                  cterm=reverse  ctermfg=14  ctermbg=15 gui=reverse  guifg=#83878a  guibg=#ffffff  guibg=NONE
 hi VisualNOS                               cterm=reverse  ctermbg=7 gui=reverse  guibg=#e6ebed  guibg=NONE
-hi WarningMsg                              cterm=NONE  ctermfg=9  gui=NONE  guifg=#ff596f  gui=NONE
+hi WarningMsg                              cterm=NONE  ctermfg=9  gui=NONE  guifg=#ff4a62  gui=NONE
 hi WildMenu                                cterm=reverse  ctermfg=0  ctermbg=7  guifg=#1d262b  guibg=#e6ebed  gui=reverse
 hi cPreCondit                              cterm=NONE  ctermfg=9  guifg=#ff6105  gui=NONE
 hi gitcommitBranch                         cterm=NONE  ctermfg=5  gui=NONE  guifg=#ff4abd  gui=NONE
 hi gitcommitComment                        cterm=NONE  ctermfg=14  gui=italic  guifg=#83878a  gui=NONE
-hi gitcommitDiscardedFile                  cterm=NONE  ctermfg=1  gui=NONE  guifg=#ff596f  gui=NONE
-hi gitcommitDiscardedType                  cterm=NONE  ctermfg=1  guifg=#ff596f  gui=NONE
+hi gitcommitDiscardedFile                  cterm=NONE  ctermfg=1  gui=NONE  guifg=#ff4a62  gui=NONE
+hi gitcommitDiscardedType                  cterm=NONE  ctermfg=1  guifg=#ff4a62  gui=NONE
 hi gitcommitFile                           cterm=NONE  ctermfg=11  gui=NONE  guifg=#6d777d  gui=NONE
 hi gitcommitHeader                         cterm=NONE  ctermfg=14  guifg=#83878a  gui=NONE
 hi gitcommitOnBranch                       cterm=NONE  ctermfg=14  gui=NONE  guifg=#83878a  gui=NONE
 hi gitcommitSelectedFile                   cterm=NONE  ctermfg=2  gui=NONE  guifg=#17ab00  gui=NONE
 hi gitcommitSelectedType                   cterm=NONE  ctermfg=2  guifg=#17ab00  gui=NONE
 hi gitcommitUnmerged                       cterm=NONE  ctermfg=2  gui=NONE  guifg=#17ab00  gui=NONE
-hi gitcommitUnmergedFile                   cterm=NONE  ctermfg=3  gui=NONE  guifg=#a89200  gui=NONE
+hi gitcommitUnmergedFile                   cterm=NONE  ctermfg=3  gui=NONE  guifg=#ab9400  gui=NONE
 hi gitcommitUntrackedFile                  cterm=NONE  ctermfg=6  gui=NONE  guifg=#00a690  gui=NONE
 hi helpHyperTextEntry                      cterm=NONE  ctermfg=2  guifg=#17ab00  gui=NONE
 hi helpHyperTextJump                       cterm=underline  ctermfg=4  gui=underline  guifg=#009bf5
@@ -91,11 +91,11 @@ hi hsNiceOperator                          cterm=NONE  ctermfg=6  guifg=#00a690 
 hi hsStatement                             cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
 hi hsString                                cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi hsStructure                             cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
-hi hsType                                  cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi hsType                                  cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi hsTypedef                               cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
 hi hsVarSym                                cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
 hi hs_DeclareFunction                      cterm=NONE  ctermfg=9  guifg=#ff6105  gui=NONE
-hi hs_OpFunctionName                       cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi hs_OpFunctionName                       cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi hs_hlFunctionName                       cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi htmlArg                                 cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
 hi htmlEndTag                              cterm=NONE  ctermfg=14  guifg=#83878a  gui=NONE
@@ -103,12 +103,12 @@ hi htmlSpecialTagName                      cterm=NONE  ctermfg=4  gui=italic  gu
 hi htmlTag                                 cterm=NONE  ctermfg=14  guifg=#83878a  gui=NONE
 hi htmlTagN                                cterm=NONE  ctermfg=10  gui=NONE  guifg=#61717a  gui=NONE
 hi htmlTagName                             cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
-hi javaScript                              cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi javaScript                              cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi pandocBlockQuote                        cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi pandocBlockQuoteLeader1                 cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi pandocBlockQuoteLeader2                 cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
-hi pandocBlockQuoteLeader3                 cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
-hi pandocBlockQuoteLeader4                 cterm=NONE  ctermfg=1  guifg=#ff596f  gui=NONE
+hi pandocBlockQuoteLeader3                 cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
+hi pandocBlockQuoteLeader4                 cterm=NONE  ctermfg=1  guifg=#ff4a62  gui=NONE
 hi pandocBlockQuoteLeader5                 cterm=NONE  ctermfg=11  guifg=#6d777d  gui=NONE
 hi pandocBlockQuoteLeader6                 cterm=NONE  ctermfg=14  guifg=#83878a  gui=NONE
 hi pandocCitation                          cterm=NONE  ctermfg=5  guifg=#ff4abd  gui=NONE
@@ -127,13 +127,13 @@ hi pandocEmphasisNestedDefinition          cterm=NONE  ctermfg=13  gui=NONE  gui
 hi pandocEmphasisNestedHeading             cterm=NONE  ctermfg=9  gui=NONE  guifg=#ff6105  gui=NONE
 hi pandocEmphasisNestedTable               cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
 hi pandocEmphasisTable                     cterm=NONE  ctermfg=4  gui=italic  guifg=#009bf5  gui=NONE
-hi pandocEscapePair                        cterm=NONE  ctermfg=1  gui=NONE  guifg=#ff596f  gui=NONE
+hi pandocEscapePair                        cterm=NONE  ctermfg=1  gui=NONE  guifg=#ff4a62  gui=NONE
 hi pandocFootnote                          cterm=NONE  ctermfg=2  guifg=#17ab00  gui=NONE
 hi pandocFootnoteDefLink                   cterm=NONE  ctermfg=2  gui=NONE  guifg=#17ab00  gui=NONE
 hi pandocFootnoteInline                    cterm=NONE,underline  ctermfg=2  gui=NONE,underline  guifg=#17ab00  gui=NONE
 hi pandocFootnoteLink                      cterm=underline  ctermfg=2  gui=underline  guifg=#17ab00
 hi pandocHeading                           cterm=NONE  ctermfg=9  gui=NONE  guifg=#ff6105  gui=NONE
-hi pandocHeadingMarker                     cterm=NONE  ctermfg=3  gui=NONE  guifg=#a89200  gui=NONE
+hi pandocHeadingMarker                     cterm=NONE  ctermfg=3  gui=NONE  guifg=#ab9400  gui=NONE
 hi pandocImageCaption                      cterm=NONE,underline  ctermfg=13  gui=NONE,underline  guifg=#a069ff  gui=NONE
 hi pandocLinkDefinition                    cterm=underline  ctermfg=6  gui=underline  guifg=#00a690  guisp=#787e82
 hi pandocLinkDefinitionID                  cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
@@ -148,7 +148,7 @@ hi pandocListReference                     cterm=underline  ctermfg=5  gui=under
 hi pandocMetadata                          cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
 hi pandocMetadataDelim                     cterm=NONE  ctermfg=14  guifg=#83878a  gui=NONE
 hi pandocMetadataKey                       cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
-hi pandocNonBreakingSpace                  cterm=reverse  ctermfg=1  ctermbg=NONE  gui=reverse  guifg=#ff596f  guibg=NONE
+hi pandocNonBreakingSpace                  cterm=reverse  ctermfg=1  ctermbg=NONE  gui=reverse  guifg=#ff4a62  guibg=NONE
 hi pandocRule                              cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
 hi pandocRuleLine                          cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
 hi pandocStrikeout                         cterm=reverse  ctermfg=14  ctermbg=NONE  gui=reverse  guifg=#83878a  guibg=NONE
@@ -183,27 +183,27 @@ hi pandocTableZebraLight                   cterm=NONE  ctermfg=4  ctermbg=15  gu
 hi pandocTitleBlock                        cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi pandocTitleBlockTitle                   cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
 hi pandocTitleComment                      cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
-hi pandocVerbatimBlock                     cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
-hi pandocVerbatimInline                    cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi pandocVerbatimBlock                     cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
+hi pandocVerbatimInline                    cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi pandocVerbatimInlineDefinition          cterm=NONE  ctermfg=13  guifg=#a069ff  gui=NONE
 hi pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  gui=NONE  guifg=#ff6105  gui=NONE
 hi pandocVerbatimInlineTable               cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi perlHereDoc                             cterm=NONE  ctermfg=10  ctermbg=15  guifg=#61717a  guibg=#ffffff  gui=NONE
 hi perlStatementFileDesc                   cterm=NONE  ctermfg=6  ctermbg=15  guifg=#00a690  guibg=#ffffff  gui=NONE
-hi perlVarPlain                            cterm=NONE  ctermfg=3  ctermbg=15  guifg=#a89200  guibg=#ffffff  gui=NONE
+hi perlVarPlain                            cterm=NONE  ctermfg=3  ctermbg=15  guifg=#ab9400  guibg=#ffffff  gui=NONE
 hi rubyDefine                              cterm=NONE  ctermfg=10  ctermbg=15  gui=NONE  guifg=#61717a  guibg=#ffffff  gui=NONE
-hi texMathMatcher                          cterm=NONE  ctermfg=3  ctermbg=15  guifg=#a89200  guibg=#ffffff  gui=NONE
-hi texMathZoneX                            cterm=NONE  ctermfg=3  ctermbg=15  guifg=#a89200  guibg=#ffffff  gui=NONE
-hi texRefLabel                             cterm=NONE  ctermfg=3  ctermbg=15  guifg=#a89200  guibg=#ffffff  gui=NONE
+hi texMathMatcher                          cterm=NONE  ctermfg=3  ctermbg=15  guifg=#ab9400  guibg=#ffffff  gui=NONE
+hi texMathZoneX                            cterm=NONE  ctermfg=3  ctermbg=15  guifg=#ab9400  guibg=#ffffff  gui=NONE
+hi texRefLabel                             cterm=NONE  ctermfg=3  ctermbg=15  guifg=#ab9400  guibg=#ffffff  gui=NONE
 hi texStatement                            cterm=NONE  ctermfg=6  ctermbg=15  guifg=#00a690  guibg=#ffffff  gui=NONE
 hi vimCmdSep                               cterm=NONE  ctermfg=4  gui=NONE  guifg=#009bf5  gui=NONE
-hi vimCommand                              cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi vimCommand                              cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi vimCommentString                        cterm=NONE  ctermfg=13  guifg=#a069ff  gui=NONE
 hi vimGroup                                cterm=NONE,underline  ctermfg=4  gui=NONE,underline  guifg=#009bf5  gui=NONE
 hi vimHiGroup                              cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi vimHiLink                               cterm=NONE  ctermfg=4  guifg=#009bf5  gui=NONE
 hi vimIsCommand                            cterm=NONE  ctermfg=12  guifg=#787e82  gui=NONE
-hi vimSynMtchOpt                           cterm=NONE  ctermfg=3  guifg=#a89200  gui=NONE
+hi vimSynMtchOpt                           cterm=NONE  ctermfg=3  guifg=#ab9400  gui=NONE
 hi vimSynType                              cterm=NONE  ctermfg=6  guifg=#00a690  gui=NONE
 
 hi link Boolean                    Constant
@@ -292,9 +292,9 @@ hi clear pandocTableStructre
 
 if has('nvim')
   let g:terminal_color_0  = '#e6ebed'
-  let g:terminal_color_1  = '#ff596f'
+  let g:terminal_color_1  = '#ff4a62'
   let g:terminal_color_2  = '#17ab00'
-  let g:terminal_color_3  = '#a89200'
+  let g:terminal_color_3  = '#ab9400'
   let g:terminal_color_4  = '#009bf5'
   let g:terminal_color_5  = '#ff4abd'
   let g:terminal_color_6  = '#00a690'

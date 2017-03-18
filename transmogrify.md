@@ -21,15 +21,15 @@ The seabird colour scheme files found in this repository are generated from:
 %s/eee8d5/e6ebed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ff697d/g |
-%s/cb4b16/ff8036/g |
-%s/b58900/bda300/g |
-%s/859900/1abd00/g |
-%s/719e07/1abd00/g |
-%s/2aa198/00b89f/g |
-%s/268bd2/19acff/g |
-%s/6c71c4/ab7aff/g |
-%s/d33682/ff6eca/g |
+%s/dc322f/ff596f/g |
+%s/cb4b16/ff711f/g |
+%s/b58900/b39b00/g |
+%s/859900/18b300/g |
+%s/719e07/18b300/g |
+%s/2aa198/00ad96/g |
+%s/268bd2/00a2ff/g |
+%s/6c71c4/a470ff/g |
+%s/d33682/ff5cc4/g |
 
 18s/ctermbg=11/ctermbg=15/ |
 18s/guibg=#6d777d/guibg=#83878a/ |
@@ -68,7 +68,7 @@ call append(310,["",
 
 %s/dc322f/ff596f/g |
 %s/cb4b16/ff6105/g |
-%s/b58900/a89200/g |
+%s/b58900/ab9400/g |
 %s/859900/17ab00/g |
 %s/719e07/17ab00/g |
 %s/2aa198/00a690/g |
@@ -111,15 +111,15 @@ call append(310,["",
 %s/eee8d5/e6ebed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/b66670/g |
-%s/cb4b16/b06e48/g |
+%s/dc322f/bd616d/g |
+%s/cb4b16/b86b3f/g |
 %s/b58900/8c7e23/g |
-%s/859900/318f24/g |
-%s/719e07/318f24/g |
-%s/2aa198/238c7d/g |
-%s/268bd2/3984b3/g |
-%s/6c71c4/8c70b8/g |
-%s/d33682/b16596/g |
+%s/859900/328f24/g |
+%s/719e07/328f24/g |
+%s/2aa198/238c7e/g |
+%s/268bd2/2d85b8/g |
+%s/6c71c4/8c6fbf/g |
+%s/d33682/b86098/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61717a/ |
