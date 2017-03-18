@@ -2,7 +2,7 @@
 
 A Vim theme based on hue 202 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
-seabird is mathematically derived, largely through application of two widely-used measures of text-on-background readability: the standard minimum contrast ratio of 3:1 (['recommended by the ISO'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)), and the AA accessible minimum of 4½:1 (['recommended by the W3C'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)).
+seabird is mathematically derived, largely through application of two widely-used measures of text-on-background readability: the [ISO "standard minimum"](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) contrast ratio of 3:1, and the [W3C "AA-rated accessible minimum"](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of 4½:1.
 
 seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
