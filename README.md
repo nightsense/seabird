@@ -1,6 +1,6 @@
 # seabird
 
-A Vim theme based on hue 202 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**. The high-contrast light theme is **puffin**.
+A Vim theme based on hue 202 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24">, a soothing blue of sea and sky. The light version is **seagull**; the dark, **petrel**.
 
 Featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
@@ -10,8 +10,6 @@ seagull | | petrel
 -----------------------------------------------------------------------|------------|---------------
  | |
 <img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff596f.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff711f.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/b39b00.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/18b300.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00ad96.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a470ff.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff5cc4.png" height="24" width="39"> | <img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="300"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="300"> | <img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/bd616d.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/b86b3f.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7e23.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/328f24.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/238c7e.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/2d85b8.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c6fbf.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/b86098.png" height="24" width="39">
-**puffin** | |
-<img src="http://www.colorhexa.com/0c141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4a62.png" height="24" width="39"><br><img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff6105.png" height="24" width="39"><br><img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ab9400.png" height="24" width="39"><br><img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> <img src="http://www.colorhexa.com/17ab00.png" height="24" width="39"><br><img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a690.png" height="24" width="39"><br><img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> <img src="http://www.colorhexa.com/009bf5.png" height="24" width="39"><br><img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a069ff.png" height="24" width="39"><br><img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4abd.png" height="24" width="39"> | <img src="img/screenshot-puffin-ruby.png" alt="screenshot of puffin, the high-contrast light seabird theme" width="300">
 
 ## installation
 
@@ -116,22 +114,7 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/a470ff.png" height="24" width="39"> purple | `a470ff` | 3¼               | 262   | 56           | 100
 <img src="http://www.colorhexa.com/ff5cc4.png" height="24" width="39"> pink   | `ff5cc4` | 2¾               | 322   | 64           | 100
 
-### step 4: choose puffin accent colours
-
-For those who like the look of seagull but want proper, ISO-recommended readability, there's **puffin**, the high-contrast light theme.
-
-puffin accent colour                                                          | hex      | contrast ratio\* | hue ° | saturation % | value %
-------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
-<img src="http://www.colorhexa.com/ff4a62.png" height="24" width="39"> red    | `ff4a62` | 3¼               | 352   | 71           | 100
-<img src="http://www.colorhexa.com/ff6105.png" height="24" width="39"> orange | `ff6105` | 3                | 22    | 98           | 100
-<img src="http://www.colorhexa.com/ab9400.png" height="24" width="39"> yellow | `ab9400` | 3                | 52    | 100          | 67
-<img src="http://www.colorhexa.com/17ab00.png" height="24" width="39"> green  | `17ab00` | 3                | 112   | 100          | 67
-<img src="http://www.colorhexa.com/00a690.png" height="24" width="39"> teal   | `00a690` | 3                | 172   | 100          | 65
-<img src="http://www.colorhexa.com/009bf5.png" height="24" width="39"> blue   | `009bf5` | 3                | 202   | 100          | 96
-<img src="http://www.colorhexa.com/a069ff.png" height="24" width="39"> purple | `a069ff` | 3½               | 262   | 59           | 100
-<img src="http://www.colorhexa.com/ff4abd.png" height="24" width="39"> pink   | `ff4abd` | 3                | 322   | 71           | 100
-
-### step 5: choose petrel accent colours
+### step 4: choose petrel accent colours
 
 The accent colours of the **petrel** theme were derived from the seagull colours by reducing saturation of all hues by ¼, then adjusting value to achieve 4½:1 contrast ratio\* (the W3C-recommended ['accessible minimum'](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) for readable text) with the petrel background. Against a dark background, this higher contrast ratio proved appropriate for all colours.
 
