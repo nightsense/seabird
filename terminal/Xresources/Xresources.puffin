@@ -26,7 +26,7 @@
 #define S_green  #17ab00
 #define S_teal   #00a690
 #define S_blue   #009bf5
-#define S_purple #a470ff
+#define S_purple #a069ff
 #define S_pink   #ff4abd
 
 *color1:  S_red

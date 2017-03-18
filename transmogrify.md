@@ -73,7 +73,7 @@ call append(310,["",
 %s/719e07/17ab00/g |
 %s/2aa198/00a690/g |
 %s/268bd2/009bf5/g |
-%s/6c71c4/a470ff/g |
+%s/6c71c4/a069ff/g |
 %s/d33682/ff4abd/g |
 
 18s/ctermbg=11/ctermbg=15/ |
