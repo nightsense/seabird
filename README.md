@@ -72,16 +72,16 @@ seagrey8    | regular background (seagull)     | 202   | 0
 
 Third, value levels were assigned. **seagrey8** was set to 100% value. The remaining colours were assigned values based on contrast ratios with other base colours.
 
-this colour was assigned...                                                     | ...this value... | ...due to this contrast ratio\*...         | ...with this colour
---------------------------------------------------------------------------------|------------------|--------------------------------------------|--------------------
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> seagrey1 | 10               | 18½:1                                      | seagrey8
-<img src="http://www.colorhexa.com/1d262b.png" height="24" width="39"> seagrey2 | 17               | 1⅕:1                                       | seagrey1
-<img src="http://www.colorhexa.com/61717a.png" height="24" width="39"> seagrey3 | 48               | 3:1                                        | seagrey2
-<img src="http://www.colorhexa.com/6d777d.png" height="24" width="39"> seagrey4 | 49               | 4½:1                                       | seagrey8
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | 51               | 4½:1                                       | seagrey1
-<img src="http://www.colorhexa.com/83878a.png" height="24" width="39"> seagrey6 | 54               | 3:1                                        | seagrey7
-<img src="http://www.colorhexa.com/e6ebed.png" height="24" width="39"> seagrey7 | 93               | 1⅕:1                                       | seagrey8
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | 100              | -                                          | -
+this colour was assigned... | ...this value... | ...due to this contrast ratio\*...         | ...with this colour
+----------------------------|------------------|--------------------------------------------|--------------------
+seagrey1                    | 10               | 18½:1                                      | seagrey8
+seagrey2                    | 17               | 1⅕:1                                       | seagrey1
+seagrey3                    | 48               | 3:1                                        | seagrey2
+seagrey4                    | 49               | 4½:1                                       | seagrey8
+seagrey5                    | 51               | 4½:1                                       | seagrey1
+seagrey6                    | 54               | 3:1                                        | seagrey7
+seagrey7                    | 93               | 1⅕:1                                       | seagrey8
+seagrey8                    | 100              | -                                          | -
 
 - the 18½:1 ratio ensures a 10% value background for the dark theme: a "soft black" good for long-term readability
 - the 1⅕:1 ratio provides background highlights that stand out clearly, yet unobtrusively, from the regular background
