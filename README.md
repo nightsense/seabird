@@ -120,14 +120,9 @@ The aesthetic aim of **seagull** includes a bright, cheerful palette of accent c
 
 The contrast ratio of full blast blue is 2¾:1. Since hue 202 is the "reference colour" of the seabird theme, this became the target contrast ratio of the seagull accent colours. This ratio was applied to each hue, provided that the hue's own full blast contrast ratio (FBRC) did not exceed that of blue by more than 1.
 
-FBCR < 3¾:1 | 3¾:1 < FBCR < 4¾:1 | FBCR > 4¾:1
-------------|--------------------|------------
-orange      | red                | purple
-yellow      |                    |
-green       |                    |
-teal        |                    |
-blue        |                    |
-pink        |                    |
+FBCR < 3¾:1                               | 3¾:1 < FBCR < 4¾:1 | FBCR > 4¾:1
+------------------------------------------|--------------------|------------
+orange, yellow, green,<br>teal, blue pink | red                | purple
 
 To avoid washed-out colours, any hue with an FBCR exceeding that of blue by more than 1 was granted an extra ¼ contrast ratio; by more than 2, an extra ½.
 
