@@ -66,7 +66,7 @@ call append(310,["",
 %s/eee8d5/e6ebed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ff596f/g |
+%s/dc322f/ff4a62/g |
 %s/cb4b16/ff6105/g |
 %s/b58900/ab9400/g |
 %s/859900/17ab00/g |
