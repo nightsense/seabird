@@ -139,7 +139,7 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/a470ff.png" height="24" width="39"> purple | `a470ff` | 3¼               | 262   | 56           | 100
 <img src="http://www.colorhexa.com/ff5cc4.png" height="24" width="39"> pink   | `ff5cc4` | 2¾               | 322   | 64           | 100
 
-ISO compliance was thus slightly relaxed for most hues, in order to avoid overly dark colours.
+ISO compliance was thus slightly relaxed for most hues, for the sake of sufficiently vibrant colours.
 
 ### step 4: choose petrel accent colours
 
