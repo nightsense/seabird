@@ -57,7 +57,7 @@ The base colours, which are shared by the light and dark versions of seabird, we
 
 First, all base colours were assigned hue 204.
 
-Second, saturation levels were assigned. The lightest colour, **seagrey8**, was assigned 0. For the remaining colours, an excerpt of the Fibonacci sequence was applied.
+Second, saturation levels were assigned. The lightest colour, seagrey8, was assigned 0. For the remaining colours, an excerpt of the Fibonacci sequence was applied.
 
 base colour | basic role                       | hue ° | saturation %
 ------------|----------------------------------|-------|-------------
@@ -70,9 +70,9 @@ seagrey6    | subdued text (seagull)           | 204   | 5
 seagrey7    | highlighted background (seagull) | 204   | 3
 seagrey8    | regular background (seagull)     | 204   | 0
 
-Third, value levels were assigned. **seagrey8** was set to 100% value. The remaining colours were assigned values based on contrast ratios with other base colours.
+Third, value levels were assigned. seagrey8 was set to 100% value. The others were assigned values based on contrast ratios with other base colours.
 
-this colour was assigned... | ...this value... | ...due to this contrast ratio\*...         | ...with this colour
+this colour was assigned... | ...this value... | ...to meet this contrast ratio\*...         | ...with this colour
 ----------------------------|------------------|--------------------------------------------|--------------------
 seagrey1                    | 10               | 18½:1                                      | seagrey8
 seagrey2                    | 17               | 1⅕:1                                       | seagrey1
@@ -103,7 +103,7 @@ seabird base colour                                                             
 
 ### step 3: choosing seagull accent colours
 
-Accent colour hues were selected from around the (30°-divided) colour wheel: hue 204 plus seven of its companions.
+Accent colour hues were selected from around the (30°-divided) colour wheel: hue 204 plus seven companions.
 
 colour | hue
 -------|----
@@ -135,7 +135,7 @@ Each "FBCR class" was treated as follows:
 - high-contrast hues were adjusted by lowering saturation by ⅓
 - low-contrast hues were adjusted by lowering value by ⅓
 
-Finally, colours that fell just short of ISO compliance (3:1 contrast ratio) were tweaked to meet the standard.
+Following this, some colours fell just short of ISO compliance (3:1 contrast ratio), and so were tweaked to meet the standard.
 
 seagull accent colour                                                         | hex      | contrast ratio\* | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
@@ -150,7 +150,7 @@ seagull accent colour                                                         | 
 
 ### step 4: choosing petrel accent colours
 
-The accent colours of the **petrel** theme were derived from the seagull colours by reducing saturation of all hues by ⅓, then adjusting value to achieve 4½:1 contrast ratio with the petrel background. Since a dark background allows for much higher contrast ratio while maintaining colour vibrancy, this higher (AA W3C compliant) ratio was found appropriate for all hues.
+The accent colours of the petrel theme were derived from the seagull colours by reducing saturation of all hues by ⅓, then adjusting value to achieve 4½:1 contrast ratio with the petrel background. Since a dark background allows for much higher contrast ratio while maintaining colour vibrancy, this higher (AA W3C compliant) ratio was found appropriate for all hues.
 
 petrel accent colour                                                          | hex      | contrast ratio\* | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
