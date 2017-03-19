@@ -72,7 +72,7 @@ seagrey6    | subdued text (seagull)           | 204   | 5
 seagrey7    | highlighted background (seagull) | 204   | 3
 seagrey8    | regular background (seagull)     | 204   | 0
 
-Third, value levels were assigned. seagrey8 was set to 100% value. The others were assigned values based on contrast ratios with other base colours.
+Third, value levels were assigned. seagrey8 was set to 100% value. The rest were assigned values based on contrast ratios with other base colours.
 
 this colour was assigned... | ...this value... | ...to meet this contrast ratio\*...         | ...with this colour
 ----------------------------|------------------|--------------------------------------------|--------------------
