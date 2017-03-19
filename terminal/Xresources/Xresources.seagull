@@ -1,6 +1,6 @@
-#define S_seagrey1 #0c141a
+#define S_seagrey1 #0b141a
 #define S_seagrey2 #1d252b
-#define S_seagrey3 #61717a
+#define S_seagrey3 #61707a
 #define S_seagrey4 #6d767d
 #define S_seagrey5 #787e82
 #define S_seagrey6 #85898c
