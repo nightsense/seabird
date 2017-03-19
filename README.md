@@ -2,7 +2,7 @@
 
 A Vim theme based on hue 204 <img src="http://www.colorhexa.com/00a2ff.png" height="24" width="24">. The light version is **seagull**; the dark, **petrel**.
 
-seabird is mathematically derived, largely through application of two widely-used measures of text-on-background readability: the [ISO "standard minimum"](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) contrast ratio of 3:1, and the [W3C "AA-rated accessible minimum"](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of 4½:1.
+seabird is mathematically derived, largely through application of two [widely-used measures](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of text-on-background readability: the ISO "standard minimum" contrast ratio of 3:1, and the W3C "AA-rated accessible minimum" of 4½:1.
 
 seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
@@ -154,14 +154,14 @@ The accent colours of the **petrel** theme were derived from the seagull colours
 
 petrel accent colour                                                          | hex      | contrast ratio\* | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
-<img src="http://www.colorhexa.com/bd616d.png" height="24" width="39"> red    | `bd616d` | 4½               | 354   | 49           | 74
-<img src="http://www.colorhexa.com/b86b3f.png" height="24" width="39"> orange | `b86b3f` | 4½               | 24    | 66           | 72
-<img src="http://www.colorhexa.com/8c7e23.png" height="24" width="39"> yellow | `8c7e23` | 4½               | 54    | 75           | 55
-<img src="http://www.colorhexa.com/328f24.png" height="24" width="39"> green  | `328f24` | 4½               | 114   | 75           | 56
-<img src="http://www.colorhexa.com/238c7e.png" height="24" width="39"> teal   | `238c7e` | 4½               | 174   | 75           | 55
-<img src="http://www.colorhexa.com/2d85b8.png" height="24" width="39"> blue   | `2d85b8` | 4½               | 204   | 75           | 72
-<img src="http://www.colorhexa.com/8c6fbf.png" height="24" width="39"> purple | `8c6fbf` | 4½               | 264   | 42           | 75
-<img src="http://www.colorhexa.com/b86098.png" height="24" width="39"> pink   | `b86098` | 4½               | 324   | 48           | 72
+<img src="http://www.colorhexa.com/bd616d.png" height="24" width="39"> red    | `b8656d` | 4½               | 354   | 45           | 72
+<img src="http://www.colorhexa.com/b86b3f.png" height="24" width="39"> orange | `b36c3d` | 4½               | 24    | 66           | 70
+<img src="http://www.colorhexa.com/8c7e23.png" height="24" width="39"> yellow | `8a802d` | 4½               | 54    | 67           | 54
+<img src="http://www.colorhexa.com/328f24.png" height="24" width="39"> green  | `398f2f` | 4½               | 114   | 67           | 56
+<img src="http://www.colorhexa.com/238c7e.png" height="24" width="39"> teal   | `2e8c83` | 4½               | 174   | 67           | 55
+<img src="http://www.colorhexa.com/2d85b8.png" height="24" width="39"> blue   | `3b83b3` | 4½               | 204   | 67           | 70
+<img src="http://www.colorhexa.com/8c6fbf.png" height="24" width="39"> purple | `8f6cc4` | 4½               | 264   | 45           | 77
+<img src="http://www.colorhexa.com/b86098.png" height="24" width="39"> pink   | `b86195` | 4½               | 324   | 47           | 72
 
 ## notes
 
