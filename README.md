@@ -55,13 +55,13 @@ Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24"> w
 
 ### step 2: choosing base colours
 
-The base colours, which are shared by the light and dark versions of seabird, were selecting using the hue/saturation/value model of colour definition.
+The base colours, which are shared by the light and dark versions of seabird, were selected using the hue/saturation/value model of colour definition.
 
 First, all base colours were assigned hue 204.
 
 Second, saturation levels were assigned. The lightest colour, seagrey8, was assigned 0. For the remaining colours, an excerpt of the Fibonacci sequence was applied.
 
-base colour | basic role                       | hue ° | saturation %
+base colour | role                             | hue ° | saturation %
 ------------|----------------------------------|-------|-------------
 seagrey1    | regular background (petrel)      | 204   | 55
 seagrey2    | highlighted background (petrel)  | 204   | 34
