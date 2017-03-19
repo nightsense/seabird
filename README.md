@@ -49,7 +49,9 @@ As of now, this repository only provides one terminal configuration file: `Xreso
 
 ### step 1: choosing a principal hue
 
-Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24"> was chosen because, at 100% saturation and value, it features 3:1 contrast ratio with a white background.
+Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24"> was chosen because:
+- a sky blue colour was desired
+- at 100% saturation and value, hue 204 features 3:1 contrast ratio (the ISO readability standard) with a white background
 
 ### step 2: choosing base colours
 
