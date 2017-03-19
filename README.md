@@ -51,7 +51,7 @@ As of now, this repository only provides one terminal configuration file: `Xreso
 
 Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24"> was chosen because, at 100% saturation and value, it features 3:1 contrast ratio with a white background.
 
-### step 2: choose base colours
+### step 2: choosing base colours
 
 The base colours, which are shared by the light and dark versions of seabird, were selecting using the hue/saturation/value model of colour definition.
 
@@ -101,7 +101,7 @@ seabird base colour                                                             
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> seagrey7 | `e6eaed` | 204   | 3            | 93
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | `ffffff` | 204   | 0            | 100
 
-### step 3: choose seagull accent colours
+### step 3: choosing seagull accent colours
 
 Accent colour hues were selected from around the (30°-divided) colour wheel: hue 204 plus seven of its companions.
 
@@ -148,7 +148,7 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/9954ff.png" height="24" width="39"> purple | `9954ff` | 4+               | 264   | 67           | 100
 <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"> pink   | `ff4db8` | 3                | 324   | 70           | 100
 
-### step 4: choose petrel accent colours
+### step 4: choosing petrel accent colours
 
 The accent colours of the **petrel** theme were derived from the seagull colours by reducing saturation of all hues by ⅓, then adjusting value to achieve 4½:1 contrast ratio with the petrel background. Since a dark background allows for much higher contrast ratio while maintaining colour vibrancy, this higher (AA W3C compliant) ratio was found appropriate for all hues.
 
