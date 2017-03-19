@@ -19,7 +19,7 @@ seagull | | petrel
 
 #### option A: manually
 
-Download `seagull.vim` and/or `petrel.vim` from this repository and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
+Download [`seagull.vim`](https://raw.githubusercontent.com/nightsense/seabird/master/colors/seagull.vim) and/or [`petrel.vim`](https://raw.githubusercontent.com/nightsense/seabird/master/colors/petrel.vim) from this repository and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
 
 #### option B: using a plugin manager
 
