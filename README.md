@@ -118,7 +118,7 @@ blue   | 204
 purple | 264
 pink   | 324
 
-To begin with, all hues were set to 100% saturation and value, which might be called the "full blast" form of each hue. Each of these colours has a different "full blast contrast ratio" (FBCR) with a white background.
+To begin with, all hues were set to 100% saturation and value, which might be called the "full blast" form of each hue. Each of these colours has a different 'full blast contrast ratio' (FBCR) with a white background.
 
 hue    | FBCR (white background) | FBCR class
 -------|-------------------------|--------------
@@ -131,7 +131,7 @@ blue   | 3.0                     | mid
 purple | 7.0                     | high
 pink   | 3.7                     | high
 
-Each "FBCR class" was treated as follows:
+Each 'FBCR class' was treated as follows:
 
 - mid-contrast hues were left unadjusted
 - high-contrast hues were adjusted by lowering saturation by ⅓
