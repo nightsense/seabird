@@ -86,7 +86,7 @@ seagrey7                    | 93               | 1⅕:1                         
 seagrey8                    | 100              | -                                          | -
 
 - the 18½:1 ratio ensures a 10% value background for the dark theme: a "soft black" good for long-term readability
-- the 1⅕:1 ratio provides background highlights that stand out clearly, yet unobtrusively, from the regular background
+- the 1⅕:1 ratio provides background highlights that stand out clearly from the regular background
 - the 3:1 ratio ensures that subdued text on highlighted background is ISO-compliant
 - the 4½:1 ratio ensures that regular text on regular background is AA W3C-compliant
 
