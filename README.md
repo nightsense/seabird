@@ -111,7 +111,7 @@ red  | orange | yellow | green | teal | blue | purple | pink
 -----|--------|--------|-------|------|------|--------|-----
 354° | 24°    | 54°    | 114°  | 174° | 204° | 264°   | 324°
 
-All hues were set to 100% saturation and value, then divided into four groups according to contrast ratio.
+All hues were set to 100% saturation and value, then divided into four groups according to contrast ratio (on white).
 
 - the **mid-contrast** hues (blue, orange), which featured ~3:1 contrast, were left unmodified
 - the **low-contrast** hues (yellow, green, teal) were lowered in value until all reached 3:1 contrast (final value: 65%)
