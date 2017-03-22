@@ -116,7 +116,7 @@ All hues were set to 100% saturation and value, then divided into four groups ac
 - the **mid-contrast** hues (blue, orange) were nearly untouched; orange needed a tiny drop in value to reach 3:1 contrast
 - the **low-contrast** hues (yellow, green, teal) were lowered in value until they reached 3:1 contrast
 - the **high-contrast** hues (red, purple, pink) were lowered in saturation until they reached 3:1 contrast
-  - red and purple, which were left looking washed out, were then boosted to 3⅓:1 and 3⅔:1 contrast, respectively
+  - red and purple, which were left looking washed out, were then boosted to 3¼:1 and 3½:1 contrast, respectively
 
 seagull accent colour                                                         | hex      | contrast ratio   | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
