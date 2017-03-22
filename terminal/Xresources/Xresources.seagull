@@ -23,7 +23,7 @@
 #define S_red    #ff4d5e
 #define S_orange #ff6600
 #define S_yellow #a69500
-#define S_green  #11a600
+#define S_green  #11ad00
 #define S_teal   #00a695
 #define S_blue   #0099ff
 #define S_purple #a366ff
