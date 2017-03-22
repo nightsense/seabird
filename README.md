@@ -118,6 +118,8 @@ All hues were set to 100% saturation and value, then divided into four groups ac
 - the **high-contrast** hues (red, purple, pink) were lowered in saturation until they reached 3:1 contrast
   - red and purple, which were left looking washed out, were then boosted to 3¼:1 and 3½:1 contrast, respectively
 
+All seagull accent colours are therefore ISO-compliant.
+
 seagull accent colour                                                         | hex      | contrast ratio   | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
 <img src="http://www.colorhexa.com/ff4d5e.png" height="24" width="39"> red    | `ff4d5e` | 3¼               | 354   | 70           | 100
@@ -137,7 +139,7 @@ The accent colours of the petrel theme were derived from the seagull colours by 
 - value of low-contrast hues (as defined earlier) by ⅙
 - value of all non-low-contrast hues by ⅓
 
-The resulting contrast ratios fall in the range of ~4½-5:1.
+The resulting contrast ratios fall in the range of 4½-5:1, making them all W3C AA compliant.
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-------|--------------|--------
