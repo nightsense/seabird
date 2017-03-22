@@ -113,7 +113,7 @@ red  | orange | yellow | green | teal | blue | purple | pink
 
 All hues were set to 100% saturation and value, then divided into four groups according to contrast ratio (with a white background). A different adjustment was applied to each group:
 
-- the **mid-contrast** hues (blue and orange) already featured ~3:1 contrast, and so were left alone
+- the **mid-contrast** hues (blue and orange), which featured ~3:1 contrast, were left unmodified
 - the **low-contrast** hues (yellow, green, and teal) were lowered in value until all members reached 3:1 contrast (final value: 65%)
 - the **high-contrast** hues (red and pink) were lowered in saturation until one member reached 3:1 contrast (final saturation: 70%)
 - the **extreme-contrast** hue (purple) was lowered in saturation until it reached 3½:1 contrast (final saturation: 60%)
