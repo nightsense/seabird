@@ -129,7 +129,7 @@ The accent colours of the petrel theme were derived from the seagull colours by 
 
 - saturation of all hues by ½
 - value of low-contrast hues by ⅙
-- value of all non-low-contrast hues by ⅓
+- value of non-low-contrast hues by ⅓
 
 The resulting contrast ratios fall in the range of 4½-5:1, making all petrel accent colours W3C AA compliant.
 
