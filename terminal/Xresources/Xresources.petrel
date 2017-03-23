@@ -20,13 +20,13 @@
 *color7:  S_seagrey7
 *color15: S_seagrey8
 
-#define S_red    #ab6f75
+#define S_red    #ab6d73
 #define S_orange #ab7855
 #define S_yellow #8a8345
 #define S_green  #509149
 #define S_teal   #458a83
 #define S_blue   #5589ab
-#define S_purple #8c78ab
+#define S_purple #8b76ab
 #define S_pink   #ab6f93
 
 *color1:  S_red
