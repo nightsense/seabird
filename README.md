@@ -29,15 +29,7 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 Add `colorscheme seagull` or `colorscheme petrel` to your `vimrc`.
 
-Or, if you'd like to switch automatically between them based on time of day, add this block (which activates petrel when launching Vim between 8PM and 8AM, seagull otherwise):
-
-```
-if strftime("%H") < 8 || strftime("%H") > 20
-colorscheme petrel
-else
-colorscheme seagull
-endif
-```
+Or if you'd like to switch automatically between them, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
 
 ### step 3: configure terminal colours (if using Vim in a terminal)
 
