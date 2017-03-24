@@ -125,24 +125,18 @@ seagull accent colour                                                         | 
 
 ### step 4: choosing petrel accent colours
 
-The accent colours of the petrel theme were derived from the seagull colours by reducing:
-
-- saturation of all hues by ½
-- value of low-contrast hues by ⅙
-- value of non-low-contrast hues by ⅓
-
-The resulting contrast ratios fall in the range of 4½-5:1, making all petrel accent colours W3C AA compliant.
+The accent colours of the petrel theme were derived from the seagull colours by reducing saturation of all hues by ½, then lowering value to achieve a contrast ratio of 4½. All petrel accent colours are therefore W3C AA compliant.
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-------|--------------|--------
 <img src="http://www.colorhexa.com/ab6d73.png" height="24" width="39"> red    | `ab6d73` | 354   | 36           | 67
-<img src="http://www.colorhexa.com/ab7855.png" height="24" width="39"> orange | `ab7855` | 24    | 50           | 67
-<img src="http://www.colorhexa.com/8a8345.png" height="24" width="39"> yellow | `8a8345` | 54    | 50           | 54
-<img src="http://www.colorhexa.com/509149.png" height="24" width="39"> green  | `509149` | 114   | 50           | 57
+<img src="http://www.colorhexa.com/ab7855.png" height="24" width="39"> orange | `a37252` | 24    | 50           | 64
+<img src="http://www.colorhexa.com/8a8345.png" height="24" width="39"> yellow | `878044` | 54    | 50           | 53
+<img src="http://www.colorhexa.com/509149.png" height="24" width="39"> green  | `4d8c46` | 114   | 50           | 55
 <img src="http://www.colorhexa.com/458a83.png" height="24" width="39"> teal   | `458a83` | 174   | 50           | 54
-<img src="http://www.colorhexa.com/5589ab.png" height="24" width="39"> blue   | `5589ab` | 204   | 50           | 67
-<img src="http://www.colorhexa.com/8b76ab.png" height="24" width="39"> purple | `8b76ab` | 264   | 31           | 67
-<img src="http://www.colorhexa.com/ab6f93.png" height="24" width="39"> pink   | `ab6f93` | 324   | 35           | 67
+<img src="http://www.colorhexa.com/5589ab.png" height="24" width="39"> blue   | `5283a3` | 204   | 50           | 64
+<img src="http://www.colorhexa.com/8b76ab.png" height="24" width="39"> purple | `8974a8` | 264   | 31           | 67
+<img src="http://www.colorhexa.com/ab6f93.png" height="24" width="39"> pink   | `a66c8f` | 324   | 35           | 65
 
 ## notes
 
