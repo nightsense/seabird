@@ -66,14 +66,14 @@ call append(310,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ab6d73/g |
+%s/dc322f/ad6c72/g |
 %s/cb4b16/a37252/g |
 %s/b58900/878044/g |
 %s/859900/4d8c46/g |
 %s/719e07/4d8c46/g |
 %s/2aa198/458a83/g |
 %s/268bd2/5283a3/g |
-%s/6c71c4/8974a8/g |
+%s/6c71c4/8b74ad/g |
 %s/d33682/a66c8f/g |
 
 18s/ctermbg=12/ctermbg=10/ |
