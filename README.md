@@ -108,19 +108,19 @@ All hues were set to 100% saturation and value, then divided into four groups ac
 - the **mid-contrast** hues (blue, orange) were nearly untouched; orange needed a tiny value drop to reach 3:1 contrast
 - the **low-contrast** hues (yellow, green, teal) were lowered in value until they reached 3:1 contrast
 - the **high-contrast** hues (red, purple, pink) were lowered in saturation until they reached 3:1 contrast
-  - red and purple, which were left looking washed out, were then boosted to 3⅓:1 and 3⅔:1 contrast respectively
+  - red and purple, which were left looking washed out, were then boosted to 3½:1 and 4:1 contrast respectively
 
 All seagull accent colours are therefore ISO-compliant.
 
 seagull accent colour                                                         | hex      | contrast ratio   | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|------------------|-------|--------------|--------
-<img src="http://www.colorhexa.com/ff475a.png" height="24" width="39"> red    | `ff475a` | 3⅓               | 354   | 72           | 100
+<img src="http://www.colorhexa.com/ff475a.png" height="24" width="39"> red    | `ff3b4e` | 3½               | 354   | 77           | 100
 <img src="http://www.colorhexa.com/ff6600.png" height="24" width="39"> orange | `fc6500` | 3                | 24    | 100          | 99
 <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"> yellow | `a69500` | 3                | 54    | 100          | 65
 <img src="http://www.colorhexa.com/11ad00.png" height="24" width="39"> green  | `11ad00` | 3                | 114   | 100          | 68
 <img src="http://www.colorhexa.com/00a695.png" height="24" width="39"> teal   | `00a695` | 3                | 174   | 100          | 65
 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"> blue   | `0099ff` | 3                | 204   | 100          | 100
-<img src="http://www.colorhexa.com/a061ff.png" height="24" width="39"> purple | `a061ff` | 3⅔               | 264   | 62           | 100
+<img src="http://www.colorhexa.com/a061ff.png" height="24" width="39"> purple | `9a57ff` | 4                | 264   | 66           | 100
 <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"> pink   | `ff4db8` | 3                | 324   | 70           | 100
 
 ### step 4: choosing petrel accent colours
@@ -129,13 +129,13 @@ The accent colours of the petrel theme were derived from the seagull colours by 
 
 petrel accent colour                                                          | hex      | contrast ratio  | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-----------------|-------|--------------|--------
-<img src="http://www.colorhexa.com/ab6d73.png" height="24" width="39"> red    | `ab6d73` | 4½              | 354   | 36           | 67
+<img src="http://www.colorhexa.com/ab6d73.png" height="24" width="39"> red    | `ad6c72` | 4½              | 354   | 38           | 68
 <img src="http://www.colorhexa.com/ab7855.png" height="24" width="39"> orange | `a37252` | 4½              | 24    | 50           | 64
 <img src="http://www.colorhexa.com/8a8345.png" height="24" width="39"> yellow | `878044` | 4½              | 54    | 50           | 53
 <img src="http://www.colorhexa.com/509149.png" height="24" width="39"> green  | `4d8c46` | 4½              | 114   | 50           | 55
 <img src="http://www.colorhexa.com/458a83.png" height="24" width="39"> teal   | `458a83` | 4½              | 174   | 50           | 54
 <img src="http://www.colorhexa.com/5589ab.png" height="24" width="39"> blue   | `5283a3` | 4½              | 204   | 50           | 64
-<img src="http://www.colorhexa.com/8b76ab.png" height="24" width="39"> purple | `8974a8` | 4½              | 264   | 31           | 67
+<img src="http://www.colorhexa.com/8b76ab.png" height="24" width="39"> purple | `8b74ad` | 4½              | 264   | 33           | 68
 <img src="http://www.colorhexa.com/ab6f93.png" height="24" width="39"> pink   | `a66c8f` | 4½              | 324   | 35           | 65
 
 ## notes
