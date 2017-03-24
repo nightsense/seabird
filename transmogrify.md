@@ -21,14 +21,14 @@ The seabird colour scheme files found in this repository are generated from:
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ff475a/g |
-%s/cb4b16/ff6600/g |
+%s/dc322f/ff3b4e/g |
+%s/cb4b16/fc6500/g |
 %s/b58900/a69500/g |
 %s/859900/11ad00/g |
 %s/719e07/11ad00/g |
 %s/2aa198/00a695/g |
 %s/268bd2/0099ff/g |
-%s/6c71c4/a061ff/g |
+%s/6c71c4/9a57ff/g |
 %s/d33682/ff4db8/g |
 
 18s/ctermbg=11/ctermbg=15/ |
