@@ -125,7 +125,7 @@ seagull accent colour                                                         | 
 
 ### step 4: choosing petrel accent colours
 
-The accent colours of the petrel theme were derived from the seagull colours by reducing saturation of all hues by ½, then lowering value to achieve a contrast ratio of 4½. All petrel accent colours are therefore W3C AA compliant.
+The accent colours of the petrel theme were derived from the seagull colours by reducing saturation of all hues by ½, then reducing value to a contrast ratio of 4½. All petrel accent colours are therefore W3C AA compliant.
 
 petrel accent colour                                                          | hex      | contrast ratio  | hue ° | saturation % | value %
 ------------------------------------------------------------------------------|----------|-----------------|-------|--------------|--------
