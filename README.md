@@ -27,7 +27,7 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 ### step 2: activate the colour scheme
 
-Add `colorscheme seagull` or `colorscheme petrel` to your `vimrc`.
+Add `colorscheme seagull` or `colorscheme petrel` to your `vimrc`. (Both schemes expect `background=light`, which is the default Vim setting, so don't set `background=` in `vimrc`.)
 
 Or if you'd like to switch automatically between them, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
 
