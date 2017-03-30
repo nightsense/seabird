@@ -29,7 +29,9 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 Add `colorscheme seagull` or `colorscheme petrel` to your `vimrc`. (Both schemes expect `background=light`, which is the default Vim setting, so don't set `background` in `vimrc`.)
 
-Or if you'd like to switch automatically between them, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
+To switch automatically between light and dark, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
+
+If using seabird in (a recent version of) Neovim, add `set termguicolors` to enable truecolour support.
 
 ### step 3: configure terminal colours (if using Vim in a terminal)
 
