@@ -31,7 +31,7 @@ Add `colorscheme seagull` or `colorscheme petrel` to your `vimrc`. (Both schemes
 
 To switch automatically between light and dark, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
 
-If using seabird in (a recent version of) Neovim, add `set termguicolors` to enable truecolour support.
+For Neovim, add `set termguicolors` to enable truecolour support.
 
 ### step 3: configure terminal colours (if using Vim in a terminal)
 
