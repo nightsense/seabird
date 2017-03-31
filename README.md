@@ -85,7 +85,7 @@ seabird is mathematically derived, largely through application of two widely-use
 
 #### option A: manually
 
-Download [`seagull.vim`](https://raw.githubusercontent.com/nightsense/seabird/master/colors/seagull.vim) and/or [`petrel.vim`](https://raw.githubusercontent.com/nightsense/seabird/master/colors/petrel.vim) from this repository and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
+Download the desired [colourscheme files](https://github.com/nightsense/seabird/tree/master/colors) and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
 
 #### option B: using a plugin manager
 
