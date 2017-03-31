@@ -11,8 +11,8 @@
 <tr>
 <td align="center"><h6>SEABIRD<br>VARIANTS</h6></td>
 <td align="center"><img src="img/high-saturation.jpg" width="100"><br><h5>CLEAR SKIES<br>(high-saturation)</h5></td>
-<td align="center"><img src="img/mid-saturation.jpg" width="100"><br><h5>CLOUDY SKIES</h5><h6>mid-saturation</h6></td>
-<td align="center"><img src="img/low-saturation.jpg" width="100"><br><h5>STORMY SKIES</h5><h6>low-saturation</h6></td>
+<td align="center"><img src="img/mid-saturation.jpg" width="100"><br><h5>CLOUDY SKIES<br>(mid-saturation)</h5></td>
+<td align="center"><img src="img/low-saturation.jpg" width="100"><br><h5>STORMY SKIES<br>(low-saturation)</h5></td>
 </tr>
 <tr>
 <td align="center"><img src="img/seagull.jpg" width="100"><br>light background</td>
