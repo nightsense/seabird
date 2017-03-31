@@ -272,4 +272,6 @@ Colour adjustment was performed with the [GIMP](https://www.gimp.org/) colour se
 
 Actual contrast ratios may be slightly higher than those listed, due to discrete jumps in digital colour values.
 
-Photo credits: seagull by [Dan Hurt](https://www.flickr.com/photos/57549136@N02/6031726894), petrel by [Duncan (angrysunbird)](https://www.flickr.com/photos/11056712@N00/5291996898). Both licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+Photo credits:
+- seagull by [Dan Hurt](https://www.flickr.com/photos/57549136@N02/6031726894), petrel by [Duncan (angrysunbird)](https://www.flickr.com/photos/11056712@N00/5291996898); both licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+- 'clear sea' by [Ali West](https://www.flickr.com/photos/71539256@N00/639714927), 'rainy sea' by [Mary (puzzlement)](https://www.flickr.com/photos/99735090@N00/4123554458), 'stormy sea' by [Ingrid Taylar](https://www.flickr.com/photos/49503118795@N01/4266670427); all licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/); all colour-adjusted
