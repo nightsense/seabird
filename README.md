@@ -6,7 +6,7 @@ seabird comes in four variants:
 
 <table>
 <tr><td align="center">saturation level</td><td align="center">light theme</td><td align="center">dark theme</td></tr>
-<tr><td align="center">high</td><td align="center">**seagull**</td><td align="center">**petrel**</td></tr>
+<tr><td align="center">high</td><td align="center"><strong>seagull</strong></td><td align="center">**petrel**</td></tr>
 </table>
 
 
