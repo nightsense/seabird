@@ -15,7 +15,7 @@
 <td align="center"><img src="img/low-saturation.jpg" width="100"><br><h5>STORMY SKIES<br>(low-saturation)</h5></td>
 </tr>
 <tr>
-<td align="center"><img src="img/seagull.jpg" width="100"> <h5>LIGHT THEME</h5></td>
+<td align="center"><img src="img/seagull.jpg" width="100"> <strong>LIGHT THEME</strong></td>
 <td align="center"><strong>seagull</strong></td>
 <td align="center"><strong>rain gull</strong></td>
 <td align="center"><strong>storm gull</strong></td>
