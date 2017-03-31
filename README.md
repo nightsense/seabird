@@ -1,6 +1,8 @@
 # seabird
 
-A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24">. gui (Linux/Windows GVim, MacVim, Neovim) + terminal + true (24-bit) colour
+A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24">.
+
+gui (Linux/Windows GVim, MacVim, Neovim) + terminal + true (24-bit) colour
 
 seabird comes in four variants:
 
