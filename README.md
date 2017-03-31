@@ -24,8 +24,8 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
-<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td align="center">
+<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td align="center">
 <td align="center"><h3>petrel</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/967865.png" height="24" width="39"><br>
@@ -34,7 +34,7 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/5b8687.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/638194.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/857799.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/967583.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/967583.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td align="center"></tr>
 
 <tr></tr><tr><td align="center"><h3>rain gull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"><br>
@@ -44,8 +44,8 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
-<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td align="center">
+<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td align="center">
 <td align="center"><h3>rain petrel</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7779.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7b6f.png" height="24" width="39"><br>
@@ -54,7 +54,7 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/678485.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/6d808c.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/82798f.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7982.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7982.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td align="center"></tr>
 
 <tr></tr><tr><td align="center"><h3>storm gull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/cc7e86.png" height="24" width="39"><br>
@@ -64,8 +64,8 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/52a0a3.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/619bc2.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a287c9.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/c2829c.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
-<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/c2829c.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td align="center">
+<td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td align="center">
 <td align="center"><h3>storm petrel</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a797b.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7b72.png" height="24" width="39"><br>
@@ -74,7 +74,7 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/6c8182.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/72808a.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/817b8a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7b81.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7b81.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td align="center"></tr>
 
 </table>
 
