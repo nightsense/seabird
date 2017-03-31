@@ -18,7 +18,7 @@ seabird comes in six variants:
 <td align="center"><strong>storm gull</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="img/petrel.jpg" width="100"><br>dark background</td></tr>
+<td align="center"><img src="img/petrel.jpg" width="100"><br>dark background</td>
 <td align="center"><strong>petrel</strong></td>
 <td align="center"><strong>rain petrel</strong></td>
 <td align="center"><strong>storm petrel</strong></td>
