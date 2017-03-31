@@ -6,9 +6,9 @@ seabird comes in six variants:
 
 <table>
 <tr><td align="center"></td><td align="center"><img src="img/seagull.jpg" width="100"><br>light background</td><td align="center"><img src="img/petrel.jpg" width="100"><br>dark background</td></tr>
-<tr><td align="center"><img src="img/high-saturation.jpg" width="100"> high-<br>saturation</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
-<tr><td align="center"><img src="img/mid-saturation.jpg" width="100">mid-<br>saturation</td><td align="center"><strong>rain gull</strong></td><td align="center"><strong>rain petrel</strong></td></tr>
-<tr><td align="center"><img src="img/low-saturation.jpg" width="100">low-<br>saturation</td><td align="center"><strong>storm gull</strong></td><td align="center"><strong>storm petrel</strong></td></tr>
+<tr><td align="center"><img src="img/high-saturation.jpg" width="100"><br>high-saturation</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
+<tr><td align="center"><img src="img/mid-saturation.jpg" width="100"><br>mid-saturation</td><td align="center"><strong>rain gull</strong></td><td align="center"><strong>rain petrel</strong></td></tr>
+<tr><td align="center"><img src="img/low-saturation.jpg" width="100"><br>low-saturation</td><td align="center"><strong>storm gull</strong></td><td align="center"><strong>storm petrel</strong></td></tr>
 </table>
 
 seabird is mathematically derived, largely through application of two widely-used [measures](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of text-on-background readability: the ISO "standard" contrast ratio of 3:1, and the W3C "AA-rated accessible" contrast ratio of 4½:1.
