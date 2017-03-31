@@ -201,15 +201,15 @@ call append(321,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ad6c72/g |
-%s/cb4b16/a37252/g |
-%s/b58900/878044/g |
-%s/859900/4d8c46/g |
-%s/719e07/4d8c46/g |
-%s/2aa198/458a83/g |
-%s/268bd2/5283a3/g |
-%s/6c71c4/8b74ad/g |
-%s/d33682/a66c8f/g |
+%s/dc322f/8f7779/g |
+%s/cb4b16/8f7b6f/g |
+%s/b58900/857d67/g |
+%s/859900/6a8567/g |
+%s/719e07/6a8567/g |
+%s/2aa198/678485/g |
+%s/268bd2/6d808c/g |
+%s/6c71c4/82798f/g |
+%s/d33682/8f7982/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61707a/ |
@@ -246,15 +246,15 @@ call append(321,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/ad6c72/g |
-%s/cb4b16/a37252/g |
-%s/b58900/878044/g |
-%s/859900/4d8c46/g |
-%s/719e07/4d8c46/g |
-%s/2aa198/458a83/g |
-%s/268bd2/5283a3/g |
-%s/6c71c4/8b74ad/g |
-%s/d33682/a66c8f/g |
+%s/dc322f/8a797b/g |
+%s/cb4b16/8a7b72/g |
+%s/b58900/857f6e/g |
+%s/859900/70856e/g |
+%s/719e07/70856e/g |
+%s/2aa198/6c8182/g |
+%s/268bd2/72808a/g |
+%s/6c71c4/817b8a/g |
+%s/d33682/8a7b81/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61707a/ |
