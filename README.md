@@ -4,11 +4,11 @@ A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" heig
 
 seabird comes in four variants:
 
-saturation | light      | dark
-:---------:|:----------:|:-----------:
-high       | seagull    | petrel
-medium     | rain gull  | rain petrel
-low        | storm gull | storm petrel
+saturation level | light theme      | dark theme
+:---------------:|:----------------:|:-----------:
+high             | seagull          | petrel
+medium           | rain gull        | rain petrel
+low              | storm gull       | storm petrel
 
 seabird is mathematically derived, largely through application of two widely-used [measures](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of text-on-background readability: the ISO "standard" contrast ratio of 3:1, and the W3C "AA-rated accessible" contrast ratio of 4½:1.
 
