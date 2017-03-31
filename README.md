@@ -6,7 +6,7 @@ seabird comes in six variants:
 
 <table>
 <tr><td align="center"></td><td align="center"><img src="img/seagull.jpg" width="100"><br>light background</td><td align="center"><img src="img/petrel.jpg" width="100"><br>dark background</td></tr>
-<tr><td align="center">high-saturation</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
+<tr><td align="center"><img src="img/clearsky.jpg" width="100"> high-saturation</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
 <tr><td align="center">mid-saturation</td><td align="center"><strong>rain gull</strong></td><td align="center"><strong>rain petrel</strong></td></tr>
 <tr><td align="center">low-saturation</td><td align="center"><strong>storm gull</strong></td><td align="center"><strong>storm petrel</strong></td></tr>
 </table>
@@ -182,7 +182,7 @@ All hues were initially set to 100% saturation and value. Then:
 
 - the low-contrast colours were reduced in value (**yellow** by ¼, **green** and **teal** by ⅓)
 - the high-contrast colours were reduced in saturation (**red** by ¼, **purple** and **pink** by ⅓)
-- the mid-contrast colours were left alone
+- the mid-contrast colours (**orange** and **blue**) were left alone
 
 The goal contrast ratio was 3:1 (the ISO minimum). Where necessary, small hue adjustments were made to reach this standard.
 
