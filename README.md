@@ -42,7 +42,7 @@
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the high-saturation light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the high-saturation dark seabird theme" width="290"></td>
-<td align="center"><h3>petrel</h3>
+<td align="center"><h4>PETREL</h4>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66f75.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a1755a.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7c4f.png" height="24" width="39"><br>
@@ -52,7 +52,7 @@
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8874a6.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a17085.png" height="24" width="39"></td></tr>
 
-<tr></tr><tr><td align="center"><h3>rain gull</h3>
+<tr></tr><tr><td align="center"><h4>RAIN<br>GULL</h4>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"><br>
@@ -62,7 +62,7 @@
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-raingull-ruby.png" alt="screenshot of rain gull, the mid-saturation light seabird theme" width="290"> <img src="img/screenshot-rainpetrel-ruby.png" alt="screenshot of rain petrel, the mid-saturation dark seabird theme" width="290"></td>
-<td align="center"><h3>rain petrel</h3>
+<td align="center"><h4>RAIN<br>PETREL</h4>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/967579.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/947968.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/877c5f.png" height="24" width="39"><br>
