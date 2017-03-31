@@ -4,7 +4,7 @@ A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" heig
 
 seabird comes in four variants:
 
-<p>saturation level</p> | light theme      | dark theme
+saturation level | light theme      | dark theme
 :---------------:|:----------------:|:-----------:
 high             | seagull          | petrel
 medium           | rain gull        | rain petrel
