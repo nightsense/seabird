@@ -121,7 +121,7 @@ First, all base colours were assigned hue 204.
 Second, saturation levels were assigned. The lightest colour, seagrey8, was assigned 0. For the remaining colours, an excerpt of the Fibonacci sequence was applied.
 
 base colour | role                             | hue ° | saturation %
-:-----------|:--------------------------------:|:-----:|:-----------:
+------------|:--------------------------------:|:-----:|:-----------:
 seagrey1    | regular background (petrel)      | 204   | 55
 seagrey2    | highlighted background (petrel)  | 204   | 34
 seagrey3    | subdued text (petrel)            | 204   | 21
