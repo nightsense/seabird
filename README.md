@@ -6,7 +6,7 @@ seabird comes in four variants:
 
 saturation level | light theme      | dark theme
 :---------------:|:----------------:|:-----------:
-high             | seagull          | petrel
+high             | **seagull**      | petrel
 medium           | rain gull        | rain petrel
 low              | storm gull       | storm petrel
 
