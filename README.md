@@ -20,7 +20,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 
 <table>
 
-<tr style="background-color:#f6f8fa"><td align="center"><h3>seagull</h3>
+<tr></tr><tr><td align="center"><h3>seagull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
@@ -40,7 +40,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b74ad.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66c8f.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
 
-<tr><td align="center"><h3>seagull</h3>
+<tr></tr><tr><td align="center"><h3>seagull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
@@ -60,7 +60,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b74ad.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66c8f.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
 
-<tr><td align="center"><h3>seagull</h3>
+<tr></tr><tr><td align="center"><h3>seagull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
