@@ -7,9 +7,9 @@
 #define S_seagrey7 #e6eaed
 #define S_seagrey8 #ffffff
 
-*background:  S_seagrey8
-*foreground:  S_seagrey4
-*cursorColor: S_seagrey3
+*background:  S_seagrey1
+*foreground:  S_seagrey5
+*cursorColor: S_seagrey6
 
 *color8:  S_seagrey1
 *color0:  S_seagrey2
@@ -20,14 +20,14 @@
 *color7:  S_seagrey7
 *color15: S_seagrey8
 
-#define S_red    #ff4053
-#define S_orange #ff6200
-#define S_yellow #bf8c00
-#define S_green  #11ab00
-#define S_teal   #00a5ab
-#define S_blue   #0099ff
-#define S_purple #9854ff
-#define S_pink   #ff549b
+#define S_red    #8f7779
+#define S_orange #8f7b6f
+#define S_yellow #857d67
+#define S_green  #6a8567
+#define S_teal   #678485
+#define S_blue   #6d808c
+#define S_purple #82798f
+#define S_pink   #8f7982
 
 *color1:  S_red
 *color9:  S_orange

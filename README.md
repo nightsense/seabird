@@ -5,7 +5,7 @@ A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" heig
 seabird comes in four variants:
 
 <table>
-<tr><td align="center">accent colour saturation</td><td align="center">light theme</td><td align="center">dark theme</td></tr>
+<tr><td align="center">accent colour saturation</td><td align="center"><img src="img/seagull.jpg" width="100"><br>light theme</td><td align="center">dark theme</td></tr>
 <tr><td align="center">high</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
 <tr><td align="center">medium</td><td align="center"><strong>rain gull</strong></td><td align="center"><strong>rain petrel</strong></td></tr>
 <tr><td align="center">low</td><td align="center"><strong>storm gull</strong></td><td align="center"><strong>storm petrel</strong></td></tr>
@@ -103,7 +103,7 @@ For Neovim, add `set termguicolors` to enable truecolour support.
 
 In order for seabird to work properly in terminal Vim, the terminal's colours should be set to match those of the active Vim theme.
 
-As of now, this repository only provides one terminal configuration file: `Xresources`, which is used by two popular Linux terminals, xterm and urxvt. If you'd like to see a configuration file for another terminal, feel free to make a [request](https://github.com/nightsense/seabird/issues).
+As of now, this repository only provides one [terminal configuration file](https://github.com/nightsense/seabird/tree/master/terminal): `Xresources`, which is used by two popular Linux terminals, xterm and urxvt. If you'd like to see a configuration file for another terminal, feel free to make a [request](https://github.com/nightsense/seabird/issues).
 
 ## how seabird took flight
 
