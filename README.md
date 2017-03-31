@@ -121,7 +121,7 @@ First, all base colours were assigned hue 204.
 Second, saturation levels were assigned. The lightest colour, seagrey8, was assigned 0. For the remaining colours, an excerpt of the Fibonacci sequence was applied.
 
 base colour | role                             | hue ° | saturation %
-------------|:--------------------------------:|:-----:|:-----------:
+:----------:|:--------------------------------:|:-----:|:-----------:
 seagrey1    | regular background (petrel)      | 204   | 55
 seagrey2    | highlighted background (petrel)  | 204   | 34
 seagrey3    | subdued text (petrel)            | 204   | 21
@@ -152,7 +152,7 @@ seagrey8                    | 100              | -                              
 The resulting colours:
 
 seabird base colour                                                             | hex      | hue ° | saturation % | value %
-:------------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-------------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> seagrey1 | `0b141a` | 204   | 55           | 10
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> seagrey2 | `1d252b` | 204   | 34           | 17
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> seagrey3 | `61707a` | 204   | 21           | 48
