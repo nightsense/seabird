@@ -1,6 +1,6 @@
 # seabird
 
-A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24">.
+A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24">, featuring gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
 seabird comes in four variants:
 
@@ -10,75 +10,71 @@ high       | seagull    | petrel
 medium     | rain gull  | rain petrel
 low        | storm gull | storm petrel
 
-The light version is **seagull**; the dark, **petrel**.
-
 seabird is mathematically derived, largely through application of two widely-used [measures](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) of text-on-background readability: the ISO "standard" contrast ratio of 3:1, and the W3C "AA-rated accessible" contrast ratio of 4½:1.
-
-seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (24-bit) colour support.
 
 ## screenshots
 
 <table>
 
 <tr></tr><tr><td align="center"><h3>seagull</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/11ad00.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a695.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4053.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff6200.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/11ab00.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9a57ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
 <td align="center"><h3>petrel</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad6c72.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a37252.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/878044.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4d8c46.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/458a83.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/5283a3.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b74ad.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66c8f.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/967865.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7e5c.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/5f875b.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/5b8687.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/638194.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/857799.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/967583.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
 
-<tr></tr><tr><td align="center"><h3>seagull</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/11ad00.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a695.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9a57ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
+<tr></tr><tr><td align="center"><h3>rain gull</h3>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/43a838.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
-<td align="center"><h3>petrel</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad6c72.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a37252.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/878044.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4d8c46.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/458a83.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/5283a3.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b74ad.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66c8f.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<td align="center"><h3>rain petrel</h3>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7779.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7b6f.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/857d67.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/6a8567.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/678485.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/6d808c.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/82798f.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f7982.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
 
-<tr></tr><tr><td align="center"><h3>seagull</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/11ad00.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a695.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9a57ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
+<tr></tr><tr><td align="center"><h3>storm gull</h3>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/cc7e86.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/c28661.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a89254.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/5aa352.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/52a0a3.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/619bc2.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a287c9.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/c2829c.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
-<td align="center"><h3>petrel</h3>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad6c72.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a37252.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/878044.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4d8c46.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/458a83.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/5283a3.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8b74ad.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66c8f.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<td align="center"><h3>storm petrel</h3>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a797b.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7b72.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/857f6e.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/70856e.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/6c8182.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/72808a.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/817b8a.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7b81.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
 
 </table>
 
