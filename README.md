@@ -110,8 +110,6 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 Add `colorscheme [theme name]` to your `vimrc` (e.g. `colorscheme seagull`).
 
-To switch automatically between light and dark, try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
-
 For Neovim, add `set termguicolors` to enable truecolour support.
 
 ### step 3: configure terminal colours (if using Vim in a terminal)
