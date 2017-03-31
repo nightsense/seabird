@@ -111,15 +111,15 @@ call append(310,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/cc7e86/g |
-%s/cb4b16/c28661/g |
-%s/b58900/a89254/g |
-%s/859900/5aa352/g |
-%s/719e07/5aa352/g |
-%s/2aa198/52a0a3/g |
-%s/268bd2/619bc2/g |
-%s/6c71c4/a287c9/g |
-%s/d33682/c2829c/g |
+%s/dc322f/c28288/g |
+%s/cb4b16/bd896a/g |
+%s/b58900/a6935d/g |
+%s/859900/62a35b/g |
+%s/719e07/62a35b/g |
+%s/2aa198/5a9ea1/g |
+%s/268bd2/6899ba/g |
+%s/6c71c4/a189c4/g |
+%s/d33682/bd849c/g |
 
 18s/ctermbg=11/ctermbg=15/ |
 18s/guibg=#6d767d/guibg=#85898c/ |
@@ -156,15 +156,15 @@ call append(310,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/9c7579/g |
-%s/cb4b16/967865/g |
-%s/b58900/8a7e5c/g |
-%s/859900/5f875b/g |
-%s/719e07/5f875b/g |
-%s/2aa198/5b8687/g |
-%s/268bd2/638194/g |
-%s/6c71c4/857799/g |
-%s/d33682/967583/g |
+%s/dc322f/a66f75/g |
+%s/cb4b16/a1755a/g |
+%s/b58900/8c7c4f/g |
+%s/859900/538a4d/g |
+%s/719e07/538a4d/g |
+%s/2aa198/4d888a/g |
+%s/268bd2/59829e/g |
+%s/6c71c4/8874a6/g |
+%s/d33682/a17085/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61707a/ |
@@ -201,15 +201,15 @@ call append(321,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/8f7779/g |
-%s/cb4b16/8f7b6f/g |
-%s/b58900/857d67/g |
-%s/859900/6a8567/g |
-%s/719e07/6a8567/g |
-%s/2aa198/678485/g |
-%s/268bd2/6d808c/g |
-%s/6c71c4/82798f/g |
-%s/d33682/8f7982/g |
+%s/dc322f/967579/g |
+%s/cb4b16/947968/g |
+%s/b58900/877c5f/g |
+%s/859900/63875f/g |
+%s/719e07/63875f/g |
+%s/2aa198/5f8687/g |
+%s/268bd2/688294/g |
+%s/6c71c4/847896/g |
+%s/d33682/947683/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61707a/ |
@@ -246,15 +246,15 @@ call append(321,["",
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
-%s/dc322f/8a797b/g |
-%s/cb4b16/8a7b72/g |
-%s/b58900/857f6e/g |
-%s/859900/70856e/g |
-%s/719e07/70856e/g |
-%s/2aa198/6c8182/g |
-%s/268bd2/72808a/g |
-%s/6c71c4/817b8a/g |
-%s/d33682/8a7b81/g |
+%s/dc322f/8f797c/g |
+%s/cb4b16/8c7b70/g |
+%s/b58900/857e6a/g |
+%s/859900/6d856a/g |
+%s/719e07/6d856a/g |
+%s/2aa198/6a8485/g |
+%s/268bd2/70818c/g |
+%s/6c71c4/817a8c/g |
+%s/d33682/8c7a82/g |
 
 18s/ctermbg=12/ctermbg=10/ |
 18s/guibg=#787e82/guibg=#61707a/ |
