@@ -32,7 +32,7 @@
 
 <table>
 
-<tr></tr><tr><td align="center"><h3>seagull</h3>
+<tr></tr><tr><td align="center"><h4>seagull</h4>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4053.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff6200.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"><br>
