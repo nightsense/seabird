@@ -82,7 +82,7 @@
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a189c4.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/bd849c.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-stormgull-ruby.png" alt="screenshot of storm gull, the low-saturation light seabird theme" width="290"> <img src="img/screenshot-stormpetrel-ruby.png" alt="screenshot of storm petrel, the low-saturation dark seabird theme" width="290"></td>
-<td align="center"><h3>storm petrel</h3>
+<td align="center"><h4>STORM PETREL</h4>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f797c.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7b70.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/857e6a.png" height="24" width="39"><br>
