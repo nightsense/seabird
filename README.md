@@ -20,8 +20,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 
 <table>
 
-<tr><td align="center">
-<h4>seagull</h4><br>
+<tr><td align="center"><h3>seagull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/fc6500.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a69500.png" height="24" width="39"><br>
@@ -31,7 +30,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9a57ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff4db8.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the dark seabird theme" width="290"></td>
-<td align="center">
+<td align="center"><h3>petrel</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad6c72.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a37252.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/878044.png" height="24" width="39"><br>
