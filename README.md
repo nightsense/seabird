@@ -186,7 +186,7 @@ All hues were initially set to 100% saturation and value. Then:
 The goal contrast ratio was 3:1 (the ISO minimum). Where necessary, small hue adjustments were made to reach this standard.
 
 seagull accent colour                                                         | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/ff4053.png" height="24" width="39"> red    | `ff4053` | 354   | 75           | 100
 <img src="http://www.colorhexa.com/ff6200.png" height="24" width="39"> orange | `ff6200` | 23    | 100          | 100
 <img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"> yellow | `bf8c00` | 44    | 100          | 75
@@ -201,7 +201,7 @@ seagull accent colour                                                         | 
 The seagull accent colours were converted to petrel colours by reducing saturation of each hue by ⅔, then reducing value to a contrast ratio of 4½:1 (the W3C AA minimum).
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"> red    | `9c7579` | 354   | 25           | 61
 <img src="http://www.colorhexa.com/967865.png" height="24" width="39"> orange | `967865` | 23    | 33           | 61
 <img src="http://www.colorhexa.com/8a7e5c.png" height="24" width="39"> yellow | `8a7e5c` | 44    | 33           | 55
@@ -216,7 +216,7 @@ petrel accent colour                                                          | 
 For rain gull, each seagull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
 
 rain gull accent colour                                                       | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"> red    | `e3717d` | 354   | 50           | 80
 <img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"> orange | `d67e47` | 23    | 67           | 76
 <img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"> yellow | `b0913a` | 44    | 67           | 62
@@ -229,7 +229,7 @@ rain gull accent colour                                                       | 
 For storm gull, each seagull accent colour was reduced in saturation by ½, then reduced in value to a contrast ratio of 3:1.
 
 storm gull accent colour                                                      | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/cc7e86.png" height="24" width="39"> red    | `cc7e86` | 354   | 38           | 80
 <img src="http://www.colorhexa.com/c28661.png" height="24" width="39"> orange | `c28661` | 23    | 50           | 76
 <img src="http://www.colorhexa.com/a89254.png" height="24" width="39"> yellow | `a89254` | 44    | 50           | 66
@@ -242,7 +242,7 @@ storm gull accent colour                                                      | 
 For rain petrel, each petrel accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 4½:1.
 
 rain petrel accent colour                                                     | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/8f7779.png" height="24" width="39"> red    | `8f7779` | 354   | 17           | 56
 <img src="http://www.colorhexa.com/8f7b6f.png" height="24" width="39"> orange | `8f7b6f` | 23    | 22           | 56
 <img src="http://www.colorhexa.com/857d67.png" height="24" width="39"> yellow | `857d67` | 44    | 22           | 52
@@ -255,7 +255,7 @@ rain petrel accent colour                                                     | 
 For storm petrel, each petrel accent colour was reduced in saturation by ½, then reduced in value to a contrast ratio of 4½:1.
 
 storm petrel accent colour                                                    | hex      | hue ° | saturation % | value %
-:----------------------------------------------------------------------------:|:--------:|:-----:|:------------:|:------:
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
 <img src="http://www.colorhexa.com/8a797b.png" height="24" width="39"> red    | `8a797b` | 354   | 12           | 54
 <img src="http://www.colorhexa.com/8a7b72.png" height="24" width="39"> orange | `8a7b72` | 23    | 17           | 54
 <img src="http://www.colorhexa.com/857f6e.png" height="24" width="39"> yellow | `857f6e` | 44    | 17           | 52
