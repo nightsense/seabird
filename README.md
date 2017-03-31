@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td align="center">variants</td>
+<td align="center">seabird<br>variants</td>
 <td align="center"><img src="img/high-saturation.jpg" width="100"><br>high-saturation</td>
 <td align="center"><img src="img/mid-saturation.jpg" width="100"><br>mid-saturation</td>
 <td align="center"><img src="img/low-saturation.jpg" width="100"><br>low-saturation</td>
