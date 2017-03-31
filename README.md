@@ -193,98 +193,98 @@ pink   | high           | 324°
 
 All hues were initially set to 100% saturation and value. Then:
 
-  - the low-contrast colours were reduced in value (**yellow** by ¼, **green** and **teal** by ⅓)
+- the low-contrast colours were reduced in value (**yellow** by ¼, **green** and **teal** by ⅓)
 - the high-contrast colours were reduced in saturation (**red** by ¼, **purple** and **pink** by ⅓)
-  - the mid-contrast colours (**orange** and **blue**) were left alone
+- the mid-contrast colours (**orange** and **blue**) were left alone
 
-  The goal contrast ratio was 3:1 (the ISO minimum). Where necessary, small hue adjustments were made to reach this standard.
+The goal contrast ratio was 3:1 (the ISO minimum). Where necessary, small hue adjustments were made to reach this standard.
 
-  seagull accent colour                                                         | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/ff4053.png" height="24" width="39"> red    | `ff4053` | 354   | 75           | 100
-  <img src="http://www.colorhexa.com/ff6200.png" height="24" width="39"> orange | `ff6200` | 23    | 100          | 100
-  <img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"> yellow | `bf8c00` | 44    | 100          | 75
-  <img src="http://www.colorhexa.com/11ab00.png" height="24" width="39"> green  | `11ab00` | 114   | 100          | 67
-  <img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"> teal   | `00a5ab` | 182   | 100          | 67
-  <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"> blue   | `0099ff` | 204   | 100          | 100
-  <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"> purple | `9854ff` | 264   | 67           | 100
-  <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"> pink   | `ff549b` | 335   | 67           | 100
+seagull accent colour                                                         | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/ff4053.png" height="24" width="39"> red    | `ff4053` | 354   | 75           | 100
+<img src="http://www.colorhexa.com/ff6200.png" height="24" width="39"> orange | `ff6200` | 23    | 100          | 100
+<img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"> yellow | `bf8c00` | 44    | 100          | 75
+<img src="http://www.colorhexa.com/11ab00.png" height="24" width="39"> green  | `11ab00` | 114   | 100          | 67
+<img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"> teal   | `00a5ab` | 182   | 100          | 67
+<img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"> blue   | `0099ff` | 204   | 100          | 100
+<img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"> purple | `9854ff` | 264   | 67           | 100
+<img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"> pink   | `ff549b` | 335   | 67           | 100
 
-  For rain gull, each seagull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
+For rain gull, each seagull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
 
-  rain gull accent colour                                                       | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"> red    | `e3717d` | 354   | 50           | 89
-  <img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"> orange | `d67e47` | 23    | 67           | 84
-  <img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"> yellow | `b0913a` | 44    | 67           | 69
-  <img src="http://www.colorhexa.com/43a838.png" height="24" width="39"> green  | `43a838` | 114   | 67           | 66
-  <img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"> teal   | `37a2a6` | 182   | 67           | 65
-  <img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"> blue   | `469bd4` | 204   | 67           | 83
-  <img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"> purple | `a980e8` | 264   | 45           | 91
-  <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"> pink   | `d6769e` | 335   | 45           | 84
+rain gull accent colour                                                       | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"> red    | `e3717d` | 354   | 50           | 89
+<img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"> orange | `d67e47` | 23    | 67           | 84
+<img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"> yellow | `b0913a` | 44    | 67           | 69
+<img src="http://www.colorhexa.com/43a838.png" height="24" width="39"> green  | `43a838` | 114   | 67           | 66
+<img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"> teal   | `37a2a6` | 182   | 67           | 65
+<img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"> blue   | `469bd4` | 204   | 67           | 83
+<img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"> purple | `a980e8` | 264   | 45           | 91
+<img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"> pink   | `d6769e` | 335   | 45           | 84
 
-  For storm gull, each rain gull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
+For storm gull, each rain gull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
 
-  storm gull accent colour                                                      | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/c28288.png" height="24" width="39"> red    | `c28288` | 354   | 33           | 76
-  <img src="http://www.colorhexa.com/bd896a.png" height="24" width="39"> orange | `bd896a` | 23    | 44           | 74
-  <img src="http://www.colorhexa.com/a6935d.png" height="24" width="39"> yellow | `a6935d` | 44    | 44           | 65
-  <img src="http://www.colorhexa.com/62a35b.png" height="24" width="39"> green  | `62a35b` | 114   | 44           | 64
-  <img src="http://www.colorhexa.com/5a9ea1.png" height="24" width="39"> teal   | `5a9ea1` | 182   | 44           | 63
-  <img src="http://www.colorhexa.com/6899ba.png" height="24" width="39"> blue   | `6899ba` | 204   | 44           | 73
-  <img src="http://www.colorhexa.com/a189c4.png" height="24" width="39"> purple | `a189c4` | 264   | 30           | 77
-  <img src="http://www.colorhexa.com/bd849c.png" height="24" width="39"> pink   | `bd849c` | 335   | 30           | 74
+storm gull accent colour                                                      | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/c28288.png" height="24" width="39"> red    | `c28288` | 354   | 33           | 76
+<img src="http://www.colorhexa.com/bd896a.png" height="24" width="39"> orange | `bd896a` | 23    | 44           | 74
+<img src="http://www.colorhexa.com/a6935d.png" height="24" width="39"> yellow | `a6935d` | 44    | 44           | 65
+<img src="http://www.colorhexa.com/62a35b.png" height="24" width="39"> green  | `62a35b` | 114   | 44           | 64
+<img src="http://www.colorhexa.com/5a9ea1.png" height="24" width="39"> teal   | `5a9ea1` | 182   | 44           | 63
+<img src="http://www.colorhexa.com/6899ba.png" height="24" width="39"> blue   | `6899ba` | 204   | 44           | 73
+<img src="http://www.colorhexa.com/a189c4.png" height="24" width="39"> purple | `a189c4` | 264   | 30           | 77
+<img src="http://www.colorhexa.com/bd849c.png" height="24" width="39"> pink   | `bd849c` | 335   | 30           | 74
 
 ### step 4: choosing petrel accent colours
 
-  For petrel, each storm gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
+For petrel, each storm gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
 
-  petrel accent colour                                                          | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/a66f75.png" height="24" width="39"> red    | `a66f75` | 354   | 33           | 65
-  <img src="http://www.colorhexa.com/a1755a.png" height="24" width="39"> orange | `a1755a` | 23    | 44           | 63
-  <img src="http://www.colorhexa.com/8c7c4f.png" height="24" width="39"> yellow | `8c7c4f` | 44    | 44           | 55
-  <img src="http://www.colorhexa.com/538a4d.png" height="24" width="39"> green  | `538a4d` | 114   | 44           | 54
-  <img src="http://www.colorhexa.com/4d888a.png" height="24" width="39"> teal   | `4d888a` | 182   | 44           | 54
-  <img src="http://www.colorhexa.com/59829e.png" height="24" width="39"> blue   | `59829e` | 204   | 44           | 62
-  <img src="http://www.colorhexa.com/8874a6.png" height="24" width="39"> purple | `8874a6` | 264   | 30           | 65
-  <img src="http://www.colorhexa.com/a17085.png" height="24" width="39"> pink   | `a17085` | 335   | 30           | 63
+petrel accent colour                                                          | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/a66f75.png" height="24" width="39"> red    | `a66f75` | 354   | 33           | 65
+<img src="http://www.colorhexa.com/a1755a.png" height="24" width="39"> orange | `a1755a` | 23    | 44           | 63
+<img src="http://www.colorhexa.com/8c7c4f.png" height="24" width="39"> yellow | `8c7c4f` | 44    | 44           | 55
+<img src="http://www.colorhexa.com/538a4d.png" height="24" width="39"> green  | `538a4d` | 114   | 44           | 54
+<img src="http://www.colorhexa.com/4d888a.png" height="24" width="39"> teal   | `4d888a` | 182   | 44           | 54
+<img src="http://www.colorhexa.com/59829e.png" height="24" width="39"> blue   | `59829e` | 204   | 44           | 62
+<img src="http://www.colorhexa.com/8874a6.png" height="24" width="39"> purple | `8874a6` | 264   | 30           | 65
+<img src="http://www.colorhexa.com/a17085.png" height="24" width="39"> pink   | `a17085` | 335   | 30           | 63
 
-  For rain petrel, each petrel accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 4½:1.
+For rain petrel, each petrel accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 4½:1.
 
-  rain petrel accent colour                                                     | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/967579.png" height="24" width="39"> red    | `967579` | 354   | 22           | 59
-  <img src="http://www.colorhexa.com/947968.png" height="24" width="39"> orange | `947968` | 23    | 30           | 56
-  <img src="http://www.colorhexa.com/877c5f.png" height="24" width="39"> yellow | `877c5f` | 44    | 30           | 52
-  <img src="http://www.colorhexa.com/63875f.png" height="24" width="39"> green  | `63875f` | 114   | 30           | 53
-  <img src="http://www.colorhexa.com/5f8687.png" height="24" width="39"> teal   | `5f8687` | 182   | 30           | 53
-  <img src="http://www.colorhexa.com/688294.png" height="24" width="39"> blue   | `688294` | 204   | 30           | 58
-  <img src="http://www.colorhexa.com/847896.png" height="24" width="39"> purple | `847896` | 264   | 20           | 59
-  <img src="http://www.colorhexa.com/947683.png" height="24" width="39"> pink   | `947683` | 335   | 20           | 58
+rain petrel accent colour                                                     | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/967579.png" height="24" width="39"> red    | `967579` | 354   | 22           | 59
+<img src="http://www.colorhexa.com/947968.png" height="24" width="39"> orange | `947968` | 23    | 30           | 56
+<img src="http://www.colorhexa.com/877c5f.png" height="24" width="39"> yellow | `877c5f` | 44    | 30           | 52
+<img src="http://www.colorhexa.com/63875f.png" height="24" width="39"> green  | `63875f` | 114   | 30           | 53
+<img src="http://www.colorhexa.com/5f8687.png" height="24" width="39"> teal   | `5f8687` | 182   | 30           | 53
+<img src="http://www.colorhexa.com/688294.png" height="24" width="39"> blue   | `688294` | 204   | 30           | 58
+<img src="http://www.colorhexa.com/847896.png" height="24" width="39"> purple | `847896` | 264   | 20           | 59
+<img src="http://www.colorhexa.com/947683.png" height="24" width="39"> pink   | `947683` | 335   | 20           | 58
 
-  For storm petrel, each petrel accent colour was reduced in saturation by ½, then reduced in value to a contrast ratio of 4½:1.
+For storm petrel, each petrel accent colour was reduced in saturation by ½, then reduced in value to a contrast ratio of 4½:1.
 
-  storm petrel accent colour                                                    | hex      | hue ° | saturation % | value %
-  :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-  <img src="http://www.colorhexa.com/8f797c.png" height="24" width="39"> red    | `8f797c` | 354   | 15           | 56
-  <img src="http://www.colorhexa.com/8c7b70.png" height="24" width="39"> orange | `8c7b70` | 23    | 20           | 55
-  <img src="http://www.colorhexa.com/857e6a.png" height="24" width="39"> yellow | `857e6a` | 44    | 20           | 52
-  <img src="http://www.colorhexa.com/6d856a.png" height="24" width="39"> green  | `6d856a` | 114   | 20           | 52
-  <img src="http://www.colorhexa.com/6a8485.png" height="24" width="39"> teal   | `6a8485` | 182   | 20           | 52
-  <img src="http://www.colorhexa.com/70818c.png" height="24" width="39"> blue   | `70818c` | 204   | 20           | 55
-  <img src="http://www.colorhexa.com/817a8c.png" height="24" width="39"> purple | `817a8c` | 264   | 13           | 55
-  <img src="http://www.colorhexa.com/8c7a82.png" height="24" width="39"> pink   | `8c7a82` | 335   | 13           | 55
+storm petrel accent colour                                                    | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/8f797c.png" height="24" width="39"> red    | `8f797c` | 354   | 15           | 56
+<img src="http://www.colorhexa.com/8c7b70.png" height="24" width="39"> orange | `8c7b70` | 23    | 20           | 55
+<img src="http://www.colorhexa.com/857e6a.png" height="24" width="39"> yellow | `857e6a` | 44    | 20           | 52
+<img src="http://www.colorhexa.com/6d856a.png" height="24" width="39"> green  | `6d856a` | 114   | 20           | 52
+<img src="http://www.colorhexa.com/6a8485.png" height="24" width="39"> teal   | `6a8485` | 182   | 20           | 52
+<img src="http://www.colorhexa.com/70818c.png" height="24" width="39"> blue   | `70818c` | 204   | 20           | 55
+<img src="http://www.colorhexa.com/817a8c.png" height="24" width="39"> purple | `817a8c` | 264   | 13           | 55
+<img src="http://www.colorhexa.com/8c7a82.png" height="24" width="39"> pink   | `8c7a82` | 335   | 13           | 55
 
 ## notes
 
-  The seabird colour scheme files are generated by modifying those of the [flattened](https://github.com/romainl/flattened) colour scheme by Romain Lafourcade, which is in turn derived from the [Solarized](https://github.com/altercation/vim-colors-solarized) colour scheme by Ethan Schnoonover.
+The seabird colour scheme files are generated by modifying those of the [flattened](https://github.com/romainl/flattened) colour scheme by Romain Lafourcade, which is in turn derived from the [Solarized](https://github.com/altercation/vim-colors-solarized) colour scheme by Ethan Schnoonover.
 
-  Colour adjustment was performed with the [GIMP](https://www.gimp.org/) colour selection tool. Contrast ratios were calculated with [these formulas](https://www.w3.org/TR/WCAG20-TECHS/G18.html#G18-tests).
+Colour adjustment was performed with the [GIMP](https://www.gimp.org/) colour selection tool. Contrast ratios were calculated with [these formulas](https://www.w3.org/TR/WCAG20-TECHS/G18.html#G18-tests).
 
-  Actual contrast ratios may be slightly higher than those listed, due to discrete jumps in digital colour values.
+Actual contrast ratios may be slightly higher than those listed, due to discrete jumps in digital colour values.
 
-  Photo credits:
-  - seagull by [Dan Hurt](https://www.flickr.com/photos/57549136@N02/6031726894), petrel by [Duncan (angrysunbird)](https://www.flickr.com/photos/11056712@N00/5291996898); both licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
-  - 'clear sea' by [Ali West](https://www.flickr.com/photos/71539256@N00/639714927), 'rainy sea' by [Mary (puzzlement)](https://www.flickr.com/photos/99735090@N00/4123554458), 'stormy sea' by [Ingrid Taylar](https://www.flickr.com/photos/49503118795@N01/4266670427); all licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), all colour-adjusted
+Photo credits:
+- seagull by [Dan Hurt](https://www.flickr.com/photos/57549136@N02/6031726894), petrel by [Duncan (angrysunbird)](https://www.flickr.com/photos/11056712@N00/5291996898); both licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+- 'clear sea' by [Ali West](https://www.flickr.com/photos/71539256@N00/639714927), 'rainy sea' by [Mary (puzzlement)](https://www.flickr.com/photos/99735090@N00/4123554458), 'stormy sea' by [Ingrid Taylar](https://www.flickr.com/photos/49503118795@N01/4266670427); all licensed [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), all colour-adjusted
