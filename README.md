@@ -122,7 +122,7 @@ As of now, this repository only provides one [terminal configuration file](https
 
 ### step 1: choosing a principal hue
 
-Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="24" width="24"> was chosen because:
+Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16"> was chosen because:
 - a sky blue colour was desired
 - at 100% saturation and value, hue 204 features 3:1 contrast ratio (the ISO readability standard) with a white background
 
