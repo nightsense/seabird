@@ -18,7 +18,7 @@ seabird features gui (Linux/Windows GVim, MacVim, Neovim), terminal, and true (2
 
 ## screenshots
 
-<table style="text-align:center">
+<table style="text-align:center !important">
 
 <tr><td>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff3b4e.png" height="24" width="39"><br>
