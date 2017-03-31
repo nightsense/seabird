@@ -197,23 +197,6 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"> purple | `9854ff` | 264   | 67           | 100
 <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"> pink   | `ff549b` | 335   | 67           | 100
 
-### step 4: choosing petrel accent colours
-
-The seagull accent colours were converted to petrel colours by reducing saturation of each hue by ⅔, then reducing value to a contrast ratio of 4½:1 (the W3C AA minimum).
-
-petrel accent colour                                                          | hex      | hue ° | saturation % | value %
-:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"> red    | `9c7579` | 354   | 25           | 61
-<img src="http://www.colorhexa.com/967865.png" height="24" width="39"> orange | `967865` | 23    | 33           | 61
-<img src="http://www.colorhexa.com/8a7e5c.png" height="24" width="39"> yellow | `8a7e5c` | 44    | 33           | 55
-<img src="http://www.colorhexa.com/5f875b.png" height="24" width="39"> green  | `5f875b` | 114   | 33           | 55
-<img src="http://www.colorhexa.com/5b8687.png" height="24" width="39"> teal   | `5b8687` | 182   | 33           | 54
-<img src="http://www.colorhexa.com/638194.png" height="24" width="39"> blue   | `638194` | 204   | 33           | 61
-<img src="http://www.colorhexa.com/857799.png" height="24" width="39"> purple | `857799` | 264   | 22           | 63
-<img src="http://www.colorhexa.com/967583.png" height="24" width="39"> pink   | `967583` | 335   | 22           | 61
-
-### step 5: choosing rainbird and stormbird accent colours
-
 For rain gull, each seagull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
 
 rain gull accent colour                                                       | hex      | hue ° | saturation % | value %
@@ -239,6 +222,21 @@ storm gull accent colour                                                      | 
 <img src="http://www.colorhexa.com/619bc2.png" height="24" width="39"> blue   | `619bc2` | 204   | 50           | 76
 <img src="http://www.colorhexa.com/a287c9.png" height="24" width="39"> purple | `a287c9` | 264   | 33           | 79
 <img src="http://www.colorhexa.com/c2829c.png" height="24" width="39"> pink   | `c2829c` | 335   | 35           | 76
+
+### step 4: choosing petrel accent colours
+
+For petrel, each seagull accent colour was reduced in saturation by ⅔, then reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
+
+petrel accent colour                                                          | hex      | hue ° | saturation % | value %
+:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
+<img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"> red    | `9c7579` | 354   | 25           | 61
+<img src="http://www.colorhexa.com/967865.png" height="24" width="39"> orange | `967865` | 23    | 33           | 61
+<img src="http://www.colorhexa.com/8a7e5c.png" height="24" width="39"> yellow | `8a7e5c` | 44    | 33           | 55
+<img src="http://www.colorhexa.com/5f875b.png" height="24" width="39"> green  | `5f875b` | 114   | 33           | 55
+<img src="http://www.colorhexa.com/5b8687.png" height="24" width="39"> teal   | `5b8687` | 182   | 33           | 54
+<img src="http://www.colorhexa.com/638194.png" height="24" width="39"> blue   | `638194` | 204   | 33           | 61
+<img src="http://www.colorhexa.com/857799.png" height="24" width="39"> purple | `857799` | 264   | 22           | 63
+<img src="http://www.colorhexa.com/967583.png" height="24" width="39"> pink   | `967583` | 335   | 22           | 61
 
 For rain petrel, each petrel accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 4½:1.
 
