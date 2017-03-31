@@ -5,7 +5,7 @@ A Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" heig
 seabird comes in four variants:
 
 <table>
-<tr><td align="center">accent colour saturation</td><td align="center"><img src="img/seagull.jpg" width="100"><br>light theme</td><td align="center">dark theme</td></tr>
+<tr><td align="center">accent colour saturation</td><td align="center"><img src="img/seagull.jpg" width="100"><br>light theme</td><td align="center"><img src="img/petrel.jpg" width="100"><br>dark theme</td></tr>
 <tr><td align="center">high</td><td align="center"><strong>seagull</strong></td><td align="center"><strong>petrel</strong></td></tr>
 <tr><td align="center">medium</td><td align="center"><strong>rain gull</strong></td><td align="center"><strong>rain petrel</strong></td></tr>
 <tr><td align="center">low</td><td align="center"><strong>storm gull</strong></td><td align="center"><strong>storm petrel</strong></td></tr>
@@ -25,7 +25,7 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"><br><br><img src="img/seagull.jpg" width="100"></td>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the high-saturation light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the high-saturation dark seabird theme" width="290"></td>
 <td align="center"><h3>petrel</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/9c7579.png" height="24" width="39"><br>
@@ -35,7 +35,7 @@ seabird is mathematically derived, largely through application of two widely-use
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/5b8687.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/638194.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/857799.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/967583.png" height="24" width="39"><br><br><img src="img/petrel.jpg" width="100"></td></tr>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/967583.png" height="24" width="39"></td></tr>
 
 <tr></tr><tr><td align="center"><h3>rain gull</h3>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"><br>
