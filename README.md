@@ -1,4 +1,4 @@
-# `SEABIRD`
+# `seabird`
 
 seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">.
 
