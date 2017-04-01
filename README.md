@@ -173,7 +173,7 @@ All hues were initially set to 100% saturation and value. Then:
 - the high-contrast colours were reduced in saturation (**red** by ¼, **purple** and **pink** by ⅓)
 - the mid-contrast colours (**orange** and **blue**) were left alone
 
-The goal contrast ratio was 3:1 (the ISO standard); small hue adjustments were made to this end.
+The goal contrast ratio was 3:1 (the ISO standard), prompting a few small hue adjustments.
 
 seagull accent colour                                                         | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
