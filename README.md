@@ -2,9 +2,7 @@
 
 - Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">
 - gui (Linux/Windows GVim, MacVim, Neovim) + terminal + true (24-bit) colour
-- mathematically derived, largely through application of two [readability standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)
-  - ISO "standard" contrast ratio (3:1)
-  - W3C "AA-rated accessible" contrast ratio (4½:1)
+- mathematically derived, incorporating two [contrast ratio standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) (ISO "standard" 3:1, W3C "AA-rated accessible" 4½:1)
 - four variants
 
 <table>
