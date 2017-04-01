@@ -57,7 +57,7 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a783de.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"></td>
-<td align="center"><img src="img/screenshot-stormgull-ruby.png" alt="screenshot of storm gull, the low-saturation light seabird theme" width="290"> <img src="img/screenshot-stormpetrel-ruby.png" alt="screenshot of storm petrel, the low-saturation dark seabird theme" width="290"></td>
+<td align="center"><img src="img/screenshot-greygull-ruby.png" alt="screenshot of grey gull, the low-saturation light seabird theme" width="290"> <img src="img/screenshot-stormpetrel-ruby.png" alt="screenshot of storm petrel, the low-saturation dark seabird theme" width="290"></td>
 <td align="center"><h5>STORM<br>PETREL</h5>
 <img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/9e7276.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/9c7760.png" height="24" width="39"><br>
