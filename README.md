@@ -156,16 +156,16 @@ seabird base colour                                                             
 
 Accent colour hues were selected from around the (30°-divided) colour wheel: hue 204 plus seven companions.
 
-hue    | contrast level | hue °
-:-----:|:--------------:|:----:
-red    | high           | 354°
-orange | medium         | 24°
-yellow | low            | 54°
-green  | low            | 114°
-teal   | low            | 174°
-blue   | medium         | 204°
-purple | high           | 264°
-pink   | high           | 324°
+colour | hue ° | contrast level
+:-----:|:----::|:--------------
+red    | 354   | high
+orange | 24    | medium
+yellow | 54    | low
+green  | 114   | low
+teal   | 174   | low
+blue   | 204   | medium
+purple | 264   | high
+pink   | 324   | high
 
 All hues were initially set to 100% saturation and value. Then:
 
