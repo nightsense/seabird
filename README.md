@@ -100,7 +100,7 @@ As of now, this repository only provides one [terminal configuration file](https
 
 Hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16"> was chosen because:
 - a sky blue colour was desired
-- at 100% saturation and value, hue 204 features 3:1 contrast ratio (the ISO readability standard) with a white background
+- at 100% saturation and value, hue 204 features 3:1 contrast ratio (the ISO standard) with a white background
 
 ### step 2: choosing base colours
 
@@ -173,7 +173,7 @@ All hues were initially set to 100% saturation and value. Then:
 - the high-contrast colours were reduced in saturation (**red** by ¼, **purple** and **pink** by ⅓)
 - the mid-contrast colours (**orange** and **blue**) were left alone
 
-The goal contrast ratio was 3:1 (the ISO minimum). Where necessary, small hue adjustments were made to reach this standard.
+The goal contrast ratio was 3:1 (the ISO standard); small hue adjustments were made to this end.
 
 seagull accent colour                                                         | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
