@@ -5,25 +5,22 @@
 - mathematically derived, largely through application of two [readability standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)
   - ISO "standard" contrast ratio (3:1)
   - W3C "AA-rated accessible" contrast ratio (4½:1)
-- six variants
+- four variants
 
 <table>
 <tr>
 <td align="center"><h6>SEABIRD<br>VARIANTS</h6></td>
-<td align="center"><img src="img/high-saturation.jpg" width="100"><br><h5>CLEAR SKIES<br>(high-saturation)</h5></td>
-<td align="center"><img src="img/mid-saturation.jpg" width="100"><br><h5>CLOUDY SKIES<br>(mid-saturation)</h5></td>
-<td align="center"><img src="img/low-saturation.jpg" width="100"><br><h5>STORMY SKIES<br>(low-saturation)</h5></td>
+<td align="center"><img src="img/high-saturation.jpg" width="100"><br><h5>HIGH-SATURATION</h5></td>
+<td align="center"><img src="img/low-saturation.jpg" width="100"><br><h5>LOW-SATURATION</h5></td>
 </tr>
 <tr>
 <td align="center"><img src="img/seagull.jpg" width="100"><h5>LIGHT THEME</h5></td>
 <td align="center"><strong>seagull</strong></td>
-<td align="center"><strong>rain gull</strong></td>
-<td align="center"><strong>storm gull</strong></td>
+<td align="center"><strong>grey gull</strong></td>
 </tr>
 <tr>
 <td align="center"><img src="img/petrel.jpg" width="100"><h5>DARK THEME</h5></td>
 <td align="center"><strong>petrel</strong></td>
-<td align="center"><strong>rain petrel</strong></td>
 <td align="center"><strong>storm petrel</strong></td>
 </tr>
 </table>
@@ -43,54 +40,34 @@
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the high-saturation light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the high-saturation dark seabird theme" width="290"></td>
 <td align="center"><h5>PETREL</h5>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a66f75.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/a1755a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7c4f.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/538a4d.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/4d888a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/59829e.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8874a6.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/a17085.png" height="24" width="39"></td></tr>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ba656d.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/b06d43.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/947b38.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/3f8f36.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/35898c.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/4384b0.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8e6fbd.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/b06886.png" height="24" width="39"></td></tr>
 
-<tr></tr><tr><td align="center"><h5>RAIN<br>GULL</h5>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/43a838.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"></td>
-<td align="center"><img src="img/screenshot-raingull-ruby.png" alt="screenshot of rain gull, the mid-saturation light seabird theme" width="290"> <img src="img/screenshot-rainpetrel-ruby.png" alt="screenshot of rain petrel, the mid-saturation dark seabird theme" width="290"></td>
-<td align="center"><h5>RAIN<br>PETREL</h5>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/967579.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/947968.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/877c5f.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/63875f.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/5f8687.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/688294.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/847896.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/947683.png" height="24" width="39"></td></tr>
-
-<tr></tr><tr><td align="center"><h5>STORM<br>GULL</h5>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/c28288.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/bd896a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/a6935d.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/62a35b.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/5a9ea1.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/6899ba.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a189c4.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/bd849c.png" height="24" width="39"></td>
+<tr></tr><tr><td align="center"><h5>GREY<br>GULL</h5>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/db7681.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/d1814f.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad9142.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4aa840.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/3fa2a6.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a783de.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-stormgull-ruby.png" alt="screenshot of storm gull, the low-saturation light seabird theme" width="290"> <img src="img/screenshot-stormpetrel-ruby.png" alt="screenshot of storm petrel, the low-saturation dark seabird theme" width="290"></td>
 <td align="center"><h5>STORM<br>PETREL</h5>
-<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8f797c.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7b70.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/857e6a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/6d856a.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/6a8485.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/70818c.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/817a8c.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/8c7a82.png" height="24" width="39"></td></tr>
+<img src="http://www.colorhexa.com/0b141a.png" height="24" width="39"> <img src="http://www.colorhexa.com/9e7276.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/1d252b.png" height="24" width="39"> <img src="http://www.colorhexa.com/9c7760.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7c55.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/5b8a55.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/548587.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/86779e.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/997383.png" height="24" width="39"></td></tr>
 
 </table>
 
@@ -176,7 +153,7 @@ seabird base colour                                                             
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> seagrey7 | `e6eaed` | 204   | 3            | 93
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | `ffffff` | 204   | 0            | 100
 
-### step 3: choosing seagull accent colours
+### step 3: choosing accent colours
 
 Accent colour hues were selected from around the (30°-divided) colour wheel: hue 204 plus seven companions.
 
@@ -210,72 +187,44 @@ seagull accent colour                                                         | 
 <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"> purple | `9854ff` | 264   | 67           | 100
 <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"> pink   | `ff549b` | 335   | 67           | 100
 
-For rain gull, each seagull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
+For grey gull, each seagull accent colour was reduced in saturation by 38.2% (by applying the golden ratio), then reduced in value to a contrast ratio of 3:1.
 
-rain gull accent colour                                                       | hex      | hue ° | saturation % | value %
+grey gull accent colour                                                       | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/e3717d.png" height="24" width="39"> red    | `e3717d` | 354   | 50           | 89
-<img src="http://www.colorhexa.com/d67e47.png" height="24" width="39"> orange | `d67e47` | 23    | 67           | 84
-<img src="http://www.colorhexa.com/b0913a.png" height="24" width="39"> yellow | `b0913a` | 44    | 67           | 69
-<img src="http://www.colorhexa.com/43a838.png" height="24" width="39"> green  | `43a838` | 114   | 67           | 66
-<img src="http://www.colorhexa.com/37a2a6.png" height="24" width="39"> teal   | `37a2a6` | 182   | 67           | 65
-<img src="http://www.colorhexa.com/469bd4.png" height="24" width="39"> blue   | `469bd4` | 204   | 67           | 83
-<img src="http://www.colorhexa.com/a980e8.png" height="24" width="39"> purple | `a980e8` | 264   | 45           | 91
-<img src="http://www.colorhexa.com/d6769e.png" height="24" width="39"> pink   | `d6769e` | 335   | 45           | 84
+<img src="http://www.colorhexa.com/db7681.png" height="24" width="39"> red    | `db7681` | 354   | 46           | 86
+<img src="http://www.colorhexa.com/d1814f.png" height="24" width="39"> orange | `d1814f` | 23    | 62           | 82
+<img src="http://www.colorhexa.com/ad9142.png" height="24" width="39"> yellow | `ad9142` | 44    | 62           | 68
+<img src="http://www.colorhexa.com/4aa840.png" height="24" width="39"> green  | `4aa840` | 114   | 62           | 66
+<img src="http://www.colorhexa.com/3fa2a6.png" height="24" width="39"> teal   | `3fa2a6` | 182   | 62           | 65
+<img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"> blue   | `4e9bcf` | 204   | 62           | 83
+<img src="http://www.colorhexa.com/a783de.png" height="24" width="39"> purple | `a783de` | 264   | 41           | 87
+<img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"> pink   | `cf7a9d` | 335   | 41           | 81
 
-For storm gull, each rain gull accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 3:1.
-
-storm gull accent colour                                                      | hex      | hue ° | saturation % | value %
-:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/c28288.png" height="24" width="39"> red    | `c28288` | 354   | 33           | 76
-<img src="http://www.colorhexa.com/bd896a.png" height="24" width="39"> orange | `bd896a` | 23    | 44           | 74
-<img src="http://www.colorhexa.com/a6935d.png" height="24" width="39"> yellow | `a6935d` | 44    | 44           | 65
-<img src="http://www.colorhexa.com/62a35b.png" height="24" width="39"> green  | `62a35b` | 114   | 44           | 64
-<img src="http://www.colorhexa.com/5a9ea1.png" height="24" width="39"> teal   | `5a9ea1` | 182   | 44           | 63
-<img src="http://www.colorhexa.com/6899ba.png" height="24" width="39"> blue   | `6899ba` | 204   | 44           | 73
-<img src="http://www.colorhexa.com/a189c4.png" height="24" width="39"> purple | `a189c4` | 264   | 30           | 77
-<img src="http://www.colorhexa.com/bd849c.png" height="24" width="39"> pink   | `bd849c` | 335   | 30           | 74
-
-### step 4: choosing petrel accent colours
-
-For petrel, each storm gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
+For petrel, each rain gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/a66f75.png" height="24" width="39"> red    | `a66f75` | 354   | 33           | 65
-<img src="http://www.colorhexa.com/a1755a.png" height="24" width="39"> orange | `a1755a` | 23    | 44           | 63
-<img src="http://www.colorhexa.com/8c7c4f.png" height="24" width="39"> yellow | `8c7c4f` | 44    | 44           | 55
-<img src="http://www.colorhexa.com/538a4d.png" height="24" width="39"> green  | `538a4d` | 114   | 44           | 54
-<img src="http://www.colorhexa.com/4d888a.png" height="24" width="39"> teal   | `4d888a` | 182   | 44           | 54
-<img src="http://www.colorhexa.com/59829e.png" height="24" width="39"> blue   | `59829e` | 204   | 44           | 62
-<img src="http://www.colorhexa.com/8874a6.png" height="24" width="39"> purple | `8874a6` | 264   | 30           | 65
-<img src="http://www.colorhexa.com/a17085.png" height="24" width="39"> pink   | `a17085` | 335   | 30           | 63
+<img src="http://www.colorhexa.com/ba656d.png" height="24" width="39"> red    | `ba656d` | 354   | 46           | 73
+<img src="http://www.colorhexa.com/b06d43.png" height="24" width="39"> orange | `b06d43` | 23    | 62           | 69
+<img src="http://www.colorhexa.com/947b38.png" height="24" width="39"> yellow | `947b38` | 44    | 62           | 58
+<img src="http://www.colorhexa.com/3f8f36.png" height="24" width="39"> green  | `3f8f36` | 114   | 62           | 56
+<img src="http://www.colorhexa.com/35898c.png" height="24" width="39"> teal   | `35898c` | 182   | 62           | 55
+<img src="http://www.colorhexa.com/4384b0.png" height="24" width="39"> blue   | `4384b0` | 204   | 62           | 69
+<img src="http://www.colorhexa.com/8e6fbd.png" height="24" width="39"> purple | `8e6fbd` | 264   | 41           | 74
+<img src="http://www.colorhexa.com/b06886.png" height="24" width="39"> pink   | `b06886` | 335   | 41           | 69
 
-For rain petrel, each petrel accent colour was reduced in saturation by ⅓, then reduced in value to a contrast ratio of 4½:1.
-
-rain petrel accent colour                                                     | hex      | hue ° | saturation % | value %
-:-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/967579.png" height="24" width="39"> red    | `967579` | 354   | 22           | 59
-<img src="http://www.colorhexa.com/947968.png" height="24" width="39"> orange | `947968` | 23    | 30           | 56
-<img src="http://www.colorhexa.com/877c5f.png" height="24" width="39"> yellow | `877c5f` | 44    | 30           | 52
-<img src="http://www.colorhexa.com/63875f.png" height="24" width="39"> green  | `63875f` | 114   | 30           | 53
-<img src="http://www.colorhexa.com/5f8687.png" height="24" width="39"> teal   | `5f8687` | 182   | 30           | 53
-<img src="http://www.colorhexa.com/688294.png" height="24" width="39"> blue   | `688294` | 204   | 30           | 58
-<img src="http://www.colorhexa.com/847896.png" height="24" width="39"> purple | `847896` | 264   | 20           | 59
-<img src="http://www.colorhexa.com/947683.png" height="24" width="39"> pink   | `947683` | 335   | 20           | 58
-
-For storm petrel, each petrel accent colour was reduced in saturation by ½, then reduced in value to a contrast ratio of 4½:1.
+For storm petrel, each petrel accent colour was reduced in saturation by 38.2% (by applying the golden ratio), then reduced in value to a contrast ratio of 4½:1.
 
 storm petrel accent colour                                                    | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
-<img src="http://www.colorhexa.com/8f797c.png" height="24" width="39"> red    | `8f797c` | 354   | 15           | 56
-<img src="http://www.colorhexa.com/8c7b70.png" height="24" width="39"> orange | `8c7b70` | 23    | 20           | 55
-<img src="http://www.colorhexa.com/857e6a.png" height="24" width="39"> yellow | `857e6a` | 44    | 20           | 52
-<img src="http://www.colorhexa.com/6d856a.png" height="24" width="39"> green  | `6d856a` | 114   | 20           | 52
-<img src="http://www.colorhexa.com/6a8485.png" height="24" width="39"> teal   | `6a8485` | 182   | 20           | 52
-<img src="http://www.colorhexa.com/70818c.png" height="24" width="39"> blue   | `70818c` | 204   | 20           | 55
-<img src="http://www.colorhexa.com/817a8c.png" height="24" width="39"> purple | `817a8c` | 264   | 13           | 55
-<img src="http://www.colorhexa.com/8c7a82.png" height="24" width="39"> pink   | `8c7a82` | 335   | 13           | 55
+<img src="http://www.colorhexa.com/9e7276.png" height="24" width="39"> red    | `9e7276` | 354   | 28           | 62
+<img src="http://www.colorhexa.com/9c7760.png" height="24" width="39"> orange | `9c7760` | 23    | 38           | 61
+<img src="http://www.colorhexa.com/8a7c55.png" height="24" width="39"> yellow | `8a7c55` | 44    | 38           | 54
+<img src="http://www.colorhexa.com/5b8a55.png" height="24" width="39"> green  | `5b8a55` | 114   | 38           | 54
+<img src="http://www.colorhexa.com/548587.png" height="24" width="39"> teal   | `548587` | 182   | 38           | 53
+<img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"> blue   | `5f8299` | 204   | 38           | 55
+<img src="http://www.colorhexa.com/86779e.png" height="24" width="39"> purple | `86779e` | 264   | 25           | 62
+<img src="http://www.colorhexa.com/997383.png" height="24" width="39"> pink   | `997383` | 335   | 25           | 60
 
 ## notes
 
