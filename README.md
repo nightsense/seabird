@@ -84,7 +84,7 @@ For easy management of Vim colour schemes (and other plugins), try a plugin mana
 
 ### step 2: activate the colour scheme
 
-Add `colorscheme [theme name]` to `vimrc`. Choose from among `seagull`, `greygull`, `petrel`, and `stormpetrel`.
+To activate the seagull theme, add `colorscheme seagull` to `vimrc`. Choose from among `seagull`, `greygull`, `petrel`, and `stormpetrel`.
 
 For Neovim, add `set termguicolors` to enable truecolour support.
 
