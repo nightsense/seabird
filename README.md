@@ -9,17 +9,17 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <table>
 <tr>
 <td align="center">seabird<br>variants</td>
-<td align="center"><img src="img/high-saturation.jpg" width="100"><br>high-saturation</td>
-<td align="center"><img src="img/low-saturation.jpg" width="100"><br>low-saturation</td>
-</tr>
-<tr>
 <td align="center"><img src="img/seagull.jpg" width="100"><br>light theme</td>
-<td align="center"><strong>seagull</strong></td>
-<td align="center"><strong>grey gull</strong></td>
+<td align="center"><img src="img/petrel.jpg" width="100"><br>dark theme</td>
 </tr>
 <tr>
-<td align="center"><img src="img/petrel.jpg" width="100"><br>dark theme</td>
+<td align="center"><img src="img/high-saturation.jpg" width="100"><br>high-saturation</td>
+<td align="center"><strong>seagull</strong></td>
 <td align="center"><strong>petrel</strong></td>
+</tr>
+<tr>
+<td align="center"><img src="img/low-saturation.jpg" width="100"><br>low-saturation</td>
+<td align="center"><strong>grey gull</strong></td>
 <td align="center"><strong>storm petrel</strong></td>
 </tr>
 </table>
