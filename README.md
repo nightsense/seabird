@@ -92,7 +92,7 @@ For Neovim, add `set termguicolors` to enable truecolour support.
 
 In order for seabird to work properly in terminal Vim, set the terminal's colours to match those of the active Vim theme.
 
-As of now, this repository only provides one [terminal configuration file](https://github.com/nightsense/seabird/tree/master/terminal): `Xresources`, which is used by two popular Linux terminals, xterm and urxvt. If you'd like to see a configuration file for another terminal, feel free to make a [request](https://github.com/nightsense/seabird/issues).
+As of now, this repository only provides one [terminal configuration file](https://github.com/nightsense/seabird/tree/master/terminal): `Xresources`, which is used by two popular Linux terminals, xterm and urxvt. Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
 ## how seabird took flight
 
