@@ -88,6 +88,8 @@ To activate the seagull theme, add `colorscheme seagull` to the `vimrc` file. Ch
 
 For Neovim, add `set termguicolors` to enable truecolour support.
 
+To switch automatically between a 'day theme' and 'night theme', try the [night-and-day](https://github.com/nightsense/night-and-day) plugin.
+
 ### step 3: configure terminal colours (if using Vim in a terminal)
 
 In order for seabird to work properly in terminal Vim, set the terminal's colours to match those of the active Vim theme.
