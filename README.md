@@ -197,7 +197,7 @@ grey gull accent colour                                                       | 
 <img src="http://www.colorhexa.com/ad9142.png" height="24" width="39"> yellow | `ad9142` | 44    | 62           | 68
 <img src="http://www.colorhexa.com/4aa840.png" height="24" width="39"> green  | `4aa840` | 114   | 62           | 66
 <img src="http://www.colorhexa.com/3fa2a6.png" height="24" width="39"> teal   | `3fa2a6` | 182   | 62           | 65
-<img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"> blue   | `4e9bcf` | 204   | 62           | 83
+<img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"> blue   | `4e9bcf` | 204   | 62           | 81
 <img src="http://www.colorhexa.com/a783de.png" height="24" width="39"> purple | `a783de` | 264   | 41           | 87
 <img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"> pink   | `cf7a9d` | 335   | 41           | 81
 
@@ -223,7 +223,7 @@ storm petrel accent colour                                                    | 
 <img src="http://www.colorhexa.com/8a7c55.png" height="24" width="39"> yellow | `8a7c55` | 44    | 38           | 54
 <img src="http://www.colorhexa.com/5b8a55.png" height="24" width="39"> green  | `5b8a55` | 114   | 38           | 54
 <img src="http://www.colorhexa.com/548587.png" height="24" width="39"> teal   | `548587` | 182   | 38           | 53
-<img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"> blue   | `5f8299` | 204   | 38           | 55
+<img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"> blue   | `5f8299` | 204   | 38           | 60
 <img src="http://www.colorhexa.com/86779e.png" height="24" width="39"> purple | `86779e` | 264   | 25           | 62
 <img src="http://www.colorhexa.com/997383.png" height="24" width="39"> pink   | `997383` | 335   | 25           | 60
 
