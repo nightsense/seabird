@@ -17,7 +17,7 @@ hi  Conceal                                 ctermfg=4  guifg=#5f8299  gui=NONE
 hi  Constant                                ctermfg=6  guifg=#548587  gui=NONE
 hi  Cursor                                  ctermfg=8  ctermbg=10  guifg=#0b141a  guibg=#61707a  gui=NONE
 hi  CursorColumn                            ctermbg=0  guibg=#1d252b  gui=NONE
-hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#1d252b  guisp=#85898c  gui=NONE
+hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#1d252b  guisp=#808487  gui=NONE
 hi  CursorLineNr                            cterm=NONE ctermfg=12  guifg=#787e82  gui=bold
 hi  DiffAdd                                 ctermfg=2  ctermbg=0  guifg=#5b8a55  guibg=#1d252b  guisp=#5b8a55  gui=NONE
 hi  DiffChange                              ctermfg=3  ctermbg=0  guifg=#8a7c55  guibg=#1d252b  guisp=#8a7c55  gui=NONE
@@ -28,7 +28,7 @@ hi  Error                                   cterm=NONE  ctermfg=1  ctermbg=NONE 
 hi  ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NONE  guifg=#9e7276  guibg=NONE gui=reverse
 hi  FoldColumn                              ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d252b  gui=NONE
 hi  Folded                                  cterm=NONE,underline  ctermfg=12  ctermbg=0  guifg=#787e82  guibg=#1d252b  guisp=#0b141a  gui=NONE
-hi  HelpExample                             ctermfg=14  guifg=#85898c  gui=NONE
+hi  HelpExample                             ctermfg=14  guifg=#808487  gui=NONE
 hi  Identifier                              ctermfg=4  guifg=#5f8299  gui=NONE
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#9c7760  gui=standout
 hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#61707a  guibg=#1d252b  gui=NONE
@@ -106,7 +106,7 @@ hi  htmlArg                                 ctermfg=11  guifg=#6d767d  gui=NONE
 hi  htmlEndTag                              ctermfg=10  guifg=#61707a  gui=NONE
 hi  htmlSpecialTagName                      ctermfg=4  guifg=#5f8299  gui=italic
 hi  htmlTag                                 ctermfg=10  guifg=#61707a  gui=NONE
-hi  htmlTagN                                cterm=NONE  ctermfg=14  guifg=#85898c  gui=NONE
+hi  htmlTagN                                cterm=NONE  ctermfg=14  guifg=#808487  gui=NONE
 hi  htmlTagName                             cterm=NONE  ctermfg=4  guifg=#5f8299  gui=NONE
 
 hi  javaScript                              ctermfg=3  guifg=#8a7c55  gui=NONE
@@ -196,11 +196,11 @@ hi  pandocVerbatimInlineDefinition          ctermfg=13  guifg=#86779e  gui=NONE
 hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#9c7760  gui=NONE
 hi  pandocVerbatimInlineTable               ctermfg=4  guifg=#5f8299  gui=NONE
 
-hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#85898c  guibg=#0b141a  gui=NONE
+hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#808487  guibg=#0b141a  gui=NONE
 hi  perlStatementFileDesc                   ctermfg=6  ctermbg=8  guifg=#548587  guibg=#0b141a  gui=NONE
 hi  perlVarPlain                            ctermfg=3  ctermbg=8  guifg=#8a7c55  guibg=#0b141a  gui=NONE
 
-hi  rubyDefine                              cterm=NONE  ctermfg=14  ctermbg=8  guifg=#85898c  guibg=#0b141a  gui=NONE
+hi  rubyDefine                              cterm=NONE  ctermfg=14  ctermbg=8  guifg=#808487  guibg=#0b141a  gui=NONE
 
 hi  texMathMatcher                          ctermfg=3  ctermbg=8  guifg=#8a7c55  guibg=#0b141a  gui=NONE
 hi  texMathZoneX                            ctermfg=3  ctermbg=8  guifg=#8a7c55  guibg=#0b141a  gui=NONE
@@ -316,7 +316,7 @@ if has('nvim')
   let g:terminal_color_11 = '#6d767d'
   let g:terminal_color_12 = '#787e82'
   let g:terminal_color_13 = '#86779e'
-  let g:terminal_color_14 = '#85898c'
+  let g:terminal_color_14 = '#808487'
   let g:terminal_color_15 = '#ffffff'
 endif
 

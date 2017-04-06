@@ -34,7 +34,7 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/bf8c00.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/11ab00.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/00a5ab.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> <img src="http://www.colorhexa.com/0099ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/9854ff.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/ff549b.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-seagull-ruby.png" alt="screenshot of seagull, the high-saturation light seabird theme" width="290"> <img src="img/screenshot-petrel-ruby.png" alt="screenshot of petrel, the high-saturation dark seabird theme" width="290"></td>
@@ -44,7 +44,7 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/947b38.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/3f8f36.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/35898c.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/4384b0.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> <img src="http://www.colorhexa.com/4384b0.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/8e6fbd.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/b06886.png" height="24" width="39"></td></tr>
 
@@ -54,7 +54,7 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/ad9142.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/4aa840.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/3fa2a6.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> <img src="http://www.colorhexa.com/4e9bcf.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/a783de.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"></td>
 <td align="center"><img src="img/screenshot-greygull-ruby.png" alt="screenshot of grey gull, the low-saturation light seabird theme" width="290"> <img src="img/screenshot-stormpetrel-ruby.png" alt="screenshot of storm petrel, the low-saturation dark seabird theme" width="290"></td>
@@ -64,7 +64,7 @@ seabird is a Vim theme based on hue 204 <img src="http://www.colorhexa.com/0099f
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> <img src="http://www.colorhexa.com/8a7c55.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> <img src="http://www.colorhexa.com/5b8a55.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> <img src="http://www.colorhexa.com/548587.png" height="24" width="39"><br>
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> <img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"><br>
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> <img src="http://www.colorhexa.com/5f8299.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> <img src="http://www.colorhexa.com/86779e.png" height="24" width="39"><br>
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> <img src="http://www.colorhexa.com/997383.png" height="24" width="39"></td></tr>
 
@@ -150,7 +150,7 @@ seabird base colour                                                             
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> seagrey3 | `61707a` | 204   | 21           | 48
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> seagrey4 | `6d767d` | 204   | 13           | 49
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | `787e82` | 204   | 8            | 51
-<img src="http://www.colorhexa.com/85898c.png" height="24" width="39"> seagrey6 | `85898c` | 204   | 5            | 55
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> seagrey6 | `808487` | 204   | 5            | 55
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> seagrey7 | `e6eaed` | 204   | 3            | 93
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | `ffffff` | 204   | 0            | 100
 

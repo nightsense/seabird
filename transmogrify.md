@@ -17,7 +17,7 @@ The seabird colour scheme files found in this repository are generated from:
 %s/586e75/61707a/g |
 %s/657b83/6d767d/g |
 %s/839496/787e82/g |
-%s/93a1a1/85898c/g |
+%s/93a1a1/808487/g |
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
@@ -32,7 +32,7 @@ The seabird colour scheme files found in this repository are generated from:
 %s/d33682/ff549b/g |
 
 18s/ctermbg=11/ctermbg=15/ |
-18s/guibg=#6d767d/guibg=#85898c/ |
+18s/guibg=#6d767d/guibg=#808487/ |
 
 21s/ctermfg=130/ctermfg=11/ |
 21s/guifg=Brown/guifg=#6d767d/ |
@@ -40,7 +40,7 @@ The seabird colour scheme files found in this repository are generated from:
 
 54s/ctermfg=10/ctermfg=14/ |
 54s/ctermbg=7/ctermbg=15/ |
-54s/guifg=#61707a/guifg=#85898c/ |
+54s/guifg=#61707a/guifg=#808487/ |
 54s/guibg=#e6eaed/guibg=#ffffff/ |
 
 call append(310,["",
@@ -62,7 +62,7 @@ call append(310,["",
 %s/586e75/61707a/g |
 %s/657b83/6d767d/g |
 %s/839496/787e82/g |
-%s/93a1a1/85898c/g |
+%s/93a1a1/808487/g |
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
@@ -77,7 +77,7 @@ call append(310,["",
 %s/d33682/cf7a9d/g |
 
 18s/ctermbg=11/ctermbg=15/ |
-18s/guibg=#6d767d/guibg=#85898c/ |
+18s/guibg=#6d767d/guibg=#808487/ |
 
 21s/ctermfg=130/ctermfg=11/ |
 21s/guifg=Brown/guifg=#6d767d/ |
@@ -85,7 +85,7 @@ call append(310,["",
 
 54s/ctermfg=10/ctermfg=14/ |
 54s/ctermbg=7/ctermbg=15/ |
-54s/guifg=#61707a/guifg=#85898c/ |
+54s/guifg=#61707a/guifg=#808487/ |
 54s/guibg=#e6eaed/guibg=#ffffff/ |
 
 call append(310,["",
@@ -107,7 +107,7 @@ call append(310,["",
 %s/586e75/61707a/g |
 %s/657b83/6d767d/g |
 %s/839496/787e82/g |
-%s/93a1a1/85898c/g |
+%s/93a1a1/808487/g |
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
@@ -130,7 +130,7 @@ call append(310,["",
 
 54s/ctermfg=14/ctermfg=10/ |
 54s/ctermbg=0/ctermbg=8/ |
-54s/guifg=#85898c/guifg=#61707a/ |
+54s/guifg=#808487/guifg=#61707a/ |
 54s/guibg=#1d252b/guibg=#0b141a/ |
 
 call append(321,["",
@@ -152,7 +152,7 @@ call append(321,["",
 %s/586e75/61707a/g |
 %s/657b83/6d767d/g |
 %s/839496/787e82/g |
-%s/93a1a1/85898c/g |
+%s/93a1a1/808487/g |
 %s/eee8d5/e6eaed/g |
 %s/fdf6e3/ffffff/g |
 
@@ -175,7 +175,7 @@ call append(321,["",
 
 54s/ctermfg=14/ctermfg=10/ |
 54s/ctermbg=0/ctermbg=8/ |
-54s/guifg=#85898c/guifg=#61707a/ |
+54s/guifg=#808487/guifg=#61707a/ |
 54s/guibg=#1d252b/guibg=#0b141a/ |
 
 call append(321,["",
