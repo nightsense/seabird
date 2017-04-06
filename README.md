@@ -150,7 +150,7 @@ seabird base colour                                                             
 <img src="http://www.colorhexa.com/61707a.png" height="24" width="39"> seagrey3 | `61707a` | 204   | 21           | 48
 <img src="http://www.colorhexa.com/6d767d.png" height="24" width="39"> seagrey4 | `6d767d` | 204   | 13           | 49
 <img src="http://www.colorhexa.com/787e82.png" height="24" width="39"> seagrey5 | `787e82` | 204   | 8            | 51
-<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> seagrey6 | `808487` | 204   | 5            | 55
+<img src="http://www.colorhexa.com/808487.png" height="24" width="39"> seagrey6 | `808487` | 204   | 5            | 53
 <img src="http://www.colorhexa.com/e6eaed.png" height="24" width="39"> seagrey7 | `e6eaed` | 204   | 3            | 93
 <img src="http://www.colorhexa.com/ffffff.png" height="24" width="39"> seagrey8 | `ffffff` | 204   | 0            | 100
 
