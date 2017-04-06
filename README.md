@@ -95,8 +95,8 @@ To switch automatically between a 'day theme' and 'night theme', try the [night-
 In order for seabird to work properly in terminal Vim, set the terminal's colours to match those of the active Vim theme.
 
 As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/seabird/tree/master/terminal):
-- `Xresources` files for xterm and urxvt (Linux)
-- `.terminal` files for terminal.app (OSX)
+- [`Xresources`](https://github.com/nightsense/seabird/tree/master/terminal/Xresources) files for xterm and urxvt (Linux)
+- [`.terminal`](https://github.com/nightsense/seabird/tree/master/terminal/osx-terminal) files for terminal.app (OSX)
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
