@@ -136,7 +136,7 @@ seagrey2                    | 17               | 1⅕:1                         
 seagrey3                    | 48               | 3:1                                        | seagrey2
 seagrey4                    | 49               | 4½:1                                       | seagrey8
 seagrey5                    | 51               | 4½:1                                       | seagrey1
-seagrey6                    | 55               | 3:1                                        | seagrey7
+seagrey6                    | 53               | 3:1                                        | seagrey7
 seagrey7                    | 93               | 1⅕:1                                       | seagrey8
 seagrey8                    | 100              | -                                          | -
 
