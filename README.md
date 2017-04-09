@@ -207,7 +207,7 @@ grey gull accent colour                                                       | 
 <img src="http://www.colorhexa.com/a783de.png" height="24" width="39"> purple | `a783de` | 264   | 41           | 87
 <img src="http://www.colorhexa.com/cf7a9d.png" height="24" width="39"> pink   | `cf7a9d` | 335   | 41           | 81
 
-For petrel, each rain gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
+For petrel, each grey gull accent colour was reduced in value to a contrast ratio of 4½:1 (the W3C AA minimum).
 
 petrel accent colour                                                          | hex      | hue ° | saturation % | value %
 :-----------------------------------------------------------------------------|:--------:|:-----:|:------------:|:------:
