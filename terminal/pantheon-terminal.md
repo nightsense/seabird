@@ -20,7 +20,7 @@ echo 'seagull theme set'
 gsettings set org.pantheon.terminal.settings background 'rgba(255, 255, 255, 0.95)'
 gsettings set org.pantheon.terminal.settings foreground '#61707a'
 gsettings set org.pantheon.terminal.settings cursor-color '#6d767d'
-gsettings set org.pantheon.terminal.settings palette '#e6eaed:#db7681:#4aa840:#ad9142:#4e9bcf:#db7681:#3fa2a6:#61707a:#808487:#d1814f:#ff6200:#ad9142:#4e9bcf:#cf7a9d:#ff549b:#a783de'
+gsettings set org.pantheon.terminal.settings palette '#e6eaed:#db7681:#4aa840:#ad9142:#4e9bcf:#db7681:#3fa2a6:#61707a:#808487:#d1814f:#4aa840:#ad9142:#4e9bcf:#cf7a9d:#3fa2a6:#a783de'
 echo 'greygull theme set'
 ```
 
@@ -52,7 +52,7 @@ echo 'stormpetrel theme set'
 gsettings set org.pantheon.terminal.settings background '#ffffff'
 gsettings set org.pantheon.terminal.settings foreground '#61707a'
 gsettings set org.pantheon.terminal.settings cursor-color '#6d767d'
-gsettings set org.pantheon.terminal.settings palette '#e6eaed:#ff4053:#11ab00:#bf8c00:#0099ff:#ff4053:#00a5ab:#61707a:#808487:#ff6200:#11ab00:#bf8c00:#0099ff:#ff549b:#00a5ab:#9854ff'
+gsettings set org.pantheon.terminal.settings palette '#e6eaed:#db7681:#4aa840:#ad9142:#4e9bcf:#db7681:#3fa2a6:#61707a:#808487:#d1814f:#4aa840:#ad9142:#4e9bcf:#cf7a9d:#3fa2a6:#a783de'
 echo 'seagull theme set'
 ```
 
