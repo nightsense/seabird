@@ -50,12 +50,12 @@ call append(310,["",
 "\" (https://github.com/altercation/vim-colors-solarized)."])
 ```
 
-## rain gull (applied to flattened_light)
+## grey gull (applied to flattened_light)
 
 ```
 1 | d4 |
 
-7s/flattened_light/raingull/ |
+7s/flattened_light/greygull/ |
 
 %s/002b36/0b141a/g |
 %s/073642/1d252b/g |
