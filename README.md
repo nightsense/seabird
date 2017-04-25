@@ -80,7 +80,7 @@ Download the desired [colourscheme files](https://github.com/nightsense/seabird/
 
 #### option B: using a plugin manager
 
-For easy management of Vim colour schemes (and other plugins), try a plugin manager. With the [Vundle](https://github.com/VundleVim/Vundle.vim) plugin manager, for instance, just add `Plugin 'nightsense/seabird'` to the list of plugins in the `vimrc` file, then run `VundleUpdate`.
+For easy management of Vim colour schemes (and other plugins), try a plugin manager. With [vim-plug](https://github.com/junegunn/vim-plug), for instance, just add `Plug 'nightsense/seabird'` to the list of plugins in `vimrc`, then run `PlugUpdate`.
 
 ### step 2: activate the colour scheme
 
