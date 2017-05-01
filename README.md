@@ -100,7 +100,7 @@ As of now, this repository provides the following [terminal configuration files]
 - [`.terminal`](https://github.com/nightsense/seabird/tree/master/terminal/osx-terminal) files for **terminal.app** (OSX)
 - [`.itermcolors`](https://github.com/nightsense/seabird/tree/master/terminal/iterm2) files for **iTerm2** (OSX)
 
-For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colors-seabird).
+For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colours-seabird).
 
 To theme **dircolors** (the colour-coding of files by the `ls` command), see [this repository](https://github.com/nightsense/dircolors-seabird).
 
