@@ -102,8 +102,6 @@ As of now, this repository provides the following [terminal configuration files]
 
 For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colours-seabird).
 
-To theme **dircolors** (the colour-coding of files by the `ls` command), see [this repository](https://github.com/nightsense/dircolors-seabird).
-
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
 ## how seabird took flight
