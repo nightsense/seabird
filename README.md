@@ -104,6 +104,8 @@ For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnom
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
+---
+
 > ## how seabird took flight
 >
 > ### step 1: choosing a principal hue
