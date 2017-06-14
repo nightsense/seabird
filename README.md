@@ -1,11 +1,10 @@
 # seabird
 
-seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16"> for Vim, terminals, and other stuff.
+seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">.
 
-- gui (Linux/Windows GVim, MacVim, Neovim) + terminal + true (24-bit) colour
-- [VS Code](https://github.com/bbrakenhoff/seabird-vscode)
-- mathematically derived, incorporating two [contrast ratio standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) (ISO 'standard' 3:1, W3C 'AA-accessible' 4½:1)
-- four variants
+- available for [Vim](), [terminals](), and [other stuff]()
+- mathematically derived, incorporating two [contrast ratio standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) (ISO 3:1, W3C 'AA' 4½:1)
+- comes in four variants
 
 <table>
 <tr>
@@ -71,7 +70,7 @@ seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.pn
 
 </table>
 
-## installation
+## Vim theme installation
 
 ### step 1: download the colour scheme
 
@@ -95,6 +94,8 @@ To switch automatically between a 'day theme' and 'night theme', try the [night-
 
 In order for seabird to work properly in terminal Vim, set the terminal's colours to match those of the active Vim theme.
 
+## terminal themes
+
 As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/seabird/tree/master/terminal):
 - [`Xresources`](https://github.com/nightsense/seabird/tree/master/terminal/Xresources) files for **xterm** and **urxvt** (Linux)
 - [`gsettings`](https://github.com/nightsense/seabird/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
@@ -104,6 +105,10 @@ As of now, this repository provides the following [terminal configuration files]
 For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colours-seabird).
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
+
+## other themes
+
+- [VS Code](https://github.com/bbrakenhoff/seabird-vscode)
 
 <br>
 
