@@ -1,8 +1,9 @@
 # seabird
 
-seabird is a Vim and terminal theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">.
+seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16"> for Vim, terminals, and other stuff.
 
 - gui (Linux/Windows GVim, MacVim, Neovim) + terminal + true (24-bit) colour
+  - also available for: [VS Code](https://github.com/bbrakenhoff/seabird-vscode)
 - mathematically derived, incorporating two [contrast ratio standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) (ISO 'standard' 3:1, W3C 'AA-accessible' 4½:1)
 - four variants
 
@@ -104,7 +105,7 @@ For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnom
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
-<br><br>
+<br>
 
 ---
 
