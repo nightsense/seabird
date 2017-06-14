@@ -2,7 +2,7 @@
 
 seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">.
 
-- available for [Vim](https://github.com/nightsense/seabird#vim-theme), [terminals](https://github.com/nightsense/seabird#terminal-themes), and [other stuff](https://github.com/nightsense/seabird#terminal-themes)
+- available for [Vim](https://github.com/nightsense/seabird#vim-theme), [terminals](https://github.com/nightsense/seabird#terminal-themes), and [other stuff](https://github.com/nightsense/seabird#other-themes)
 - mathematically derived, incorporating two [contrast ratio standards](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head) (ISO 3:1, W3C 'AA' 4½:1)
 - comes in four variants
 
