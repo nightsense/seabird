@@ -109,6 +109,7 @@ Configuration files for other terminals may be added if [requested](https://gith
 ## other themes
 
 - [VS Code](https://github.com/bbrakenhoff/seabird-vscode)
+- [Intellij](https://github.com/bbrakenhoff/seabird-intellij)
 
 <br>
 
