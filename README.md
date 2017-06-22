@@ -98,6 +98,7 @@ In order for seabird to work properly in terminal Vim, set the terminal's colour
 
 As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/seabird/tree/master/terminal):
 - [`Xresources`](https://github.com/nightsense/seabird/tree/master/terminal/Xresources) files for **xterm** and **urxvt** (Linux)
+- [`.colorscheme`](https://github.com/nightsense/seabird/tree/master/terminal/konsole%20%26%20qterminal) files for **Konsole** and **QTerminal** (Linux)
 - [`gsettings`](https://github.com/nightsense/seabird/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
 - [`.terminal`](https://github.com/nightsense/seabird/tree/master/terminal/osx-terminal) files for **terminal.app** (OSX)
 - [`.itermcolors`](https://github.com/nightsense/seabird/tree/master/terminal/iterm2) files for **iTerm2** (OSX)
