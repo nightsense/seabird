@@ -200,6 +200,8 @@ Each block of above code alters the original colour scheme in the following ways
 
 ## rgb replacement
 
+These commands are used to transmogrify [Solarized Konsole](https://github.com/phiggins/konsole-colors-solarized) into the seabird Konsole/QTerminal themes.
+
 ### base
 
 ```
