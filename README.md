@@ -107,7 +107,7 @@ For **GNOME Terminal**, run the [`install script`](https://github.com/nightsense
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
-## other themes
+## other themes (third-party)
 
 - [VS Code](https://github.com/bbrakenhoff/seabird-vscode)
 - [Intellij](https://github.com/bbrakenhoff/seabird-intellij)
