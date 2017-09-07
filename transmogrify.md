@@ -266,3 +266,73 @@ These commands are used to transmogrify [Solarized Konsole](https://github.com/p
 %s/108,113,196/134,119,158/g |
 %s/211,54,130/153,115,131/g
 ```
+
+## gnome-terminal
+
+These commands are used to transmogrify [one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) into the seabird gnome-terminal install scripts.
+
+### seagull
+
+```
+%s/002b36/0b141a/g |
+%s/586e75/61707a/g |
+%s/657b83/6d767d/g |
+%s/93a1a1/808487/g |
+%s/fdf6e3/ffffff/g |
+
+%s/dc322f/ff4053/g |
+%s/b58900/bf8c00/g |
+%s/859900/11ab00/g |
+%s/2aa198/00a5ab/g |
+%s/268bd2/0099ff/g |
+%s/6c71c4/9854ff/g
+```
+
+### grey gull
+
+```
+%s/002b36/0b141a/g |
+%s/586e75/61707a/g |
+%s/657b83/6d767d/g |
+%s/93a1a1/808487/g |
+%s/fdf6e3/ffffff/g |
+
+%s/dc322f/db7681/g |
+%s/b58900/ad9142/g |
+%s/859900/4aa840/g |
+%s/2aa198/3fa2a6/g |
+%s/268bd2/4e9bcf/g |
+%s/6c71c4/a783de/g
+```
+
+### petrel
+
+```
+%s/002b36/0b141a/g |
+%s/657b83/6d767d/g |
+%s/93a1a1/808487/g |
+%s/fdf6e3/ffffff/g |
+
+%s/dc322f/ba656d/g |
+%s/b58900/947b38/g |
+%s/859900/3f8f36/g |
+%s/2aa198/35898c/g |
+%s/268bd2/4384b0/g |
+%s/6c71c4/8e6fbd/g
+```
+
+### storm petrel
+
+```
+%s/002b36/0b141a/g |
+%s/657b83/6d767d/g |
+%s/93a1a1/808487/g |
+%s/fdf6e3/ffffff/g |
+
+%s/dc322f/9e7276/g |
+%s/b58900/8a7c55/g |
+%s/859900/5b8a55/g |
+%s/2aa198/548587/g |
+%s/268bd2/5f8299/g |
+%s/6c71c4/86779e/g
+```

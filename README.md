@@ -103,7 +103,7 @@ As of now, this repository provides the following [terminal configuration files]
 - [`.terminal`](https://github.com/nightsense/seabird/tree/master/terminal/osx-terminal) files for **terminal.app** (OSX)
 - [`.itermcolors`](https://github.com/nightsense/seabird/tree/master/terminal/iterm2) files for **iTerm2** (OSX)
 
-For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colours-seabird).
+For **GNOME Terminal**, run the [`install script`](https://github.com/nightsense/seabird/tree/master/terminal/gnome-terminal) to create a profile for the desired seabird theme. You can then select the profile with the right-click menu, or set the profile as default via Edit > Preferences > Profiles.
 
 Configuration files for other terminals may be added if [requested](https://github.com/nightsense/seabird/issues).
 
