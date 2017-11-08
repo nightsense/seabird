@@ -1,3 +1,13 @@
+**Note: my colourscheme development efforts have shifted to [vimspectr](https://github.com/nightsense/vimspectr).**
+
+(The vimspectr equivalent of seabird is "seagrey".)
+
+.
+
+.
+
+.
+
 # seabird
 
 seabird is a theme based on hue 204 <img src="http://www.colorhexa.com/0099ff.png" height="16" width="16">.
