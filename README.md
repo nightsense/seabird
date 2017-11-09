@@ -1,6 +1,6 @@
 **Note: my colourscheme development efforts have shifted to [vimspectr](https://github.com/nightsense/vimspectr).**
 
-(The vimspectr equivalent of seabird is "seagrey".)
+(The vimspectr equivalent of seabird is ["seagrey"](https://github.com/nightsense/vimspectr#seagrey).)
 
 .
 
