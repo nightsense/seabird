@@ -1,6 +1,8 @@
 **Note: my colourscheme development efforts have shifted to [vimspectr](https://github.com/nightsense/vimspectr).**
 
-(The vimspectr equivalent of seabird is ["seagrey"](https://github.com/nightsense/vimspectr#seagrey).)
+> The vimspectr equivalent of seagull/greygull is `vimspectr210wcurve-light`.
+>
+> The vimspectr equivalent of petrel/stormpetrel is `vimspectr210wcurve-dark`.
 
 .
 
