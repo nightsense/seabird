@@ -1,6 +1,44 @@
 **Note: my colourscheme development efforts have shifted to [vimspectr](https://github.com/nightsense/vimspectr).**
 
-> The vimspectr equivalent of seagull/greygull is `vimspectr210wcurve-light`.
+> To load the vimspectr equivalent of a seabird theme, add the following to your `vimrc`:
+>
+> - seagull
+>
+> ```
+> let g:vimspectr210wcurve_light_MuteStatusLine = 'on'
+> let g:vimspectr210wcurve_light_MuteLineNr = 'on'
+> let g:vimspectr210wcurve_light_ItalicComment = 'on'
+> color vimspectr210wcurve-light
+> ```
+>
+> - greygull
+>
+> ```
+> let g:vimspectr210wcurve_light_MuteAccents = 'on'
+> let g:vimspectr210wcurve_light_MuteStatusLine = 'on'
+> let g:vimspectr210wcurve_light_MuteLineNr = 'on'
+> let g:vimspectr210wcurve_light_ItalicComment = 'on'
+> color vimspectr210wcurve-light
+> ```
+>
+> - petrel
+>
+> ```
+> let g:vimspectr210wcurve_dark_MuteStatusLine = 'on'
+> let g:vimspectr210wcurve_dark_MuteLineNr = 'on'
+> let g:vimspectr210wcurve_dark_ItalicComment = 'on'
+> color vimspectr210wcurve-dark
+> ```
+>
+> - stormpetrel
+>
+> ```
+> let g:vimspectr210wcurve_dark = 'on'
+> let g:vimspectr210wcurve_dark_MuteStatusLine = 'on'
+> let g:vimspectr210wcurve_dark_MuteLineNr = 'on'
+> let g:vimspectr210wcurve_dark_ItalicComment = 'on'
+> color vimspectr210wcurve-dark
+> ```
 >
 > The vimspectr equivalent of petrel/stormpetrel is `vimspectr210wcurve-dark`.
 
