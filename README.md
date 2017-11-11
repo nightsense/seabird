@@ -39,8 +39,6 @@
 > let g:vimspectr210wcurve_dark_ItalicComment = 'on'
 > color vimspectr210wcurve-dark
 > ```
->
-> The vimspectr equivalent of petrel/stormpetrel is `vimspectr210wcurve-dark`.
 
 .
 
