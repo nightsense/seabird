@@ -33,7 +33,7 @@
 > - stormpetrel
 >
 > ```
-> let g:vimspectr210wcurve_dark = 'on'
+> let g:vimspectr210wcurve_dark_MuteAccents = 'on'
 > let g:vimspectr210wcurve_dark_MuteStatusLine = 'on'
 > let g:vimspectr210wcurve_dark_MuteLineNr = 'on'
 > let g:vimspectr210wcurve_dark_ItalicComment = 'on'
