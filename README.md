@@ -5,7 +5,6 @@
 > - seagull/greygull
 >
 > ```
-> let g:vimspectrMuteStatusLine = 'on'
 > let g:vimspectrMuteLineNr = 'on'
 > let g:vimspectrItalicComment = 'on'
 > color vimspectr210-light
@@ -14,7 +13,6 @@
 > - petrel/stormpetrel
 >
 > ```
-> let g:vimspectrMuteStatusLine = 'on'
 > let g:vimspectrMuteLineNr = 'on'
 > let g:vimspectrItalicComment = 'on'
 > color vimspectr210-dark
