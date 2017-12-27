@@ -2,42 +2,22 @@
 
 > To load the vimspectr equivalent of a seabird theme, add the following to your `vimrc`:
 >
-> - seagull
+> - seagull/greygull
 >
 > ```
-> let g:vimspectr210wcurve_light_MuteStatusLine = 'on'
-> let g:vimspectr210wcurve_light_MuteLineNr = 'on'
-> let g:vimspectr210wcurve_light_ItalicComment = 'on'
-> color vimspectr210wcurve-light
+> let g:vimspectrMuteStatusLine = 'on'
+> let g:vimspectrMuteLineNr = 'on'
+> let g:vimspectrItalicComment = 'on'
+> color vimspectr210-light
 > ```
 >
-> - greygull
+> - petrel/stormpetrel
 >
 > ```
-> let g:vimspectr210wcurve_light_MuteAccents = 'on'
-> let g:vimspectr210wcurve_light_MuteStatusLine = 'on'
-> let g:vimspectr210wcurve_light_MuteLineNr = 'on'
-> let g:vimspectr210wcurve_light_ItalicComment = 'on'
-> color vimspectr210wcurve-light
-> ```
->
-> - petrel
->
-> ```
-> let g:vimspectr210wcurve_dark_MuteStatusLine = 'on'
-> let g:vimspectr210wcurve_dark_MuteLineNr = 'on'
-> let g:vimspectr210wcurve_dark_ItalicComment = 'on'
-> color vimspectr210wcurve-dark
-> ```
->
-> - stormpetrel
->
-> ```
-> let g:vimspectr210wcurve_dark_MuteAccents = 'on'
-> let g:vimspectr210wcurve_dark_MuteStatusLine = 'on'
-> let g:vimspectr210wcurve_dark_MuteLineNr = 'on'
-> let g:vimspectr210wcurve_dark_ItalicComment = 'on'
-> color vimspectr210wcurve-dark
+> let g:vimspectrMuteStatusLine = 'on'
+> let g:vimspectrMuteLineNr = 'on'
+> let g:vimspectrItalicComment = 'on'
+> color vimspectr210-dark
 > ```
 
 .
