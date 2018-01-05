@@ -7,6 +7,7 @@
 > ```
 > let g:vimspectrMuteLineNr = 'on'
 > let g:vimspectrItalicComment = 'on'
+> let g:vimspectrMuteStatusLine = 'on'
 > color vimspectr210-light
 > ```
 >
@@ -15,6 +16,7 @@
 > ```
 > let g:vimspectrMuteLineNr = 'on'
 > let g:vimspectrItalicComment = 'on'
+> let g:vimspectrMuteStatusLine = 'on'
 > color vimspectr210-dark
 > ```
 
