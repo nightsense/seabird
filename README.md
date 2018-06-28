@@ -1,24 +1,4 @@
-**Note: my colourscheme development efforts have shifted to [vimspectr](https://github.com/nightsense/vimspectr).**
-
-> To load the vimspectr equivalent of a seabird theme, add the following to your `vimrc`:
->
-> - seagull/greygull
->
-> ```
-> let g:vimspectrMuteLineNr = 'on'
-> let g:vimspectrItalicComment = 'on'
-> let g:vimspectrMuteStatusLine = 'on'
-> color vimspectr210-light
-> ```
->
-> - petrel/stormpetrel
->
-> ```
-> let g:vimspectrMuteLineNr = 'on'
-> let g:vimspectrItalicComment = 'on'
-> let g:vimspectrMuteStatusLine = 'on'
-> color vimspectr210-dark
-> ```
+**Note: this repository is archived; my active blue-tinted vim theme is [snow](https://github.com/nightsense/snow).**
 
 .
 
